@@ -1,0 +1,106 @@
+{
+    "security_contexts": {
+        "military": [
+            "military",
+            "armed forces",
+            "defense",
+            "army",
+            "weapons",
+            "military capabilities",
+            "military power",
+            "military potential"
+        ],
+        "economic": [
+            "economic",
+            "economy",
+            "financial",
+            "market",
+            "trade",
+            "budget",
+            "resources",
+            "economic potential"
+        ],
+        "political": [
+            "political",
+            "government",
+            "state",
+            "policy",
+            "democracy",
+            "diplomatic",
+            "political system",
+            "governance"
+        ],
+        "social": [
+            "social",
+            "society",
+            "population",
+            "citizens",
+            "public",
+            "social system",
+            "community",
+            "social groups"
+        ],
+        "international": [
+            "international",
+            "global",
+            "foreign",
+            "international relations",
+            "international community",
+            "international system",
+            "world",
+            "international organizations"
+        ],
+        "technological": [
+            "technological",
+            "technology",
+            "innovation",
+            "digital",
+            "cyber",
+            "information systems",
+            "technological development",
+            "infrastructure"
+        ],
+        "environmental": [
+            "environmental",
+            "climate",
+            "natural",
+            "environment",
+            "ecological",
+            "environmental security",
+            "environmental protection",
+            "natural resources"
+        ]
+    },
+    "context_modifiers": {
+        "positive": [
+            "development",
+            "improvement",
+            "growth",
+            "progress",
+            "cooperation",
+            "stability",
+            "success",
+            "achievement"
+        ],
+        "negative": [
+            "threat",
+            "risk",
+            "challenge",
+            "problem",
+            "crisis",
+            "conflict",
+            "vulnerability",
+            "weakness"
+        ],
+        "neutral": [
+            "change",
+            "transformation",
+            "process",
+            "situation",
+            "condition",
+            "state",
+            "factor",
+            "influence"
+        ]
+    }
+}

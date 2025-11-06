@@ -1,0 +1,130 @@
+import json
+from pathlib import Path
+from collections import defaultdict
+from typing import Dict, List, Tuple
+
+from config import RESULTS_DIR
+from utils.file_manager import write_json_file
+from modules_extractors.term_weight_extractor import TermWeightExtractor
+from modules_extractors.context_analyzer import ContextAnalyzer
+
+
+class ScenarioAnalyzer:
+    """Клас за анализ на сценарии с използване на тегла на термините."""
+    
+    def __init__(self):
+        """Инициализира анализатора."""
+        self.term_extractor = TermWeightExtractor()
+        self.context_analyzer = ContextAnalyzer()
+        
+        # Първо извличаме и изчисляваме теглата на термините от всички документи
+        print("🔄 Изчисляване на тегла на термините...")
+        self.term_extractor.process_documents()
+        
+    def analyze_weighted_sentiment(self, text: str) -> Dict[str, dict]:
+        """Анализира емоционалната окраска на текст, използвайки тегла."""
+        text = text.lower()
+        sentiment_scores = {
+            "positive": {"terms": [], "total_weight": 0.0},
+            "negative": {"terms": [], "total_weight": 0.0},
+            "neutral": {"terms": [], "total_weight": 0.0}
+        }
+        
+        # Проверяваме за всички възможни термини
+        for term_set in [self.term_extractor.positive_terms,
+                        self.term_extractor.negative_terms,
+                        self.term_extractor.neutral_terms]:
+            for term in term_set:
+                if term in text:
+                    term_type, weight = self.term_extractor.get_term_weight(term)
+                    if term_type:
+                        sentiment_scores[term_type]["terms"].append({
+                            "term": term,
+                            "weight": weight
+                        })
+                        sentiment_scores[term_type]["total_weight"] += weight
+                        
+        return sentiment_scores
+    
+    def get_dominant_sentiment(self, sentiment_scores: Dict[str, dict]) -> Tuple[str, float]:
+        """Определя доминиращия сантимент според теглата."""
+        max_weight = 0.0
+        dominant_type = "neutral"
+        
+        for sent_type, data in sentiment_scores.items():
+            if data["total_weight"] > max_weight:
+                max_weight = data["total_weight"]
+                dominant_type = sent_type
+                
+        return dominant_type, max_weight
+    
+    def analyze_scenario(self, scenario: dict) -> dict:
+        """Анализира един сценарий, добавяйки информация за тегла."""
+        # Анализираме контекста и теглата за цялото изречение
+        sentence_sentiment = self.analyze_weighted_sentiment(scenario["sentence"])
+        sentence_context = self.context_analyzer.analyze_sentence_context(scenario["sentence"])
+        
+        # Анализираме контекста и теглата само за фразата с действието
+        action_sentiment = self.analyze_weighted_sentiment(scenario["action_phrase"])
+        action_context = self.context_analyzer.analyze_sentence_context(scenario["action_phrase"])
+        
+        # Определяме доминиращите типове
+        dominant_sentiment, sentiment_weight = self.get_dominant_sentiment(sentence_sentiment)
+        dominant_context, _ = self.context_analyzer.get_dominant_context(sentence_context)
+        
+        # Създаваме обогатен анализ
+        enriched_analysis = {
+            "context_analysis": {
+                "sentence": {
+                    "context": sentence_context,
+                    "sentiment": sentence_sentiment
+                },
+                "action": {
+                    "context": action_context,
+                    "sentiment": action_sentiment
+                },
+                "dominant_context": dominant_context,
+                "dominant_sentiment": {
+                    "type": dominant_sentiment,
+                    "weight": sentiment_weight
+                }
+            }
+        }
+        
+        # Обединяваме оригиналния сценарий с новия анализ
+        return {**scenario, **enriched_analysis}
+    
+    def process_scenarios_file(self, file_path: Path):
+        """Обработва файл със сценарии и добавя обогатен анализ."""
+        print(f"📄 Анализ на сценарии от {file_path.name}...")
+        
+        # Зареждаме сценариите
+        with open(file_path, "r", encoding="utf-8") as f:
+            scenarios_data = json.load(f)
+            
+        # Обработваме всеки сценарий
+        enriched_scenarios = {}
+        for actor, scenarios in scenarios_data.items():
+            enriched_scenarios[actor] = [
+                self.analyze_scenario(scenario)
+                for scenario in scenarios
+            ]
+            
+        # Записваме обогатените сценарии
+        write_json_file(enriched_scenarios, file_path)
+        print(f"✅ Обогатените сценарии са записани в {file_path}")
+        
+    def process_all_scenarios(self):
+        """Обработва всички налични файлове със сценарии."""
+        scenarios_dir = Path(RESULTS_DIR) / "scenarios"
+        for file in scenarios_dir.glob("*_scenarios.json"):
+            self.process_scenarios_file(file)
+
+
+def main():
+    analyzer = ScenarioAnalyzer()
+    analyzer.process_all_scenarios()
+    
+
+if __name__ == "__main__":
+    main()

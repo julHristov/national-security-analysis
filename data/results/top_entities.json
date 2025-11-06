@@ -1,0 +1,38 @@
+{
+  "1_NS_Concept_1998_ENG": {
+    "bulgaria": 32,
+    "bulgarian": 22,
+    "european": 19,
+    "the republic of bulgaria": 7,
+    "nato": 6,
+    "balkans": 6,
+    "the national assembly": 6,
+    "europe": 5,
+    "the council of ministers": 5,
+    "eu": 4
+  },
+  "2_NS_Strategy_2011_ENG": {
+    "eu": 46,
+    "bulgaria": 39,
+    "the republic of bulgaria": 35,
+    "nato": 34,
+    "state": 24,
+    "bulgarian": 17,
+    "european": 17,
+    "the national assembly": 8,
+    "national security strategy": 6,
+    "the council of ministers": 6
+  },
+  "3_Updated_NS_Strategy_2018_ENG": {
+    "eu": 66,
+    "the republic of bulgaria": 50,
+    "nato": 40,
+    "bulgaria": 37,
+    "bulgarian": 36,
+    "european": 17,
+    "the council of ministers": 10,
+    "the national assembly": 8,
+    "europe": 8,
+    "the black sea": 7
+  }
+}

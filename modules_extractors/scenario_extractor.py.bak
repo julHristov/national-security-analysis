@@ -1,0 +1,110 @@
+import spacy
+import json
+import argparse
+from pathlib import Path
+from tqdm import tqdm
+from collections import defaultdict
+
+from config import CLEAN_DIR, RESULTS_DIR, SPACY_MODEL
+from utils.file_manager import read_text_file, write_json_file
+from utils.normalizer import load_normalization_map, normalize_entity
+from modules_extractors.context_analyzer import ContextAnalyzer
+
+
+# =========================
+# === ENTITY → RELATION ===
+# =========================
+
+def load_entities_for_doc(doc_stem: str):
+    """Зарежда вече извлечените и нормализирани ентитети за документа."""
+    entities_path = Path(RESULTS_DIR) / "top_entities.json"
+    if not entities_path.exists():
+        raise FileNotFoundError(f"⚠️ Не е открит {entities_path}")
+    with open(entities_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return data.get(doc_stem, {})
+
+
+def choose_actors(doc_entities: dict, mapping: dict, actor_name: str = None, top_n: int = 5):
+    """Връща списък с актьори – ако е подаден actor_name, връща само него; иначе топ N от документа."""
+    if actor_name:
+        return [normalize_entity(actor_name.lower(), mapping)]
+    else:
+        sorted_entities = sorted(doc_entities.items(), key=lambda x: x[1], reverse=True)
+        top_actors = [normalize_entity(a.lower(), mapping) for a, _ in sorted_entities[:top_n]]
+        return top_actors
+
+
+def extract_scenarios_for_actor(doc, actor: str, context_analyzer: ContextAnalyzer):
+    """Търси изречения с участието на actor и извлича действия и цели (Actor → Act → Target)."""
+    scenarios = []
+    for sent in doc.sents:
+        sent_text = sent.text.strip()
+        if actor.lower() not in sent_text.lower():
+            continue
+
+        for token in sent:
+            # Проверяваме дали актьорът е подлог (nsubj/nsubjpass)
+            if token.dep_ in ("nsubj", "nsubjpass") and actor.lower() in token.text.lower():
+                verb = token.head.lemma_
+                action_phrase = " ".join([t.text for t in token.head.subtree])
+                # Опитваме се да намерим целта (dobj, pobj)
+                targets = [child.text for child in token.head.children if child.dep_ in ("dobj", "pobj", "attr")]
+                if not targets:
+                    targets = [t.text for t in token.head.subtree if t.dep_ in ("dobj", "pobj")]
+
+                scenario = {
+                    "actor_1": actor,
+                    "action": verb,
+                    "action_phrase": action_phrase,
+                    "targets": targets,
+                    "sentence": sent_text
+                }
+                
+                # Добавяме анализ на контекста
+                scenario = context_analyzer.analyze_scenario_context(scenario)
+                scenarios.append(scenario)
+
+    return scenarios
+
+
+def process_document(doc_path: Path, actor_name: str = None, top_n: int = 5):
+    """Извлича сценариите за подаден документ и актьор (или топ N актьора)."""
+    print(f"📄 Обработка на {doc_path.name} ...")
+
+    nlp = spacy.load(SPACY_MODEL)
+    mapping = load_normalization_map()
+    context_analyzer = ContextAnalyzer()
+    
+    text = read_text_file(doc_path)
+    doc = nlp(text)
+
+    entities = load_entities_for_doc(doc_path.stem)
+    actors = choose_actors(entities, mapping, actor_name, top_n)
+
+    all_scenarios = defaultdict(list)
+    for actor in tqdm(actors, desc=f"🔍 Извличане на сценарии ({doc_path.stem})"):
+        scenarios = extract_scenarios_for_actor(doc, actor, context_analyzer)
+        all_scenarios[actor].extend(scenarios)
+
+    # === Запис на резултатите ===
+    out_dir = Path(RESULTS_DIR) / "scenarios"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{doc_path.stem}_scenarios.json"
+    write_json_file(all_scenarios, out_path)
+    print(f"✅ Сценариите са записани в {out_path}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Entity → Relation Scenario Extractor")
+    parser.add_argument("--actor", type=str, help="Избери актьор (ако не е зададен, се ползват топ 5)")
+    parser.add_argument("--top-n", type=int, default=5, help="Брой топ актьори по подразбиране")
+    args = parser.parse_args()
+
+    clean_dir = Path(CLEAN_DIR)
+    for file in clean_dir.glob("*.txt"):
+        process_document(file, args.actor, args.top_n)
+
+
+if __name__ == "__main__":
+    main()

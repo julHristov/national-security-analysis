@@ -1,0 +1,23 @@
+[
+    {"term": "region", "weight": 0.7},
+    {"term": "internat", "weight": 0.7},
+    {"term": "cyber", "weight": 0.7},
+    {"term": "space", "weight": 0.7},
+    {"term": "resourc", "weight": 0.7},
+    {"term": "factor", "weight": 0.7},
+    {"term": "level", "weight": 0.7},
+    {"term": "defin", "weight": 0.7},
+    {"term": "goal", "weight": 0.7},
+    {"term": "system", "weight": 0.7},
+    {"term": "intern", "weight": 0.7},
+    {"term": "signific", "weight": 0.7},
+    {"term": "process", "weight": 0.7},
+    {"term": "develop", "weight": 0.7},
+    {"term": "populat", "weight": 0.7},
+    {"term": "requir", "weight": 0.7},
+    {"term": "tradition", "weight": 0.7},
+    {"term": "relat", "weight": 0.7},
+    {"term": "polit", "weight": 0.7},
+    {"term": "social", "weight": 0.7},
+    {"term": "inform", "weight": 0.7}
+]

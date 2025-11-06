@@ -1,0 +1,380 @@
+[
+  {
+    "relation_text": "cooperate",
+    "relation_type": "COOPERATES_WITH",
+    "start": 42166,
+    "end": 42175
+  },
+  {
+    "relation_text": "support",
+    "relation_type": "SUPPORTS",
+    "start": 32541,
+    "end": 32548
+  },
+  {
+    "relation_text": "support",
+    "relation_type": "SUPPORTS",
+    "start": 37695,
+    "end": 37702
+  },
+  {
+    "relation_text": "support",
+    "relation_type": "SUPPORTS",
+    "start": 55145,
+    "end": 55152
+  },
+  {
+    "relation_text": "support",
+    "relation_type": "SUPPORTS",
+    "start": 56263,
+    "end": 56270
+  },
+  {
+    "relation_text": "support",
+    "relation_type": "SUPPORTS",
+    "start": 66710,
+    "end": 66717
+  },
+  {
+    "relation_text": "help",
+    "relation_type": "SUPPORTS",
+    "start": 45796,
+    "end": 45800
+  },
+  {
+    "relation_text": "help",
+    "relation_type": "SUPPORTS",
+    "start": 60786,
+    "end": 60790
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 43988,
+    "end": 43998
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 46110,
+    "end": 46120
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 48103,
+    "end": 48113
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 48730,
+    "end": 48740
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 49673,
+    "end": 49683
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 50278,
+    "end": 50288
+  },
+  {
+    "relation_text": "strengthen",
+    "relation_type": "SUPPORTS",
+    "start": 51248,
+    "end": 51258
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 8897,
+    "end": 8904
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 9103,
+    "end": 9110
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 17247,
+    "end": 17254
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 31621,
+    "end": 31628
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 47863,
+    "end": 47870
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 48205,
+    "end": 48212
+  },
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 65760,
+    "end": 65767
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 2683,
+    "end": 2690
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 46066,
+    "end": 46073
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 47121,
+    "end": 47128
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 49087,
+    "end": 49094
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 49821,
+    "end": 49828
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 58163,
+    "end": 58170
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 63394,
+    "end": 63401
+  },
+  {
+    "relation_text": "threaten",
+    "relation_type": "THREATENS",
+    "start": 43639,
+    "end": 43647
+  },
+  {
+    "relation_text": "threaten",
+    "relation_type": "THREATENS",
+    "start": 65289,
+    "end": 65297
+  },
+  {
+    "relation_text": "undermine",
+    "relation_type": "THREATENS",
+    "start": 21707,
+    "end": 21716
+  },
+  {
+    "relation_text": "undermine",
+    "relation_type": "THREATENS",
+    "start": 23013,
+    "end": 23022
+  },
+  {
+    "relation_text": "undermine",
+    "relation_type": "THREATENS",
+    "start": 65301,
+    "end": 65310
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 8959,
+    "end": 8965
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 30500,
+    "end": 30506
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 35252,
+    "end": 35258
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 55343,
+    "end": 55349
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 55615,
+    "end": 55621
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 413,
+    "end": 422
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 5176,
+    "end": 5185
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 6447,
+    "end": 6456
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 7155,
+    "end": 7164
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 8457,
+    "end": 8466
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 13843,
+    "end": 13852
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 26547,
+    "end": 26556
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 34285,
+    "end": 34294
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 38564,
+    "end": 38573
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 38696,
+    "end": 38705
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 39742,
+    "end": 39751
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 47677,
+    "end": 47686
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 51310,
+    "end": 51319
+  },
+  {
+    "relation_text": "maintain",
+    "relation_type": "ENSURES",
+    "start": 32668,
+    "end": 32676
+  },
+  {
+    "relation_text": "maintain",
+    "relation_type": "ENSURES",
+    "start": 42282,
+    "end": 42290
+  },
+  {
+    "relation_text": "maintain",
+    "relation_type": "ENSURES",
+    "start": 58343,
+    "end": 58351
+  },
+  {
+    "relation_text": "join",
+    "relation_type": "JOINS",
+    "start": 2588,
+    "end": 2592
+  },
+  {
+    "relation_text": "join",
+    "relation_type": "JOINS",
+    "start": 5685,
+    "end": 5689
+  },
+  {
+    "relation_text": "counter",
+    "relation_type": "COUNTERS",
+    "start": 27789,
+    "end": 27796
+  },
+  {
+    "relation_text": "counter",
+    "relation_type": "COUNTERS",
+    "start": 42459,
+    "end": 42466
+  },
+  {
+    "relation_text": "counter",
+    "relation_type": "COUNTERS",
+    "start": 47366,
+    "end": 47373
+  },
+  {
+    "relation_text": "counter",
+    "relation_type": "COUNTERS",
+    "start": 65407,
+    "end": 65414
+  },
+  {
+    "relation_text": "fight",
+    "relation_type": "COUNTERS",
+    "start": 18824,
+    "end": 18829
+  },
+  {
+    "relation_text": "fight",
+    "relation_type": "COUNTERS",
+    "start": 44308,
+    "end": 44313
+  }
+]

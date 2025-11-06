@@ -1,0 +1,73 @@
+{
+  "ACTOR": {
+    "description": "States, organizations, alliances or institutions that perform actions or hold agency in the text.",
+    "spacy_labels": ["ORG", "GPE", "NORP"],
+    "examples": [
+      "Bulgaria", "Romania", "Turkey", "Russia", "Ukraine", "Serbia",
+      "United States", "NATO", "European Union", "EU", "UN", "United Nations",
+      "Council of Europe", "OSCE", "Black Sea states", "the Allies",
+      "the government", "the parliament", "the armed forces"
+    ],
+    "context_keywords": [
+      "state", "government", "organization", "alliance", "institution",
+      "partner", "country", "member", "force", "agency"
+    ],
+    "weight": 1.0
+  },
+
+  "REGION": {
+    "description": "Geographical or strategic regions with geopolitical relevance.",
+    "spacy_labels": ["LOC", "GPE"],
+    "examples": [
+      "the Balkans", "Western Balkans", "Black Sea region",
+      "Caucasus", "Europe", "the Middle East", "Eastern Europe",
+      "Southeast Europe", "Euro-Atlantic area"
+    ],
+    "context_keywords": ["region", "area", "zone", "territory"],
+    "weight": 0.85
+  },
+
+  "CONCEPT": {
+    "description": "Abstract strategic, political, or security-related ideas and frameworks.",
+    "spacy_labels": ["NOUN"],
+    "examples": [
+      "security", "stability", "peace", "strategy", "policy", "defense",
+      "sovereignty", "integration", "resilience", "cooperation",
+      "crisis management", "innovation", "development", "values"
+    ],
+    "context_keywords": ["concept", "principle", "idea", "framework", "approach"],
+    "weight": 0.75
+  },
+
+  "THREAT": {
+    "description": "Entities, forces or conditions that pose risks or adversarial actions.",
+    "spacy_labels": ["NOUN"],
+    "examples": [
+      "terrorism", "cyber attacks", "hybrid threats", "aggression",
+      "instability", "war", "violence", "conflict", "espionage",
+      "propaganda", "organized crime", "hostility", "danger"
+    ],
+    "context_keywords": ["threat", "attack", "aggression", "risk", "challenge"],
+    "weight": 0.9
+  },
+
+  "VALUE": {
+    "description": "Normative, ideological or ethical principles represented in the text.",
+    "spacy_labels": ["NOUN", "ADJ"],
+    "examples": [
+      "democracy", "freedom", "rule of law", "justice",
+      "solidarity", "responsibility", "equality",
+      "human rights", "commitment", "integrity"
+    ],
+    "context_keywords": ["principle", "value", "norm", "ethic", "ideal"],
+    "weight": 0.7
+  },
+
+  "UNKNOWN": {
+    "description": "Temporary category for unclassified entities; may later be assigned via contextual similarity.",
+    "spacy_labels": [],
+    "examples": [],
+    "context_keywords": [],
+    "weight": 0.3
+  }
+}

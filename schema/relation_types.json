@@ -1,0 +1,37 @@
+{
+  "COOPERATES_WITH": {
+    "description": "When two actors work together towards common goals.",
+    "examples": ["cooperate", "collaborate", "work with", "partner with", "coordinate with"],
+    "patterns": ["ACTOR VERB ACTOR"]
+  },
+  "SUPPORTS": {
+    "description": "When an actor provides support, aid, or backing to another actor or concept.",
+    "examples": ["support", "assist", "help", "reinforce", "strengthen"],
+    "patterns": ["ACTOR VERB ACTOR", "ACTOR VERB CONCEPT"]
+  },
+  "PROMOTES": {
+    "description": "When an actor promotes or advances a concept or value.",
+    "examples": ["promote", "encourage", "advance", "foster", "develop"],
+    "patterns": ["ACTOR VERB CONCEPT", "ACTOR VERB VALUE"]
+  },
+  "THREATENS": {
+    "description": "When an actor or threat endangers another actor or concept.",
+    "examples": ["threaten", "undermine", "destabilize", "attack", "oppose"],
+    "patterns": ["THREAT VERB ACTOR", "ACTOR VERB THREAT"]
+  },
+  "ENSURES": {
+    "description": "When an actor guarantees or safeguards a concept or value.",
+    "examples": ["ensure", "guarantee", "secure", "maintain", "preserve"],
+    "patterns": ["ACTOR VERB CONCEPT", "ACTOR VERB VALUE"]
+  },
+  "JOINS": {
+    "description": "When an actor joins another group or alliance.",
+    "examples": ["join", "enter", "become part of", "integrate into"],
+    "patterns": ["ACTOR VERB ACTOR"]
+  },
+  "COUNTERS": {
+    "description": "When an actor responds to or opposes a threat or actor.",
+    "examples": ["counter", "oppose", "resist", "respond to", "fight"],
+    "patterns": ["ACTOR VERB THREAT", "ACTOR VERB ACTOR"]
+  }
+}

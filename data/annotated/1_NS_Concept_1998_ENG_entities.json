@@ -1,0 +1,218 @@
+{
+  "document": "1_NS_Concept_1998_ENG.txt",
+  "total_words": 3708,
+  "entities": {
+    "national security concept of the republic of bulgaria introduction 1": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the national security concept": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the republic of bulgaria": {
+      "count": 7,
+      "relative_frequency": 0.18878
+    },
+    "bulgarian": {
+      "count": 22,
+      "relative_frequency": 0.59331
+    },
+    "european": {
+      "count": 19,
+      "relative_frequency": 0.51241
+    },
+    "euroatlantic": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the north atlantic treaty organisation": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "nato": {
+      "count": 6,
+      "relative_frequency": 0.16181
+    },
+    "the european union": {
+      "count": 3,
+      "relative_frequency": 0.08091
+    },
+    "eu": {
+      "count": 4,
+      "relative_frequency": 0.10787
+    },
+    "the west european union": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "weu": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the organisation for security and co-operation": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "europe": {
+      "count": 5,
+      "relative_frequency": 0.13484
+    },
+    "osce": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the un security council": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "bulgaria": {
+      "count": 32,
+      "relative_frequency": 0.863
+    },
+    "the warsaw treaty organisation": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "central and eastern europe": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "yugoslavia": {
+      "count": 2,
+      "relative_frequency": 0.05394
+    },
+    "grey.": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "central": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "eastern europe": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "south -eastern europe": {
+      "count": 2,
+      "relative_frequency": 0.05394
+    },
+    "balkans": {
+      "count": 6,
+      "relative_frequency": 0.16181
+    },
+    "caucasus": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "central asian": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "via": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "national security": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the national security": {
+      "count": 2,
+      "relative_frequency": 0.05394
+    },
+    "the national assembly": {
+      "count": 6,
+      "relative_frequency": 0.16181
+    },
+    "bulgarians": {
+      "count": 2,
+      "relative_frequency": 0.05394
+    },
+    "fatherland": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "factors of national security": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "south-eastern europe": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "caucasian": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the middle east": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "central asia": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "balkan": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the commonwealth of independent states": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the armed forces": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "organization and functions of": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the council of ministers": {
+      "count": 5,
+      "relative_frequency": 0.13484
+    },
+    "the national security advisory council": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "permanent national security committee": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "committee on foreign integration policy": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "security council": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "defense": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "interior": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "gs of ba": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the chiefs of the intelligence and counter": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "council": {
+      "count": 1,
+      "relative_frequency": 0.02697
+    },
+    "the security council": {
+      "count": 3,
+      "relative_frequency": 0.08091
+    }
+  }
+}

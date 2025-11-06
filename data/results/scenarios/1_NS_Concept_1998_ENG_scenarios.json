@@ -1,0 +1,538 @@
+{
+    }
+  ]
+}
+  },
+        {
+          "actor_1": "bulgaria",
+          "action": "be",
+          "action_phrase": "Bulgaria is not in a position to ensure its security on its own or to seek security through neutrality , because of the insufficient financial , economic and military potentials .",
+          "targets": ["position", "security", "own", "security", "neutrality", "potentials"],
+          "sentence": "Bulgaria is not in a position to ensure its security on its own or to seek security through neutrality, because of the insufficient financial, economic and military potentials.",
+          "context_analysis": {
+            "sentence": {
+              "context": {"military": 2, "economic": 2},
+              "sentiment": {
+                "positive": {"terms": [{"term": "neutral", "weight": 0.11559792027729637}, {"term": "secur", "weight": 1.0}], "total_weight": 1.1155979202772963},
+                "negative": {"terms": [{"term": "milit", "weight": 0.5308510638297873}], "total_weight": 0.5308510638297873},
+                "neutral": {"terms": [], "total_weight": 0.0}
+              }
+            },
+            "action": {
+              "context": {"military": 2, "economic": 2},
+              "sentiment": {
+                "positive": {"terms": [{"term": "neutral", "weight": 0.11559792027729637}, {"term": "secur", "weight": 1.0}], "total_weight": 1.1155979202772963},
+                "negative": {"terms": [{"term": "milit", "weight": 0.5308510638297873}], "total_weight": 0.5308510638297873},
+                "neutral": {"terms": [], "total_weight": 0.0}
+              }
+            },
+            "dominant_context": "military",
+            "dominant_sentiment": {"type": "positive", "weight": 1.1155979202772963}
+          }
+        },
+        {
+                  },
+                },
+          "actor_1": "bulgaria",
+          "action": "have",
+          "action_phrase": "Bulgaria has the potential to be a significant security and stability factor in South -Eastern Europe .",
+          "targets": ["potential"],
+          "sentence": "Bulgaria has the potential to be a significant security and stability factor in South -Eastern Europe.",
+          "context_analysis": {
+            "sentence": {
+              "context": {},
+              "sentiment": {
+                "positive": {"terms": [{"term": "euro", "weight": 0.3168110918544194}, {"term": "secur", "weight": 1.0}, {"term": "stabil", "weight": 0.1904679376083189}], "total_weight": 1.5072790294627383},
+                "negative": {"terms": [], "total_weight": 0.0},
+                "neutral": {"terms": [], "total_weight": 0.0}
+              }
+            },
+            "action": {
+              "context": {},
+              "sentiment": {
+                "positive": {"terms": [{"term": "euro", "weight": 0.3168110918544194}, {"term": "secur", "weight": 1.0}, {"term": "stabil", "weight": 0.1904679376083189}], "total_weight": 1.5072790294627383},
+                "negative": {"terms": [], "total_weight": 0.0},
+                "neutral": {"terms": [], "total_weight": 0.0}
+              }
+            },
+            "dominant_context": "economic",
+            "dominant_sentiment": {"type": "positive", "weight": 1.5072790294627383}
+          }
+        }
+      ]
+                },
+                {
+                  "term": "signific",
+                  "weight": 0.25
+                }
+              ],
+              "total_weight": 0.5145161290322581
+            }
+          }
+        },
+        "action": {
+          "context": {},
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "euro",
+                  "weight": 0.3168110918544194
+                },
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                },
+                {
+                  "term": "stabil",
+                  "weight": 0.1904679376083189
+                }
+              ],
+              "total_weight": 1.5072790294627383
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "factor",
+                  "weight": 0.2645161290322581
+                },
+                {
+                  "term": "signific",
+                  "weight": 0.25
+                }
+              ],
+              "total_weight": 0.5145161290322581
+            }
+          }
+        },
+        "dominant_context": "undefined",
+        "dominant_sentiment": {
+          "type": "positive",
+          "weight": 1.5072790294627383
+        }
+  }
+    },
+    {
+      "actor_1": "bulgaria",
+      "action": "solve",
+      "action_phrase": "for Bulgaria to solve independently its internal , political , economic and social problems",
+      "targets": ["problems"],
+      "sentence": "The major pre-requisite for the realisation of the national interests is the preservation of the possibilities for Bulgaria to solve independently its internal, political, economic and social problems, and arrange its relations with other states and communities despite the intentions, positions and interests of third countries.",
+      "context_analysis": {
+        "sentence": {
+          "context": {
+            "economic": 1,
+            "political": 2,
+            "social": 1
+          },
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "unit",
+                  "weight": 0.22790294627383015
+                },
+                {
+                  "term": "nation",
+                  "weight": 0.9048526863084922
+                },
+                {
+                  "term": "communit",
+                  "weight": 0.15771230502599654
+                },
+                {
+                  "term": "preserv",
+                  "weight": 0.12027729636048527
+                },
+                {
+                  "term": "state",
+                  "weight": 0.38388214904679374
+                }
+              ],
+              "total_weight": 1.794627383015598
+            },
+            "negative": {
+              "terms": [
+                {
+                  "term": "problem",
+                  "weight": 0.301063829787234
+                }
+              ],
+              "total_weight": 0.301063829787234
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "social",
+                  "weight": 0.3612903225806452
+                },
+                {
+                  "term": "intern",
+                  "weight": 0.7048387096774194
+                },
+                {
+                  "term": "polit",
+                  "weight": 0.4483870967741935
+                },
+                {
+                  "term": "relat",
+                  "weight": 0.3951612903225806
+                }
+              ],
+              "total_weight": 1.9096774193548387
+            }
+          }
+        },
+        "action": {
+          "context": {
+            "economic": 1,
+            "political": 1,
+            "social": 1
+          },
+          "sentiment": {
+            "positive": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "negative": {
+              "terms": [
+                {
+                  "term": "problem",
+                  "weight": 0.301063829787234
+                }
+              ],
+              "total_weight": 0.301063829787234
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "social",
+                  "weight": 0.3612903225806452
+                },
+                {
+                  "term": "intern",
+                  "weight": 0.7048387096774194
+                },
+                {
+                  "term": "polit",
+                  "weight": 0.4483870967741935
+                }
+              ],
+              "total_weight": 1.5145161290322582
+            }
+          }
+        },
+        "dominant_context": "political",
+        "dominant_sentiment": {
+          "type": "neutral",
+          "weight": 1.9096774193548387
+        }
+      }
+    },
+    {
+      "actor_1": "bulgaria",
+      "action": "draw",
+      "action_phrase": "Bulgaria draws into accordance with the EU and NATO standards its legislation in the field of security .",
+      "targets": [
+        "accordance",
+        "standards",
+        "legislation",
+        "field",
+        "security"
+      ],
+      "sentence": "Bulgaria draws into accordance with the EU and NATO standards its legislation in the field of security.",
+      "context_analysis": {
+        "sentence": {
+          "context": {},
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                },
+                {
+                  "term": "nato",
+                  "weight": 0.2294627383015598
+                }
+              ],
+              "total_weight": 1.2294627383015597
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [],
+              "total_weight": 0.0
+            }
+          }
+        },
+        "action": {
+          "context": {},
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                },
+                {
+                  "term": "nato",
+                  "weight": 0.2294627383015598
+                }
+              ],
+              "total_weight": 1.2294627383015597
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [],
+              "total_weight": 0.0
+            }
+          }
+        },
+        "dominant_context": "undefined",
+        "dominant_sentiment": {
+          "type": "positive",
+          "weight": 1.2294627383015597
+        }
+      }
+    },
+    {
+      "actor_1": "bulgaria",
+      "action": "seek",
+      "action_phrase": "Bulgaria seeks security on the Balkans and is against any military and political unions on the Balkans .",
+      "targets": ["security"],
+      "sentence": "Bulgaria seeks security on the Balkans and is against any military and political unions on the Balkans.",
+      "context_analysis": {
+        "sentence": {
+          "context": {
+            "military": 1,
+            "political": 1
+          },
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                },
+                {
+                  "term": "union",
+                  "weight": 0.13275563258232237
+                }
+              ],
+              "total_weight": 1.1327556325823225
+            },
+            "negative": {
+              "terms": [
+                {
+                  "term": "milit",
+                  "weight": 0.5308510638297873
+                }
+              ],
+              "total_weight": 0.5308510638297873
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "polit",
+                  "weight": 0.4483870967741935
+                }
+              ],
+              "total_weight": 0.4483870967741935
+            }
+          }
+        },
+        "action": {
+          "context": {
+            "military": 1,
+            "political": 1
+          },
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                },
+                {
+                  "term": "union",
+                  "weight": 0.13275563258232237
+                }
+              ],
+              "total_weight": 1.1327556325823225
+            },
+            "negative": {
+              "terms": [
+                {
+                  "term": "milit",
+                  "weight": 0.5308510638297873
+                }
+              ],
+              "total_weight": 0.5308510638297873
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "polit",
+                  "weight": 0.4483870967741935
+                }
+              ],
+              "total_weight": 0.4483870967741935
+            }
+          }
+        },
+        "dominant_context": "military",
+        "dominant_sentiment": {
+          "type": "positive",
+          "weight": 1.1327556325823225
+        }
+      }
+    },
+    {
+      "actor_1": "bulgaria",
+      "action": "generate",
+      "action_phrase": "to which Bulgaria generates security for the neighbour countries",
+      "targets": ["security"],
+      "sentence": "Its own security is defined by the degree to which Bulgaria generates security for the neighbour countries.",
+      "context_analysis": {
+        "sentence": {
+          "context": {},
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                }
+              ],
+              "total_weight": 1.0
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "defin",
+                  "weight": 0.20645161290322583
+                }
+              ],
+              "total_weight": 0.20645161290322583
+            }
+          }
+        },
+        "action": {
+          "context": {},
+          "sentiment": {
+            "positive": {
+              "terms": [
+                {
+                  "term": "secur",
+                  "weight": 1.0
+                }
+              ],
+              "total_weight": 1.0
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [],
+              "total_weight": 0.0
+            }
+          }
+        },
+        "dominant_context": "undefined",
+        "dominant_sentiment": {
+          "type": "positive",
+          "weight": 1.0
+        }
+      }
+    },
+    {
+      "actor_1": "bulgaria",
+      "action": "confirm",
+      "action_phrase": "In this way Bulgaria is confirmed as an active and full - fledged partner in the global political and economic processes .",
+      "targets": ["way", "partner", "processes"],
+      "sentence": "In this way Bulgaria is confirmed as an active and full-fledged partner in the global political and economic processes.",
+      "context_analysis": {
+        "sentence": {
+          "context": {
+            "economic": 1,
+            "political": 1,
+            "international": 1
+          },
+          "sentiment": {
+            "positive": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "polit",
+                  "weight": 0.4483870967741935
+                },
+                {
+                  "term": "process",
+                  "weight": 0.3370967741935484
+                }
+              ],
+              "total_weight": 0.7854838709677419
+            }
+          }
+        },
+        "action": {
+          "context": {
+            "economic": 1,
+            "political": 1,
+            "international": 1
+          },
+          "sentiment": {
+            "positive": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "negative": {
+              "terms": [],
+              "total_weight": 0.0
+            },
+            "neutral": {
+              "terms": [
+                {
+                  "term": "polit",
+                  "weight": 0.4483870967741935
+                },
+                {
+                  "term": "process",
+                  "weight": 0.3370967741935484
+                }
+              ],
+              "total_weight": 0.7854838709677419
+            }
+          }
+        },
+        "dominant_context": "economic",
+        "dominant_sentiment": {
+          "type": "neutral",
+          "weight": 0.7854838709677419
+        }
+      }
+    },
+  ]
+}

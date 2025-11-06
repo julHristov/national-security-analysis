@@ -1,0 +1,76 @@
+2025-10-30 11:11:37 - [INFO] - __main__ - Loading spaCy model: fast
+2025-10-30 11:13:54 - [INFO] - __main__ - Selected SPACY_MODE: fast
+2025-10-30 11:13:54 - [INFO] - __main__ - Loading spaCy model: en_core_web_md
+2025-10-30 11:13:59 - [INFO] - modules_extractors.schema_loader - ✅ Successfully loaded schema: entity_types.json
+2025-10-30 11:13:59 - [INFO] - __main__ - Found 3 text files for entity extraction
+2025-10-30 11:13:59 - [INFO] - __main__ - Processing file: 1_NS_Concept_1998_ENG.txt
+2025-10-30 11:14:05 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\entities\1_NS_Concept_1998_ENG_entities.json
+2025-10-30 11:14:05 - [INFO] - __main__ - ✅ Extracted 793 entities from 1_NS_Concept_1998_ENG.txt (5.73s)
+2025-10-30 11:14:05 - [INFO] - __main__ - Processing file: 2_NS_Strategy_2011_ENG.txt
+2025-10-30 11:14:13 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\entities\2_NS_Strategy_2011_ENG_entities.json
+2025-10-30 11:14:13 - [INFO] - __main__ - ✅ Extracted 1972 entities from 2_NS_Strategy_2011_ENG.txt (8.36s)
+2025-10-30 11:14:13 - [INFO] - __main__ - Processing file: 3_Updated_NS_Strategy_2018_ENG.txt
+2025-10-30 11:14:29 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\entities\3_Updated_NS_Strategy_2018_ENG_entities.json
+2025-10-30 11:14:29 - [INFO] - __main__ - ✅ Extracted 2575 entities from 3_Updated_NS_Strategy_2018_ENG.txt (15.19s)
+2025-11-01 14:05:48 - [INFO] - modules_extractors.entity_extractor - Selected SPACY_MODE: fast
+2025-11-01 14:05:48 - [INFO] - modules_extractors.entity_extractor - Loading spaCy model: en_core_web_md
+2025-11-01 14:06:01 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\1_NS_Concept_1998_ENG_entities.json
+2025-11-01 14:06:07 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\2_NS_Strategy_2011_ENG_entities.json
+2025-11-01 14:06:15 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\3_Updated_NS_Strategy_2018_ENG_entities.json
+2025-11-01 14:06:15 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\top_entities.json
+2025-11-02 15:52:42 - [INFO] - modules_extractors.entity_extractor - Selected SPACY_MODE: fast
+2025-11-02 15:52:42 - [INFO] - modules_extractors.entity_extractor - Loading spaCy model: en_core_web_md
+2025-11-02 16:07:12 - [INFO] - modules_extractors.entity_extractor - Selected SPACY_MODE: fast
+2025-11-02 16:07:12 - [INFO] - modules_extractors.entity_extractor - Loading spaCy model: en_core_web_md
+2025-11-02 16:07:25 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\1_NS_Concept_1998_ENG_entities.json
+2025-11-02 16:07:31 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\2_NS_Strategy_2011_ENG_entities.json
+2025-11-02 16:07:42 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\3_Updated_NS_Strategy_2018_ENG_entities.json
+2025-11-02 16:07:42 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\top_entities.json
+2025-11-02 18:00:05 - [INFO] - modules_extractors.entity_extractor - Selected SPACY_MODE: fast
+2025-11-02 18:00:05 - [INFO] - modules_extractors.entity_extractor - Loading spaCy model: en_core_web_md
+2025-11-02 18:24:39 - [INFO] - modules_extractors.entity_extractor - Selected SPACY_MODE: fast
+2025-11-02 18:24:39 - [INFO] - modules_extractors.entity_extractor - Loading spaCy model: en_core_web_md
+2025-11-04 15:11:29 - [INFO] - modules_extractors.entity_extractor - Selected SPACY_MODE: fast
+2025-11-04 15:11:29 - [INFO] - modules_extractors.entity_extractor - Loading spaCy model: en_core_web_md
+2025-11-04 15:11:53 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\1_NS_Concept_1998_ENG_entities.json
+2025-11-04 15:12:09 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\2_NS_Strategy_2011_ENG_entities.json
+2025-11-04 15:12:28 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\annotated\3_Updated_NS_Strategy_2018_ENG_entities.json
+2025-11-04 15:12:28 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\top_entities.json
+2025-11-04 16:48:15 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-04 16:48:26 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-04 16:48:38 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-04 16:55:06 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-04 16:55:17 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-04 16:55:30 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-05 09:49:12 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-05 09:49:39 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-05 09:50:04 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-05 09:58:19 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-05 09:58:43 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-05 09:59:06 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-05 10:18:38 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-05 10:18:51 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-05 10:19:04 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-05 10:32:03 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\term_weights.json
+2025-11-05 10:32:25 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\term_weights.json
+2025-11-05 10:32:25 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-05 10:32:25 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-05 10:32:25 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-05 10:49:18 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\term_weights.json
+2025-11-05 10:49:21 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\1_NS_Concept_1998_ENG_scenarios.json
+2025-11-05 10:49:30 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\2_NS_Strategy_2011_ENG_scenarios.json
+2025-11-05 10:49:40 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\3_Updated_NS_Strategy_2018_ENG_scenarios.json
+2025-11-05 12:25:01 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\cross_document_scenarios.json
+2025-11-05 12:27:58 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:30:20 - [ERROR] - utils.file_manager - ❌ Грешка при четене на JSON от C:\Users\35989\annotation_project\data\results\scenarios\term_weights.json: [Errno 2] No such file or directory: 'C:\\Users\\35989\\annotation_project\\data\\results\\scenarios\\term_weights.json'
+2025-11-05 12:32:04 - [ERROR] - utils.file_manager - ❌ Грешка при четене на JSON от C:\Users\35989\annotation_project\data\results\scenarios\term_weights.json: [Errno 2] No such file or directory: 'C:\\Users\\35989\\annotation_project\\data\\results\\scenarios\\term_weights.json'
+2025-11-05 12:38:08 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:39:50 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json
+2025-11-05 12:40:38 - [INFO] - utils.file_manager - ✅ JSON записан: C:\Users\35989\annotation_project\data\results\scenarios\scenario_evolution.json

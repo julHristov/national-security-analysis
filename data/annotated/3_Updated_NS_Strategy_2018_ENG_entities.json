@@ -1,0 +1,482 @@
+{
+  "document": "3_Updated_NS_Strategy_2018_ENG.txt",
+  "total_words": 13728,
+  "entities": {
+    "the republic of bulgaria": {
+      "count": 50,
+      "relative_frequency": 0.36422
+    },
+    "the national assembly": {
+      "count": 8,
+      "relative_frequency": 0.05828
+    },
+    "state": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "gazette": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european union": {
+      "count": 3,
+      "relative_frequency": 0.02185
+    },
+    "eu": {
+      "count": 66,
+      "relative_frequency": 0.48077
+    },
+    "the north atlantic treaty organization": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "nato": {
+      "count": 40,
+      "relative_frequency": 0.29138
+    },
+    "the black sea": {
+      "count": 7,
+      "relative_frequency": 0.05099
+    },
+    "the middle east": {
+      "count": 5,
+      "relative_frequency": 0.03642
+    },
+    "north africa": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "the national security strategy": {
+      "count": 4,
+      "relative_frequency": 0.02914
+    },
+    "bulgaria": {
+      "count": 37,
+      "relative_frequency": 0.26952
+    },
+    "european": {
+      "count": 17,
+      "relative_frequency": 0.12383
+    },
+    "the concept for national security": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the state agency": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the law on management and functioning of the national security protection system": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the state intelligence agency": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national security service": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the law on military intelligence": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national security protection system": {
+      "count": 6,
+      "relative_frequency": 0.04371
+    },
+    "the security council": {
+      "count": 4,
+      "relative_frequency": 0.02914
+    },
+    "the council of ministers": {
+      "count": 10,
+      "relative_frequency": 0.07284
+    },
+    "allied nato": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "превода": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "следващите": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national security policy 17": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "national interests 18": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "bulgarian": {
+      "count": 36,
+      "relative_frequency": 0.26224
+    },
+    "pan-european": {
+      "count": 3,
+      "relative_frequency": 0.02185
+    },
+    "western balkans": {
+      "count": 3,
+      "relative_frequency": 0.02185
+    },
+    "the eu strategy": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the danube region": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "europe": {
+      "count": 8,
+      "relative_frequency": 0.05828
+    },
+    "the united kingdom": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the united nations": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "eastern mediterranean": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "africa": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "central asia": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "islam": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "muslim": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "western europe": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "balkans": {
+      "count": 4,
+      "relative_frequency": 0.02914
+    },
+    "transnational": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "southeastern europe": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "western balkan": {
+      "count": 3,
+      "relative_frequency": 0.02185
+    },
+    "the western balkans": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "post-soviet": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "ukraine": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the crimean peninsula": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "bulgarians": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "global security": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the council of europe": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "the organization for economic cooperation and development": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "oecd": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european commission": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national health insurance fund": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the dublin regulation": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "средата на": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "основни": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "в": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "и транснационалната": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "въздействията": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "във вътрешната среда и": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "и системите": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "степен на национална мобилизация и стратегическа подготовка": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "преплитат и засягат социалната": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "българия": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "съвременните": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "управление": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "рисковете и": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "политика": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "сигурност iv.1": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "iv.3": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european monetary union": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "the sectoral postal policy": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "healthcare": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national archive fund": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "104": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "solidarity": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "english": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the international health regulations": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "a european energy union": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "chiren": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "balkan": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "ec": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "justice": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the mechanism for cooperation and verification": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the ministry of justice": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european border and coast guard agency": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the un charter": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "alliance": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "the common european security": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the common security and defense policy": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european neighborhood policy": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the eu global strategy for foreign and security policy": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "european defense union": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the russian federation": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "osce": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "middle east": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "afghanistan": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "un": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "defense": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european defence fund": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "fatherland": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the european defence agency": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "national cybersecurity system": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national archival fund": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "national crisis management system": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national situational center": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "v. national security system v.1": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the consultative council for national security": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "the bulgarian academy of sciences": {
+      "count": 2,
+      "relative_frequency": 0.01457
+    },
+    "the council of ministers'": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the council a national research and innovation program": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "the national security system": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "democratic": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "vi": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    },
+    "national security strategy": {
+      "count": 1,
+      "relative_frequency": 0.00728
+    }
+  }
+}

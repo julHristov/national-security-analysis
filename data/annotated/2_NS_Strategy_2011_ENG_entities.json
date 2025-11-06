@@ -1,0 +1,438 @@
+{
+  "document": "2_NS_Strategy_2011_ENG.txt",
+  "total_words": 10062,
+  "entities": {
+    "national security strategy": {
+      "count": 6,
+      "relative_frequency": 0.05963
+    },
+    "the republic of bulgaria": {
+      "count": 35,
+      "relative_frequency": 0.34784
+    },
+    "national assembly": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "bulgaria": {
+      "count": 39,
+      "relative_frequency": 0.3876
+    },
+    "the national security strategy": {
+      "count": 5,
+      "relative_frequency": 0.04969
+    },
+    "the european union's": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "nato": {
+      "count": 34,
+      "relative_frequency": 0.3379
+    },
+    "the balkan peninsula": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the black sea region": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "strategy": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "the national security concept": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "the state agency": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "national security": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the national assembly": {
+      "count": 8,
+      "relative_frequency": 0.07951
+    },
+    "the european union": {
+      "count": 4,
+      "relative_frequency": 0.03975
+    },
+    "eu": {
+      "count": 46,
+      "relative_frequency": 0.45717
+    },
+    "state": {
+      "count": 24,
+      "relative_frequency": 0.23852
+    },
+    "bulgarian": {
+      "count": 17,
+      "relative_frequency": 0.16895
+    },
+    "black sea": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "european": {
+      "count": 17,
+      "relative_frequency": 0.16895
+    },
+    "ill.": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "west": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "east": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "trans-atlantic": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "transborder": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the democratic foundation of society": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "africa": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "southeast asia": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "third world": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "southeast europe": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "west balkan": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "romania": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "west balkans": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "albania": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "croatia": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the black sea": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "europe": {
+      "count": 4,
+      "relative_frequency": 0.03975
+    },
+    "middle east": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "afghanistan": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "islam": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the united nations organization": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the council of europe": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "the european commission's": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the judiciary reform": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "life;higher": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "balkans": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the united nations": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "osce": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "executive": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "the civil service": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "ngo": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "judiciary": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "iv.3": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "lev to euro": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "solidarity": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "south east": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "south corridor": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "nabucco": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "south stream": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "directive": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "104": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "justice": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the acquis communautaires": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the international covenant on civil and political rights": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "frontex": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the european agency": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the management of operational cooperation": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the external borders": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "un": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "the common security and defense policy": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "csdp": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "eu enlargement": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the european neighborhood policy": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "enp": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "south": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the russian federation": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the un charter": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the north atlantic treaty": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "atlantic": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the middle east": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "us": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "defense": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the eu common security": {
+      "count": 3,
+      "relative_frequency": 0.02982
+    },
+    "homeland": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "parliament": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "the republic of bulgaria 45": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "nato ag": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the european defense agency": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "eda": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "security research and innovation agenda": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "v.1": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "legislature": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the national security area": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the council of ministers": {
+      "count": 6,
+      "relative_frequency": 0.05963
+    },
+    "the armed forces": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the consultative national security council": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "consultative national se urity": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "council": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "the council of ministers (the government": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "anq": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the council of ministers the security council": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the council": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "the security council": {
+      "count": 2,
+      "relative_frequency": 0.01988
+    },
+    "the council of ministers security council": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "secretariat": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "immediat": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "democratic": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    },
+    "vi": {
+      "count": 1,
+      "relative_frequency": 0.00994
+    }
+  }
+}

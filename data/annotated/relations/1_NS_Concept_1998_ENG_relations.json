@@ -1,0 +1,110 @@
+[
+  {
+    "relation_text": "promote",
+    "relation_type": "PROMOTES",
+    "start": 2541,
+    "end": 2548
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 9302,
+    "end": 9309
+  },
+  {
+    "relation_text": "develop",
+    "relation_type": "PROMOTES",
+    "start": 22408,
+    "end": 22415
+  },
+  {
+    "relation_text": "threaten",
+    "relation_type": "THREATENS",
+    "start": 687,
+    "end": 695
+  },
+  {
+    "relation_text": "threaten",
+    "relation_type": "THREATENS",
+    "start": 13602,
+    "end": 13610
+  },
+  {
+    "relation_text": "attack",
+    "relation_type": "THREATENS",
+    "start": 9021,
+    "end": 9027
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 8205,
+    "end": 8211
+  },
+  {
+    "relation_text": "ensure",
+    "relation_type": "ENSURES",
+    "start": 15615,
+    "end": 15621
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 10187,
+    "end": 10196
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 12498,
+    "end": 12507
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 14496,
+    "end": 14505
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 16100,
+    "end": 16109
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 18085,
+    "end": 18094
+  },
+  {
+    "relation_text": "guarantee",
+    "relation_type": "ENSURES",
+    "start": 19968,
+    "end": 19977
+  },
+  {
+    "relation_text": "preserve",
+    "relation_type": "ENSURES",
+    "start": 9259,
+    "end": 9267
+  },
+  {
+    "relation_text": "join",
+    "relation_type": "JOINS",
+    "start": 8407,
+    "end": 8411
+  },
+  {
+    "relation_text": "counter",
+    "relation_type": "COUNTERS",
+    "start": 13322,
+    "end": 13329
+  },
+  {
+    "relation_text": "counter",
+    "relation_type": "COUNTERS",
+    "start": 22822,
+    "end": 22829
+  }
+]
