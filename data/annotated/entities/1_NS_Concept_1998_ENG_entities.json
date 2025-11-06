@@ -1,0 +1,1226 @@
+[
+  {
+    "text": "NATIONAL SECURITY CONCEPT OF THE REPUBLIC OF BULGARIA Introduction 1",
+    "type": "ACTOR",
+    "start": 0,
+    "end": 68
+  },
+  {
+    "text": "The National Security Concept",
+    "type": "ACTOR",
+    "start": 70,
+    "end": 99
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 103,
+    "end": 127
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "REGION",
+    "start": 103,
+    "end": 127
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 190,
+    "end": 199
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 412,
+    "end": 420
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 526,
+    "end": 550
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "REGION",
+    "start": 526,
+    "end": 550
+  },
+  {
+    "text": "EuroAtlantic",
+    "type": "ACTOR",
+    "start": 604,
+    "end": 616
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 621,
+    "end": 629
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 761,
+    "end": 769
+  },
+  {
+    "text": "the North Atlantic Treaty Organisation",
+    "type": "ACTOR",
+    "start": 790,
+    "end": 828
+  },
+  {
+    "text": "NATO",
+    "type": "ACTOR",
+    "start": 830,
+    "end": 834
+  },
+  {
+    "text": "the European Union",
+    "type": "ACTOR",
+    "start": 837,
+    "end": 855
+  },
+  {
+    "text": "EU",
+    "type": "ACTOR",
+    "start": 857,
+    "end": 859
+  },
+  {
+    "text": "the West European Union",
+    "type": "ACTOR",
+    "start": 862,
+    "end": 885
+  },
+  {
+    "text": "WEU",
+    "type": "ACTOR",
+    "start": 887,
+    "end": 890
+  },
+  {
+    "text": "the Organisation for Security and Co-operation",
+    "type": "ACTOR",
+    "start": 896,
+    "end": 942
+  },
+  {
+    "text": "Europe",
+    "type": "REGION",
+    "start": 946,
+    "end": 952
+  },
+  {
+    "text": "OSCE",
+    "type": "ACTOR",
+    "start": 954,
+    "end": 958
+  },
+  {
+    "text": "The UN Security Council",
+    "type": "ACTOR",
+    "start": 1185,
+    "end": 1208
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 1316,
+    "end": 1324
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 1316,
+    "end": 1324
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 1485,
+    "end": 1493
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 1485,
+    "end": 1493
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 1860,
+    "end": 1868
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 1860,
+    "end": 1868
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 1873,
+    "end": 1881
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 1873,
+    "end": 1881
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 2099,
+    "end": 2108
+  },
+  {
+    "text": "Europe",
+    "type": "REGION",
+    "start": 2144,
+    "end": 2150
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 2187,
+    "end": 2195
+  },
+  {
+    "text": "the Warsaw Treaty Organisation",
+    "type": "ACTOR",
+    "start": 2428,
+    "end": 2458
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 2582,
+    "end": 2590
+  },
+  {
+    "text": "Central and Eastern Europe",
+    "type": "REGION",
+    "start": 2897,
+    "end": 2923
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 2993,
+    "end": 3001
+  },
+  {
+    "text": "Yugoslavia",
+    "type": "ACTOR",
+    "start": 3135,
+    "end": 3145
+  },
+  {
+    "text": "Yugoslavia",
+    "type": "REGION",
+    "start": 3135,
+    "end": 3145
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 3271,
+    "end": 3279
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 3296,
+    "end": 3304
+  },
+  {
+    "text": "grey.",
+    "type": "ACTOR",
+    "start": 3449,
+    "end": 3454
+  },
+  {
+    "text": "Central",
+    "type": "REGION",
+    "start": 3726,
+    "end": 3733
+  },
+  {
+    "text": "Eastern Europe",
+    "type": "REGION",
+    "start": 3738,
+    "end": 3752
+  },
+  {
+    "text": "South -Eastern Europe",
+    "type": "REGION",
+    "start": 3978,
+    "end": 3999
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 4458,
+    "end": 4466
+  },
+  {
+    "text": "Balkans",
+    "type": "REGION",
+    "start": 4908,
+    "end": 4915
+  },
+  {
+    "text": "Europe",
+    "type": "REGION",
+    "start": 4955,
+    "end": 4961
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 4991,
+    "end": 4999
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 4991,
+    "end": 4999
+  },
+  {
+    "text": "Yugoslavia",
+    "type": "ACTOR",
+    "start": 5157,
+    "end": 5167
+  },
+  {
+    "text": "Yugoslavia",
+    "type": "REGION",
+    "start": 5157,
+    "end": 5167
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 5292,
+    "end": 5301
+  },
+  {
+    "text": "Balkans",
+    "type": "REGION",
+    "start": 5622,
+    "end": 5629
+  },
+  {
+    "text": "the European Union",
+    "type": "ACTOR",
+    "start": 5813,
+    "end": 5831
+  },
+  {
+    "text": "NATO",
+    "type": "ACTOR",
+    "start": 5836,
+    "end": 5840
+  },
+  {
+    "text": "Caucasus",
+    "type": "ACTOR",
+    "start": 5872,
+    "end": 5880
+  },
+  {
+    "text": "Central Asian",
+    "type": "ACTOR",
+    "start": 5885,
+    "end": 5898
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 5909,
+    "end": 5917
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 5931,
+    "end": 5939
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 5931,
+    "end": 5939
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 6086,
+    "end": 6095
+  },
+  {
+    "text": "Via",
+    "type": "ACTOR",
+    "start": 6507,
+    "end": 6510
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 7453,
+    "end": 7461
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 7453,
+    "end": 7461
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 7471,
+    "end": 7479
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 7471,
+    "end": 7479
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 7550,
+    "end": 7558
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 8172,
+    "end": 8180
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 8172,
+    "end": 8180
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 8552,
+    "end": 8560
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 8552,
+    "end": 8560
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 8658,
+    "end": 8666
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 8658,
+    "end": 8666
+  },
+  {
+    "text": "South -Eastern Europe",
+    "type": "REGION",
+    "start": 8738,
+    "end": 8759
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 8861,
+    "end": 8870
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 9319,
+    "end": 9328
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 9697,
+    "end": 9705
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 9697,
+    "end": 9705
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 10036,
+    "end": 10045
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 10142,
+    "end": 10151
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 11004,
+    "end": 11012
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 11004,
+    "end": 11012
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 11157,
+    "end": 11165
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 11157,
+    "end": 11165
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 11275,
+    "end": 11299
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "REGION",
+    "start": 11275,
+    "end": 11299
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 11564,
+    "end": 11572
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 11564,
+    "end": 11572
+  },
+  {
+    "text": "National Security",
+    "type": "ACTOR",
+    "start": 11793,
+    "end": 11810
+  },
+  {
+    "text": "The National Security",
+    "type": "ACTOR",
+    "start": 11815,
+    "end": 11836
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 11899,
+    "end": 11923
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "REGION",
+    "start": 11899,
+    "end": 11923
+  },
+  {
+    "text": "the National Assembly",
+    "type": "ACTOR",
+    "start": 11944,
+    "end": 11965
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 12008,
+    "end": 12016
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 12008,
+    "end": 12016
+  },
+  {
+    "text": "EU",
+    "type": "ACTOR",
+    "start": 12048,
+    "end": 12050
+  },
+  {
+    "text": "NATO",
+    "type": "ACTOR",
+    "start": 12055,
+    "end": 12059
+  },
+  {
+    "text": "The Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 12116,
+    "end": 12140
+  },
+  {
+    "text": "The Republic of Bulgaria",
+    "type": "REGION",
+    "start": 12116,
+    "end": 12140
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 12298,
+    "end": 12306
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 12298,
+    "end": 12306
+  },
+  {
+    "text": "The Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 12332,
+    "end": 12356
+  },
+  {
+    "text": "The Republic of Bulgaria",
+    "type": "REGION",
+    "start": 12332,
+    "end": 12356
+  },
+  {
+    "text": "NATO",
+    "type": "ACTOR",
+    "start": 12459,
+    "end": 12463
+  },
+  {
+    "text": "Europe",
+    "type": "REGION",
+    "start": 12696,
+    "end": 12702
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "ACTOR",
+    "start": 12746,
+    "end": 12770
+  },
+  {
+    "text": "the Republic of Bulgaria",
+    "type": "REGION",
+    "start": 12746,
+    "end": 12770
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 12922,
+    "end": 12930
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 12922,
+    "end": 12930
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 12952,
+    "end": 12960
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 12952,
+    "end": 12960
+  },
+  {
+    "text": "The National Security",
+    "type": "ACTOR",
+    "start": 13050,
+    "end": 13071
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 13183,
+    "end": 13191
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 13183,
+    "end": 13191
+  },
+  {
+    "text": "Balkans",
+    "type": "REGION",
+    "start": 13214,
+    "end": 13221
+  },
+  {
+    "text": "Balkans",
+    "type": "REGION",
+    "start": 13278,
+    "end": 13285
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 13295,
+    "end": 13304
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 13765,
+    "end": 13774
+  },
+  {
+    "text": "Bulgarians",
+    "type": "ACTOR",
+    "start": 13894,
+    "end": 13904
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 14006,
+    "end": 14014
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 14006,
+    "end": 14014
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 14131,
+    "end": 14139
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 14131,
+    "end": 14139
+  },
+  {
+    "text": "Fatherland",
+    "type": "ACTOR",
+    "start": 14147,
+    "end": 14157
+  },
+  {
+    "text": "Bulgarians",
+    "type": "ACTOR",
+    "start": 14165,
+    "end": 14175
+  },
+  {
+    "text": "Factors of National Security",
+    "type": "ACTOR",
+    "start": 14298,
+    "end": 14326
+  },
+  {
+    "text": "NATO",
+    "type": "ACTOR",
+    "start": 14363,
+    "end": 14367
+  },
+  {
+    "text": "EU",
+    "type": "ACTOR",
+    "start": 14372,
+    "end": 14374
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 14423,
+    "end": 14431
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 14423,
+    "end": 14431
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 14533,
+    "end": 14541
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 14533,
+    "end": 14541
+  },
+  {
+    "text": "NATO",
+    "type": "ACTOR",
+    "start": 14563,
+    "end": 14567
+  },
+  {
+    "text": "EU",
+    "type": "ACTOR",
+    "start": 14572,
+    "end": 14574
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 14670,
+    "end": 14678
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 14670,
+    "end": 14678
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 14706,
+    "end": 14714
+  },
+  {
+    "text": "South-eastern Europe",
+    "type": "REGION",
+    "start": 14803,
+    "end": 14823
+  },
+  {
+    "text": "Balkans",
+    "type": "REGION",
+    "start": 15017,
+    "end": 15024
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 15114,
+    "end": 15123
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 15186,
+    "end": 15194
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 15186,
+    "end": 15194
+  },
+  {
+    "text": "Balkans",
+    "type": "REGION",
+    "start": 15442,
+    "end": 15449
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 15542,
+    "end": 15550
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 15542,
+    "end": 15550
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 15768,
+    "end": 15777
+  },
+  {
+    "text": "Europe",
+    "type": "REGION",
+    "start": 15871,
+    "end": 15877
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 15948,
+    "end": 15956
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 15948,
+    "end": 15956
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 16187,
+    "end": 16196
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 16255,
+    "end": 16264
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 16468,
+    "end": 16477
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 16771,
+    "end": 16780
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 16805,
+    "end": 16813
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 16880,
+    "end": 16888
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 16934,
+    "end": 16943
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 17109,
+    "end": 17117
+  },
+  {
+    "text": "Caucasian",
+    "type": "ACTOR",
+    "start": 17166,
+    "end": 17175
+  },
+  {
+    "text": "the Middle East",
+    "type": "REGION",
+    "start": 17184,
+    "end": 17199
+  },
+  {
+    "text": "Central Asia",
+    "type": "REGION",
+    "start": 17204,
+    "end": 17216
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 17230,
+    "end": 17239
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 17370,
+    "end": 17378
+  },
+  {
+    "text": "Balkan",
+    "type": "ACTOR",
+    "start": 17476,
+    "end": 17482
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 17546,
+    "end": 17554
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 17546,
+    "end": 17554
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 17573,
+    "end": 17581
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 17617,
+    "end": 17625
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 17617,
+    "end": 17625
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 17659,
+    "end": 17667
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 17747,
+    "end": 17756
+  },
+  {
+    "text": "the Commonwealth of Independent States",
+    "type": "ACTOR",
+    "start": 17846,
+    "end": 17884
+  },
+  {
+    "text": "European",
+    "type": "ACTOR",
+    "start": 17959,
+    "end": 17967
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 18300,
+    "end": 18309
+  },
+  {
+    "text": "The Armed Forces",
+    "type": "ACTOR",
+    "start": 18715,
+    "end": 18731
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 19127,
+    "end": 19135
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 19127,
+    "end": 19135
+  },
+  {
+    "text": "the European Union",
+    "type": "ACTOR",
+    "start": 20084,
+    "end": 20102
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 20659,
+    "end": 20668
+  },
+  {
+    "text": "Bulgarian",
+    "type": "ACTOR",
+    "start": 20729,
+    "end": 20738
+  },
+  {
+    "text": "Bulgaria",
+    "type": "ACTOR",
+    "start": 20945,
+    "end": 20953
+  },
+  {
+    "text": "Bulgaria",
+    "type": "REGION",
+    "start": 20945,
+    "end": 20953
+  },
+  {
+    "text": "Organization And Functions of",
+    "type": "ACTOR",
+    "start": 20955,
+    "end": 20984
+  },
+  {
+    "text": "the National Assembly",
+    "type": "ACTOR",
+    "start": 21097,
+    "end": 21118
+  },
+  {
+    "text": "the Council of Ministers",
+    "type": "ACTOR",
+    "start": 21123,
+    "end": 21147
+  },
+  {
+    "text": "the National Security Advisory Council",
+    "type": "ACTOR",
+    "start": 21241,
+    "end": 21279
+  },
+  {
+    "text": "The National Assembly",
+    "type": "ACTOR",
+    "start": 21324,
+    "end": 21345
+  },
+  {
+    "text": "Permanent National Security Committee",
+    "type": "ACTOR",
+    "start": 21428,
+    "end": 21465
+  },
+  {
+    "text": "Committee on Foreign Integration Policy",
+    "type": "ACTOR",
+    "start": 21728,
+    "end": 21767
+  },
+  {
+    "text": "The Council of Ministers",
+    "type": "ACTOR",
+    "start": 21866,
+    "end": 21890
+  },
+  {
+    "text": "the National Assembly",
+    "type": "ACTOR",
+    "start": 22062,
+    "end": 22083
+  },
+  {
+    "text": "The Council of Ministers",
+    "type": "ACTOR",
+    "start": 22204,
+    "end": 22228
+  },
+  {
+    "text": "The Council of Ministers",
+    "type": "ACTOR",
+    "start": 22549,
+    "end": 22573
+  },
+  {
+    "text": "Security Council",
+    "type": "ACTOR",
+    "start": 22623,
+    "end": 22639
+  },
+  {
+    "text": "Defense",
+    "type": "ACTOR",
+    "start": 22713,
+    "end": 22720
+  },
+  {
+    "text": "Interior",
+    "type": "ACTOR",
+    "start": 22734,
+    "end": 22742
+  },
+  {
+    "text": "GS of BA",
+    "type": "ACTOR",
+    "start": 22773,
+    "end": 22781
+  },
+  {
+    "text": "the Chiefs of the intelligence and counter",
+    "type": "ACTOR",
+    "start": 22787,
+    "end": 22829
+  },
+  {
+    "text": "Council",
+    "type": "ACTOR",
+    "start": 22949,
+    "end": 22956
+  },
+  {
+    "text": "The Security Council",
+    "type": "ACTOR",
+    "start": 23010,
+    "end": 23030
+  },
+  {
+    "text": "the Council of Ministers",
+    "type": "ACTOR",
+    "start": 23486,
+    "end": 23510
+  },
+  {
+    "text": "the National Assembly",
+    "type": "ACTOR",
+    "start": 23584,
+    "end": 23605
+  },
+  {
+    "text": "the Security Council",
+    "type": "ACTOR",
+    "start": 23733,
+    "end": 23753
+  },
+  {
+    "text": "The Security Council",
+    "type": "ACTOR",
+    "start": 23755,
+    "end": 23775
+  },
+  {
+    "text": "the National Assembly",
+    "type": "ACTOR",
+    "start": 23863,
+    "end": 23884
+  }
+]

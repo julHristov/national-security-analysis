@@ -48,6 +48,16 @@ GUIDELINES_DIR = BASE_DIR / "guidelines"  # To be added later
 # =================
 ENTITY_NORMALIZATION_FILE = LOOKUP_DIR / "entity_normalization.json"
 
+# =====================
+# Dictionary paths
+# =====================
+POSITIVE_TERMS_PATH = LOOKUP_DIR / "positive_terms.json"
+NEGATIVE_TERMS_PATH = LOOKUP_DIR / "negative_terms.json"
+NEUTRAL_TERMS_PATH = LOOKUP_DIR / "neutral_terms.json"
+
+# Ensure lookup directory exists
+LOOKUP_DIR.mkdir(parents=True, exist_ok=True)
+
 # =================================
 # Automatic creation of directories
 # =================================

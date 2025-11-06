@@ -1,125 +1,119 @@
 import json
-from collections import Counter, defaultdict
-import spacy
 from pathlib import Path
-from utils.file_manager import read_text_file, write_json_file
-from schema.schema_loader import load_entity_schema
-from config import CLEAN_DIR, ANNOTATED_DIR, RESULTS_DIR, SPACY_MODEL
-from modules_extractors.entity_extractor import determine_custom_label
-
-# === Ново: автоматично извикване на графичния модул ===
-from scripts.plot_entity_frequencies import plot_top_entities
+from collections import Counter, defaultdict
+from config import *
 
 
-def extract_entities_from_text(text, nlp, entity_schema):
-    """
-    Извлича ентитети чрез spaCy и schema правила.
-    Връща речник с ентитети и техните честоти + етикети.
-    """
-    doc = nlp(text)
-    entity_info = defaultdict(lambda: {"count": 0, "spacy_label": "", "custom_label": "", "schema_type": ""})
+def get_logger(name):
+    class SimpleLogger:
+        def info(self, msg): print(f"INFO: {msg}")
 
-    for ent in doc.ents:
-        ent_label = ent.label_
-        ent_text = ent.text.lower().strip()
+        def warning(self, msg): print(f"WARNING: {msg}")
 
-        for category, info in entity_schema.items():
-            if ent_label in info["spacy_labels"] or ent_text in info["context_keywords"]:
-                custom_label = determine_custom_label(ent_text, ent_label)
-                entity_info[ent_text]["count"] += 1
-                entity_info[ent_text]["spacy_label"] = ent_label
-                entity_info[ent_text]["custom_label"] = custom_label
-                entity_info[ent_text]["schema_type"] = category
-                break
+        def error(self, msg): print(f"ERROR: {msg}")
 
-    return dict(entity_info)
+    return SimpleLogger()
 
 
-def calculate_relative_frequency(entity_counts, total_words):
-    """
-    Връща речник с относителна честота (%) за всеки ентитет.
-    Поддържа и прост формат {entity: int}, и разширен {entity: {"count": int}}.
-    """
-    result = {}
-    for entity, data in entity_counts.items():
-        if isinstance(data, dict):
-            count = data.get("count", 0)
-        else:
-            count = data
-        rel_freq = round((count / total_words) * 100, 5)
-        result[entity] = {
-            "count": count,
-            "relative_frequency": rel_freq
-        }
-    return result
+logger = get_logger(__name__)
 
 
-def process_all_texts():
-    print("🔍 Loading spaCy model...")
-    nlp = spacy.load(SPACY_MODEL)
+class EntityFrequencyExtractor:
+    def __init__(self):
+        self.entity_counter = Counter()
+        self.entity_types = defaultdict(Counter)
 
-    entity_schema = load_entity_schema()
-    CLEAN_PATH = Path(CLEAN_DIR)
-    ANNOTATED_PATH = Path(ANNOTATED_DIR)
-    RESULTS_PATH = Path(RESULTS_DIR)
+    def process_entity_files(self):
+        """Process all entity JSON files and count frequencies"""
+        entity_files = list(ENTITIES_DIR.glob("*_entities.json"))
 
-    RESULTS_PATH.mkdir(parents=True, exist_ok=True)
-    ANNOTATED_PATH.mkdir(parents=True, exist_ok=True)
+        if not entity_files:
+            logger.warning(f"No entity files found in {ENTITIES_DIR}")
+            return
 
-    top_entities_global = {}
+        logger.info(f"Processing {len(entity_files)} entity files")
 
-    for text_file in CLEAN_PATH.glob("*.txt"):
-        print(f"📄 Processing {text_file.name}...")
-        text = read_text_file(text_file)
-        total_words = len(text.split())
+        for entity_file in entity_files:
+            try:
+                with open(entity_file, 'r', encoding='utf-8') as f:
+                    entities = json.load(f)
 
-        # --- Извличане и изчисления ---
-        from utils.normalizer import load_normalization_map, normalize_entities_list
-        # 1. Зареждаме речника с подобни имена (например "EU" и "European Union")
-        mapping = load_normalization_map()
+                for entity in entities:
+                    entity_text = entity.get('text', '').strip()
+                    entity_type = entity.get('type', 'UNKNOWN')
 
-        # 2. Извличаме ентитетите (имената, които spaCy е разпознал)
-        entity_info = extract_entities_from_text(text, nlp, entity_schema)
+                    if entity_text:
+                        self.entity_counter[entity_text] += 1
+                        self.entity_types[entity_type][entity_text] += 1
 
-        # 3. Обединяваме вариантите на едно и също име (пример: "Bulgaria" + "Republic of Bulgaria")
-        entity_info = normalize_entities_list(entity_info, mapping)
-        # Ако имаме речник с допълнителни данни (count, label и т.н.), взимаме само броя за изчисленията
-        if isinstance(list(entity_info.values())[0], dict):
-            simple_counts = {k: v.get("count", 0) for k, v in entity_info.items()}
-        else:
-            simple_counts = entity_info
+            except Exception as e:
+                logger.error(f"Error processing {entity_file}: {str(e)}")
 
-        # 4. Изчисляваме процентното им отношение спрямо броя думи в текста
-        entity_info = calculate_relative_frequency(simple_counts, total_words)
+    def get_top_entities(self, top_n=10):
+        """Get top N entities across all documents"""
+        return self.entity_counter.most_common(top_n)
 
-        # --- Запис за отделния документ ---
-        entities_output = {
-            "document": text_file.name,
-            "total_words": total_words,
-            "entities": entity_info
+    def get_entity_percentages(self):
+        """Calculate percentage distribution of entity types"""
+        total_entities = sum(self.entity_counter.values())
+
+        if total_entities == 0:
+            return {}
+
+        percentages = {}
+        for entity_type, type_counter in self.entity_types.items():
+            type_total = sum(type_counter.values())
+            percentages[entity_type] = (type_total / total_entities) * 100
+
+        return percentages
+
+    def save_results(self):
+        """Save frequency analysis results"""
+        ENTITY_FREQ_DIR.mkdir(parents=True, exist_ok=True)
+
+        # Save top entities
+        top_entities = self.get_top_entities(TOP_ENTITIES_COUNT)
+        with open(TOP_ENTITIES_FILE, 'w', encoding='utf-8') as f:
+            json.dump(dict(top_entities), f, indent=2, ensure_ascii=False)
+
+        # Save entity percentages
+        percentages = self.get_entity_percentages()
+        with open(ENTITY_PERCENTAGES_FILE, 'w', encoding='utf-8') as f:
+            json.dump(percentages, f, indent=2, ensure_ascii=False)
+
+        # Save detailed entity type breakdown
+        type_breakdown = {
+            entity_type: dict(counter.most_common(10))
+            for entity_type, counter in self.entity_types.items()
         }
 
-        output_path = ANNOTATED_PATH / f"{text_file.stem}_entities.json"
-        write_json_file(entities_output, output_path)
+        breakdown_file = ENTITY_FREQ_DIR / "entity_type_breakdown.json"
+        with open(breakdown_file, 'w', encoding='utf-8') as f:
+            json.dump(type_breakdown, f, indent=2, ensure_ascii=False)
 
-        # --- Топ 10 за резултатния файл ---
-        sorted_entities = sorted(
-            entity_info.items(),
-            key=lambda x: x[1]["count"],
-            reverse=True
-        )
-        top_10 = {k: v["count"] for k, v in sorted_entities[:10]}
-        top_entities_global[text_file.stem] = top_10
+        logger.info(f"Saved results to {ENTITY_FREQ_DIR}")
 
-    # --- Запис на глобалния резултат ---
-    write_json_file(top_entities_global, RESULTS_PATH / "top_entities.json")
-    print("✅ Extraction completed successfully.")
 
-    # === Автоматично генериране на графики ===
-    print("📊 Generating visualizations...")
-    plot_top_entities()
-    print("🎨 All charts generated successfully!")
+def main():
+    extractor = EntityFrequencyExtractor()
+    extractor.process_entity_files()
+
+    # Print results
+    top_entities = extractor.get_top_entities(10)
+    print("\n=== TOP 10 ENTITIES ===")
+    for entity, count in top_entities:
+        print(f"{entity}: {count}")
+
+    percentages = extractor.get_entity_percentages()
+    print("\n=== ENTITY TYPE DISTRIBUTION ===")
+    for entity_type, percentage in percentages.items():
+        print(f"{entity_type}: {percentage:.1f}%")
+
+    # Save results
+    extractor.save_results()
+
+    print(f"\nAnalysis complete. Results saved to {ENTITY_FREQ_DIR}")
 
 
 if __name__ == "__main__":
-    process_all_texts()
+    main()
