@@ -1,0 +1,26 @@
+{
+  "ACTOR": {
+    "EU": 116,
+    "Bulgaria": 108,
+    "NATO": 80,
+    "Bulgarian": 75,
+    "European": 53,
+    "the Republic of Bulgaria": 49,
+    "The Republic of Bulgaria": 43,
+    "State": 25,
+    "the National Assembly": 17,
+    "the Council of Ministers": 12
+  },
+  "REGION": {
+    "Bulgaria": 108,
+    "the Republic of Bulgaria": 49,
+    "The Republic of Bulgaria": 43,
+    "Europe": 17,
+    "Balkans": 11,
+    "the Black Sea": 8,
+    "the Middle East": 7,
+    "Afghanistan": 5,
+    "Central Asia": 3,
+    "Africa": 3
+  }
+}

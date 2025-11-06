@@ -58,6 +58,13 @@ NEUTRAL_TERMS_PATH = LOOKUP_DIR / "neutral_terms.json"
 # Ensure lookup directory exists
 LOOKUP_DIR.mkdir(parents=True, exist_ok=True)
 
+# =====================
+# Analysis parameters
+# =====================
+TOP_ENTITIES_COUNT = 10
+CONTEXT_WINDOW_SIZE = 3
+MIN_CONFIDENCE = 0.6
+
 # =================================
 # Automatic creation of directories
 # =================================

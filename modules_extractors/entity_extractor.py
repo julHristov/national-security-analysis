@@ -4,6 +4,8 @@ from pathlib import Path
 from collections import defaultdict, Counter
 import time
 from tqdm import tqdm
+from schema.schema_loader import load_entity_schema
+
 
 # Import config - will create this file next
 try:
@@ -103,7 +105,7 @@ def extract_entities(text: str, entity_schema: dict) -> list:
 
 def process_all_files():
     """Process all text files in CLEAN_DIR for entity extraction"""
-    entity_schema = load_schema("entity_types.json")
+    entity_schema = load_entity_schema()
     if not entity_schema:
         logger.error("Entity schema not found!")
         return

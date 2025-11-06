@@ -1,7 +1,23 @@
 import json
 from pathlib import Path
 from collections import Counter, defaultdict
-from config import *
+from schema.schema_loader import load_entity_schema
+
+
+# Import from config - handle missing values
+try:
+    from config import *
+
+    # Fallback if TOP_ENTITIES_COUNT is not defined
+    if 'TOP_ENTITIES_COUNT' not in globals():
+        TOP_ENTITIES_COUNT = 10
+except ImportError:
+    # Fallback values if config is missing
+    ENTITIES_DIR = Path("data/annotated/entities")
+    ENTITY_FREQ_DIR = Path("data/annotated/entity_frequency")
+    TOP_ENTITIES_FILE = ENTITY_FREQ_DIR / "top_entities.json"
+    ENTITY_PERCENTAGES_FILE = ENTITY_FREQ_DIR / "entity_percentages.json"
+    TOP_ENTITIES_COUNT = 10
 
 
 def get_logger(name):
@@ -71,8 +87,13 @@ class EntityFrequencyExtractor:
         """Save frequency analysis results"""
         ENTITY_FREQ_DIR.mkdir(parents=True, exist_ok=True)
 
-        # Save top entities
-        top_entities = self.get_top_entities(TOP_ENTITIES_COUNT)
+        # Save top entities - use fallback if not defined
+        try:
+            top_n = TOP_ENTITIES_COUNT
+        except NameError:
+            top_n = 10
+
+        top_entities = self.get_top_entities(top_n)
         with open(TOP_ENTITIES_FILE, 'w', encoding='utf-8') as f:
             json.dump(dict(top_entities), f, indent=2, ensure_ascii=False)
 
@@ -93,23 +114,19 @@ class EntityFrequencyExtractor:
 
         logger.info(f"Saved results to {ENTITY_FREQ_DIR}")
 
+        # Print summary
+        print(f"\n=== TOP {top_n} ENTITIES ===")
+        for entity, count in top_entities:
+            print(f"{entity}: {count}")
+
+        print(f"\n=== ENTITY TYPE DISTRIBUTION ===")
+        for entity_type, percentage in percentages.items():
+            print(f"{entity_type}: {percentage:.1f}%")
+
 
 def main():
     extractor = EntityFrequencyExtractor()
     extractor.process_entity_files()
-
-    # Print results
-    top_entities = extractor.get_top_entities(10)
-    print("\n=== TOP 10 ENTITIES ===")
-    for entity, count in top_entities:
-        print(f"{entity}: {count}")
-
-    percentages = extractor.get_entity_percentages()
-    print("\n=== ENTITY TYPE DISTRIBUTION ===")
-    for entity_type, percentage in percentages.items():
-        print(f"{entity_type}: {percentage:.1f}%")
-
-    # Save results
     extractor.save_results()
 
     print(f"\nAnalysis complete. Results saved to {ENTITY_FREQ_DIR}")

@@ -3,6 +3,7 @@ import scripts.clean_texts as clean_texts
 import sys
 import json
 from pathlib import Path
+from modules_extractors.entity_extractor import process_all_files as extract_entities
 
 
 def main():
