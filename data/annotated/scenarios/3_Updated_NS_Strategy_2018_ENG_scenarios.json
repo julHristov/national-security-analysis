@@ -1,0 +1,3003 @@
+{
+  "file": "3_Updated_NS_Strategy_2018_ENG.txt",
+  "total_scenarios": 374,
+  "context_sentiment": {
+    "positive_score": 0.0,
+    "negative_score": 0.0,
+    "neutral_score": 0.0
+  },
+  "scenarios": [
+    {
+      "actor_1": "policy",
+      "action": "build",
+      "actor_2": null,
+      "concept": "values",
+      "sentence": "The policy of the Republic of Bulgaria in the field of security is built upon the values of democracy, the national culture, fundamental rights and freedoms, equal opportunities for personal development, as well as the Constitution of the country and foundational acts for guaranteeing international security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "strategy",
+      "action": "embody",
+      "actor_2": "character",
+      "concept": null,
+      "sentence": "2. The national security strategy embodies the peaceful character and traditions of good neighborliness and mutually beneficial cooperation that characterize the policy of our country.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "characterize",
+      "actor_2": "policy",
+      "concept": null,
+      "sentence": "2. The national security strategy embodies the peaceful character and traditions of good neighborliness and mutually beneficial cooperation that characterize the policy of our country.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "It",
+      "action": "form",
+      "actor_2": "part",
+      "concept": null,
+      "sentence": "It forms part of the efforts by the European Union (EU) and the North Atlantic Treaty Organization (NATO) to expand the zone of stability, cooperation, and prosperity by neutralizing threats from terrorism and extremism, overcoming regional conflicts, and actively participating in resolving global problems.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "strategy",
+      "action": "outline",
+      "actor_2": "understanding",
+      "concept": null,
+      "sentence": "The strategy outlines a broader understanding of national security, prioritizing the security of the citizen, public and economic aspects, without neglecting dimensions related to defense, foreign policy, intelligence, public order protection, and legality enforcement.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "changes",
+      "action": "define",
+      "actor_2": "need",
+      "concept": null,
+      "sentence": "Recent changes in regional security in the Black Sea region, the Middle East, and North Africa and emerging trends define the need for flexible, balanced, and synergistic use of national power policies and instruments to protect national interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Strategy",
+      "action": "identify",
+      "actor_2": "interests",
+      "concept": null,
+      "sentence": "4. The National Security Strategy of the Republic of Bulgaria identifies national interests, necessary conditions, and prerequisites for their realization by neutralizing risks and threats to the country and its citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "priorities",
+      "action": "direct",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "National and sectoral security priorities and policies are directed towards protecting national interests, considering the dynamics of the security environment while optimally distributing resources for effective management of the security system.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "strategy",
+      "action": "direct",
+      "actor_2": "resources",
+      "concept": "line",
+      "sentence": "The strategy directs Bulgaria's knowledge and material resources towards unity and prosperity in line with the European civilizational choice and national interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "adoption",
+      "action": "provide",
+      "actor_2": "guidelines",
+      "concept": null,
+      "sentence": "The adoption of the Concept for National Security in 1998 first provided guidelines for formulating a definition of national security, which was further developed through regulations such as the Law on the Protection of Classified Information (2002) and the Law on the State Agency \"National Security\" (2007).",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "develop",
+      "actor_2": null,
+      "concept": "regulations",
+      "sentence": "The adoption of the Concept for National Security in 1998 first provided guidelines for formulating a definition of national security, which was further developed through regulations such as the Law on the Protection of Classified Information (2002) and the Law on the State Agency \"National Security\" (2007).",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Law",
+      "action": "enter",
+      "actor_2": null,
+      "concept": "force",
+      "sentence": "In November 2015, the Law on Management and Functioning of the National Security Protection System, the Law on the State Intelligence Agency, the Law on the National Security Service, and the Law on Military Intelligence entered into force.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "mark",
+      "actor_2": "completion",
+      "concept": null,
+      "sentence": "This marked the completion of the legal framework for the national security system, including security services, which now operate in an environment clearly defined for operation, accountability, and control.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "operate",
+      "actor_2": null,
+      "concept": "environment",
+      "sentence": "This marked the completion of the legal framework for the national security system, including security services, which now operate in an environment clearly defined for operation, accountability, and control.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "definition",
+      "action": "adopt",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A unified legal definition of national security was adopted.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "relationships",
+      "action": "regulate",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The relationships between the political leadership of the state and professional structures of the system and operational and informational level cooperation among security services were regulated.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Law",
+      "action": "define",
+      "actor_2": "role",
+      "concept": "leadership",
+      "sentence": "7. The Law on Management and Functioning of the National Security Protection System defines the role of the Security Council to the Council of Ministers under the leadership of the Prime Minister of the Republic of Bulgaria, its functions, mandate, and operational capacity.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "they",
+      "action": "arise",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A clear mechanism for conflict prevention and crisis management when they arise was established.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "mechanism",
+      "action": "establish",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A clear mechanism for conflict prevention and crisis management when they arise was established.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "law",
+      "action": "regulate",
+      "actor_2": "cooperation",
+      "concept": null,
+      "sentence": "The law regulates cooperation with security systems of allied NATO and EU countries.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "consider",
+      "actor_2": null,
+      "concept": "member",
+      "sentence": "As a member of the EU and NATO, Bulgaria considers guaranteeing its security both as a strategic national task and within NATO's collective defense, the common foreign and security policy of the EU.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "allies",
+      "sentence": "The security strategy is part not only of national frameworks but also of the common conceptual framework and institutional system in which Bulgaria participates jointly with its allies.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Risks",
+      "action": "coincide",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Risks and threats to Bulgaria and its citizens largely coincide or are similar to those of other EU and NATO countries and the organizations as a whole.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "dynamics",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "risks",
+      "sentence": "The dynamics of existing and emerging new threats, the sharpening of the international political and military security environment lead to new risks and threats for citizens and society of a geopolitical and transnational character.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "threat",
+      "action": "increase",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A full-scale military conflict against Bulgaria is still unlikely but the threat of hybrid actions and cyber-attacks is increasing.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "environment",
+      "action": "require",
+      "actor_2": "prioritization",
+      "concept": null,
+      "sentence": "The changing security environment requires new prioritization in security policy, including the full use of institutional potential, new forms of interaction between the state, business, and civil society, such as public-private partnerships.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "expansion",
+      "action": "pose",
+      "actor_2": "challenges",
+      "concept": "links",
+      "sentence": "The expansion of the social scope of security policy poses new challenges for institutional coordination vertically and horizontally in hierarchical management links.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Institutions",
+      "action": "require",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Institutions and their structural units are required to act as integrated components of the national security system.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Policies",
+      "action": "counter",
+      "actor_2": "risks",
+      "concept": "security",
+      "sentence": "11. Policies to counter risks and threats to national security and guaranteeing the protection of citizens and democratic institutions are an integral part of EU and NATO efforts that lead to the realization of the vision of a unified area of freedom, security, and justice.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "realization",
+      "sentence": "11. Policies to counter risks and threats to national security and guaranteeing the protection of citizens and democratic institutions are an integral part of EU and NATO efforts that lead to the realization of the vision of a unified area of freedom, security, and justice.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "citizens",
+      "action": "feel",
+      "actor_2": null,
+      "concept": "which",
+      "sentence": "By implementing strategic priorities for building a more stable and democratic state, in which citizens feel protected in exercising their fundamental rights and obligations, Bulgaria seeks to more effectively participate in EU and NATO activities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "seek",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "By implementing strategic priorities for building a more stable and democratic state, in which citizens feel protected in exercising their fundamental rights and obligations, Bulgaria seeks to more effectively participate in EU and NATO activities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "create",
+      "actor_2": "readiness",
+      "concept": null,
+      "sentence": "Security policy creates readiness among institutions, society, and citizens to respond to the high dynamics of the security environment and the conditions for realizing Bulgaria's interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "policies",
+      "action": "base",
+      "actor_2": null,
+      "concept": "assessment",
+      "sentence": "General and sectoral security policies are based on assessment of the security environment, the capabilities to implement national interests and their development.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Implementation",
+      "action": "create",
+      "actor_2": "conditions",
+      "concept": null,
+      "sentence": "Implementation of the strategy will create conditions for protecting national interests and achieving national goals and priorities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "system",
+      "action": "build",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The national security system is built to achieve modern governance of efforts by state institutions, local authorities, economic entities, citizens, and their organizations to guarantee democracy and sustainable economic development and prosperity.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "strategy",
+      "action": "have",
+      "actor_2": "horizon",
+      "concept": "2025",
+      "sentence": "The updated strategy has a time horizon until 2025.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "следващите",
+      "action": "секции",
+      "actor_2": "документа",
+      "concept": null,
+      "sentence": "Продължавам с превода на следващите секции от документа.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "strategy",
+      "action": "base",
+      "actor_2": null,
+      "concept": "principles",
+      "sentence": "The national security strategy is based on the principles of: - rule of law; - mutual coherence and non-contradiction in the relations between security and fundamental rights and freedoms of citizens; - dialogue and extended cooperation between citizens, society, and the state; - trust among state institutions and cooperation with the private sector, non-governmental organizations, citizens, allies in NATO and the EU, and partner countries; - national consensus on security policy; - indivisibility of national security from the security of NATO and the EU; - proactivity and coordination in the activities of state institutions and organizations in accordance with their competencies; - application of a comprehensive inter-institutional approach in building the national security system; - openness, transparency and accountability in the formation and conduct of security policies; - efficiency and effectiveness of management and executive activities; - democratic control over the national security system.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "interests",
+      "action": "include",
+      "actor_2": "development",
+      "concept": null,
+      "sentence": "Vital interests include: - ensuring the rights, freedoms, security, health, and welfare of the citizen, society, and state; - preserving sovereignty, territorial integrity and the unity of the nation; - protection of constitutionally established order and democratic values; - protection of the population and critical infrastructure in crises, disasters, accidents, catastrophes and other risks and threats; - preservation and development of national identity based on Bulgarian citizenship; - guaranteeing the integrity of Bulgarian civil society; - overcoming negative demographic processes, significant disparities in regional development and building a socio-economic environment that ensures the development of generations of Bulgarian citizens, capable of guaranteeing Bulgaria a worthy place in the EU and global political, economic, financial and social processes; - development of education, upbringing, science and applied scientific activities in the spirit of national and pan-European values.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "ensure",
+      "actor_2": "development",
+      "concept": null,
+      "sentence": "Vital interests include: - ensuring the rights, freedoms, security, health, and welfare of the citizen, society, and state; - preserving sovereignty, territorial integrity and the unity of the nation; - protection of constitutionally established order and democratic values; - protection of the population and critical infrastructure in crises, disasters, accidents, catastrophes and other risks and threats; - preservation and development of national identity based on Bulgarian citizenship; - guaranteeing the integrity of Bulgarian civil society; - overcoming negative demographic processes, significant disparities in regional development and building a socio-economic environment that ensures the development of generations of Bulgarian citizens, capable of guaranteeing Bulgaria a worthy place in the EU and global political, economic, financial and social processes; - development of education, upbringing, science and applied scientific activities in the spirit of national and pan-European values.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "interests",
+      "action": "include",
+      "actor_2": "encroachments",
+      "concept": null,
+      "sentence": "Other important interests include: - favorable and predictable security environment; - effective functioning of Bulgarian institutions together with those of the EU and NATO to achieve collective security and improve its state through development of operational interoperability; - maintaining good neighborly relations and ensuring regional security and stability; - strengthening NATO and EU participation in security policies and mechanisms in the Black Sea region and continuing integration processes of the countries in the region that have set the respective goals within European and Euro-Atlantic structures; - further stabilization and full inclusion in the Euro-Atlantic and European political and economic space of the Western Balkans countries; - development of regional cooperation in the Danube region and confirming Bulgaria's active role bilaterally and multilaterally in support of peace and security in the area, and for realizing economic and infrastructure programs of regional and pan-European significance in the context of the EU Strategy for the Danube Region; - guaranteeing energy security through diversification of energy sources, supply routes and strategic raw materials; - guaranteeing economic, financial and social stability and economic prosperity; - protection of public health; - prevention and counteraction of corruption and organized crime; - limiting encroachments on individuals and property; - development and guaranteeing secure cyberspace; - protection of environment and rational use of natural resources.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "set",
+      "actor_2": "goals",
+      "concept": null,
+      "sentence": "Other important interests include: - favorable and predictable security environment; - effective functioning of Bulgarian institutions together with those of the EU and NATO to achieve collective security and improve its state through development of operational interoperability; - maintaining good neighborly relations and ensuring regional security and stability; - strengthening NATO and EU participation in security policies and mechanisms in the Black Sea region and continuing integration processes of the countries in the region that have set the respective goals within European and Euro-Atlantic structures; - further stabilization and full inclusion in the Euro-Atlantic and European political and economic space of the Western Balkans countries; - development of regional cooperation in the Danube region and confirming Bulgaria's active role bilaterally and multilaterally in support of peace and security in the area, and for realizing economic and infrastructure programs of regional and pan-European significance in the context of the EU Strategy for the Danube Region; - guaranteeing energy security through diversification of energy sources, supply routes and strategic raw materials; - guaranteeing economic, financial and social stability and economic prosperity; - protection of public health; - prevention and counteraction of corruption and organized crime; - limiting encroachments on individuals and property; - development and guaranteeing secure cyberspace; - protection of environment and rational use of natural resources.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "system",
+      "action": "face",
+      "actor_2": "challenges",
+      "concept": null,
+      "sentence": "The system of international relations faces new challenges.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "balance",
+      "action": "change",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The geopolitical, military, and economic balance is significantly changing; opposition intensifies, existing and new risks and threats to global security arise.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "intensifies",
+      "action": "arise",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The geopolitical, military, and economic balance is significantly changing; opposition intensifies, existing and new risks and threats to global security arise.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Peace",
+      "action": "interconnect",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Peace, security, development, and prosperity are interconnected more than ever before.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "environment",
+      "action": "gain",
+      "actor_2": "importance",
+      "concept": null,
+      "sentence": "The security environment gains special importance for societal processes.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Dependence",
+      "action": "increase",
+      "actor_2": "probability",
+      "concept": null,
+      "sentence": "Dependence between personal, national, and international security, as well as states' reliance on vital resources (energy, water, food), increases the probability of crises.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Problems",
+      "action": "become",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Problems in this area have become some of the most serious risks for all countries, regardless of economic status and resource availability.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "agreement",
+      "action": "represent",
+      "actor_2": "element",
+      "concept": null,
+      "sentence": "Their agreement on cooperation in defense represents a significant element of joint efforts to maintain peace and stability in Europe and worldwide.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "none",
+      "action": "consider",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Bulgaria's membership in the EU and NATO, along with the fact that none of its neighboring countries consider it a potential enemy, remain key factors for its external security and will continue to prevent a direct military threat to sovereignty and territorial integrity in the long term.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "it",
+      "action": "remain",
+      "actor_2": null,
+      "concept": "exit",
+      "sentence": "Despite the exit of the United Kingdom from the EU, it remains an ally with whom Bulgaria continues to develop security relations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "continue",
+      "actor_2": null,
+      "concept": "whom",
+      "sentence": "Despite the exit of the United Kingdom from the EU, it remains an ally with whom Bulgaria continues to develop security relations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "security",
+      "action": "become",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "External and internal security become increasingly interdependent, and their distinction acquires a conditional character.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "distinction",
+      "action": "acquire",
+      "actor_2": "character",
+      "concept": null,
+      "sentence": "External and internal security become increasingly interdependent, and their distinction acquires a conditional character.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "influence",
+      "action": "exert",
+      "actor_2": null,
+      "concept": "dimensions",
+      "sentence": "Strategic influence on the internal security environment is exerted by international financial, economic, and political processes, energy, transport, and other international infrastructure projects with transcontinental dimensions.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "remain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Bulgaria remains committed to protecting democratic values, guarding and controlling the EU's external borders, and fighting cross-border crime and terrorism.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "that",
+      "action": "generate",
+      "actor_2": "insecurity",
+      "concept": null,
+      "sentence": "Climate change is a globally significant factor that generates growing insecurity and acts as a catalyst for tension caused by a complex interplay of factors such as population growth, urbanization, globalization, industrialization, biodiversity loss, and depletion of natural resources.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "change",
+      "action": "affect",
+      "actor_2": "groups",
+      "concept": null,
+      "sentence": "Climate change already affects large groups of people by limiting access to vital resources, impacting health, and threatening critical infrastructure.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "development",
+      "action": "increase",
+      "actor_2": "importance",
+      "concept": null,
+      "sentence": "The development of information and communication technologies increases the importance of cyberspace for citizens, public authorities, and businesses.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "balance",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "strengthening",
+      "sentence": "The changing balance in international relations leads to strengthening of existing and emergence of new risks and threats to the security of the Republic of Bulgaria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "importance",
+      "action": "remain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The fundamental importance of the United Nations as a source of legitimate legal actions by the international community in various areas of global security remains.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "trend",
+      "action": "observe",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A steady trend towards increasing general insecurity at the international level is observed.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "processes",
+      "action": "create",
+      "actor_2": "challenges",
+      "concept": "security",
+      "sentence": "The ongoing destabilization processes in the Black Sea region and Eastern Mediterranean, the geopolitical crises, the rising global risk of terrorist attacks, and the continuing migration pressure have created new challenges to security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "processes",
+      "action": "form",
+      "actor_2": "zone",
+      "concept": null,
+      "sentence": "Crisis processes in the Middle East, Africa, and certain countries in Central Asia, along with worsening economic and humanitarian conditions, have formed a large zone of instability at regional and global levels.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Insecurity",
+      "action": "generate",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Insecurity is generated by political instability in some countries of these regions, the growth of ethnic and religious conflicts, separatist tendencies, potential risks of redrawing national borders, ambitions of regional and international actors, and others.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "dynamics",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The dynamics of global processes continue to catalyze manifestations of violent extremism.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Marginalization",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": "increase",
+      "sentence": "Marginalization, growing poverty and inequality, and political disillusionment, as well as social environment and other factors contribute to an increase in supporters of legally functioning and informal extreme political formations and nationalist movements.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "initiatives",
+      "action": "tend",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Their initiatives tend to be aggressive and often take on terrorist characteristics.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "threats",
+      "action": "affect",
+      "actor_2": "environment",
+      "concept": null,
+      "sentence": "Asymmetric threats (especially international terrorism and proliferation of weapons of mass destruction), regional conflicts, cybercrime, and transnational organized crime significantly affect the security environment globally and regionally.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Radicalization",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Radicalization and terrorism will continue to generate threats to global and national security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "conflicts",
+      "action": "exacerbate",
+      "actor_2": "threat",
+      "concept": null,
+      "sentence": "Regional conflicts as well as economic and financial crises exacerbate this threat.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "threat",
+      "action": "increase",
+      "actor_2": "bases",
+      "concept": "environment",
+      "sentence": "The terrorist threat to Europe from religiously motivated groups is increasing due to a favorable environment for spreading radical ideologies based on Islam among parts of Muslim communities in Western Europe and the Balkans, the logistical bases created in the Middle East and North Africa, and the returning foreign fighters from conflict zones who possess real combat experience.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "who",
+      "action": "possess",
+      "actor_2": "experience",
+      "concept": null,
+      "sentence": "The terrorist threat to Europe from religiously motivated groups is increasing due to a favorable environment for spreading radical ideologies based on Islam among parts of Muslim communities in Western Europe and the Balkans, the logistical bases created in the Middle East and North Africa, and the returning foreign fighters from conflict zones who possess real combat experience.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "organizations",
+      "action": "exploit",
+      "actor_2": "opportunities",
+      "concept": null,
+      "sentence": "Terrorist organizations, alongside decentralization of structures and diversification of methods, skillfully exploit opportunities to infiltrate members into democratic societies and attract new supporters.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "ideology",
+      "action": "accept",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Their ideology is mainly accepted by marginalized groups and inspires them to undertake independent actions.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Opportunities",
+      "action": "increase",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Opportunities for extremist groups to use radioactive substances, ionizing radiation sources, toxic substances, and biological agents, as well as information technologies for terrorist purposes, are increasing.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Migration",
+      "action": "become",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Migration is becoming a long-term and deepening problem with the risk, if unmanaged, to become a strategic threat to democratic societies and economies in transit and host countries.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "situation",
+      "action": "generate",
+      "actor_2": "risks",
+      "concept": null,
+      "sentence": "The situation in the Middle East, Central Asia, and Africa generates risks of increased migration pressure, negatively affecting the security of countries in Europe, including Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "location",
+      "action": "predetermine",
+      "actor_2": "flow",
+      "concept": null,
+      "sentence": "Bulgaria's geographical location predetermines a constant flow of illegal migrants towards its borders.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "development",
+      "action": "outline",
+      "actor_2": "number",
+      "concept": null,
+      "sentence": "The development of these processes outlines a number of risks to national security in economic, health, social, and political terms.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "risk",
+      "action": "create",
+      "actor_2": "prerequisites",
+      "concept": null,
+      "sentence": "The risk of foreign fighters infiltrating migration flows creates prerequisites for terrorist and logistical cells on our territory, as well as for radicalization of groups and individuals, especially those in marginalized socio-economic positions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "crime",
+      "action": "generate",
+      "actor_2": "threats",
+      "concept": "security",
+      "sentence": "Transnational organized crime in the Balkans, especially connected with illegal human trafficking, forgery and distribution of false Bulgarian and foreign identity documents, illegal schemes for obtaining visas, long-term residence rights, and Bulgarian citizenship, as well as illegal trafficking of goods, drugs, and weapons, generates serious threats to Bulgaria's security and leads to economic losses.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "desire",
+      "action": "include",
+      "actor_2": "risks",
+      "concept": null,
+      "sentence": "The desire of organized crime groups for quick profits includes risks of their capacities being exploited by terrorist groups for material, financial, and logistical support.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "crime",
+      "action": "create",
+      "actor_2": "prerequisites",
+      "concept": null,
+      "sentence": "Organized crime creates prerequisites for corruption and exploits it.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "location",
+      "action": "make",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The geopolitical location and significance of the Balkans, the diverse foreign policy orientations of countries in the region, political instability, and proximity to crisis zones make it an attractive operational field for intelligence services.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "activity",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "This activity is aimed at acquiring information on political, economic, and social processes, the state of armed forces and defense policy of Bulgaria, as well as creating positions for influence over public opinion and decision-making.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "groups",
+      "action": "exploit",
+      "actor_2": "cyberspace",
+      "concept": null,
+      "sentence": "Organized crime groups exploit cyberspace to achieve their interests and criminal plans.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "groups",
+      "action": "improve",
+      "actor_2": "ways",
+      "concept": null,
+      "sentence": "Terrorist groups constantly improve ways and methods to find vulnerabilities in internet and communication-information systems, including military and special-purpose ones, aiming to disrupt their functionality.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "They",
+      "action": "use",
+      "actor_2": "cyberspace",
+      "concept": "promotion",
+      "sentence": "They actively use cyberspace for open promotion of radical ideas, attracting supporters, manipulating public opinion, issuing threats, and spreading disinformation.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "risk",
+      "action": "increase",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The risk of continued attempts by some states to acquire and develop nuclear and missile potential for military purposes in violation of international obligations and restrictions imposed by the international community is increasing.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "groups",
+      "action": "demonstrate",
+      "actor_2": "intentions",
+      "concept": "parallel",
+      "sentence": "In parallel with attempts by countries to acquire radioactive materials, toxic and biological agents, terrorist groups demonstrate intentions to build capacity for their use.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "efforts",
+      "action": "pose",
+      "actor_2": "risks",
+      "concept": null,
+      "sentence": "Organized criminal groups' efforts to obtain such materials for economic gain also pose risks.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "These",
+      "action": "generate",
+      "actor_2": "concerns",
+      "concept": null,
+      "sentence": "These generate concerns related to the security of existing nuclear arsenals and radioactive materials and the development of delivery systems in countries with ineffective management and security bodies.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "escalation",
+      "action": "increase",
+      "actor_2": "users",
+      "concept": null,
+      "sentence": "The escalation of armed conflicts globally increases the risk of illegal weapons deliveries, including re-export to embargoed countries and/or illegitimate end users, including terrorist organizations.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "continue",
+      "actor_2": "participation",
+      "concept": null,
+      "sentence": "Bulgaria continues active participation in international organizations and initiatives and supports full implementation and universalization of relevant international legal acts effectively limiting WMD proliferation.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "trend",
+      "action": "prevail",
+      "actor_2": null,
+      "concept": "Europe",
+      "sentence": "In Southeastern Europe, a trend of further stabilization and full inclusion in the Euro-Atlantic and European spaces prevails.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "partnerships",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": "this",
+      "sentence": "Bilateral and regional partnerships and market expansion, along with joint projects in various fields, contribute to this.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "cooperation",
+      "action": "base",
+      "actor_2": null,
+      "concept": "membership",
+      "sentence": "The deepening cooperation and neighborliness are based on NATO and EU membership of countries in the region and the gradual integration processes of Western Balkan countries into European and Euro-Atlantic structures.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "*",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": "organizations",
+      "sentence": "*** Acceleration of interaction mechanisms between the Republic of Bulgaria and the countries of the Western Balkans, based on their specific position as candidates for membership in NATO and the European Union, will contribute to their faster integration into both organizations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "risks",
+      "action": "remain",
+      "actor_2": null,
+      "concept": "manifestations",
+      "sentence": "Certain risks of destabilization remain relevant in Western Balkan countries due to manifestations of nationalism and the presence of interethnic and religious conflicts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Actions",
+      "action": "pose",
+      "actor_2": "potential",
+      "concept": null,
+      "sentence": "Actions by external forces aimed at destabilizing the political process and ethnic and religious reconciliation, as well as spreading radical ideologies and practices, pose a risk potential for security in the region.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "consider",
+      "actor_2": "region",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria considers the Black Sea region within the broader European and Euro-Atlantic context with a goal to deepen cooperation among countries in economy, trade, and security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "region",
+      "action": "gain",
+      "actor_2": "importance",
+      "concept": "context",
+      "sentence": "This region gains particular importance in the context of the development of the network for the transportation of key energy carriers connecting producing countries with energy markets in Europe.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "conflicts",
+      "action": "remain",
+      "actor_2": null,
+      "concept": "security",
+      "sentence": "Frozen conflicts in the post-Soviet space remain a constant source of tension and risk to security, and affected countries continue to be arenas of confrontation for different geopolitical interests.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "countries",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Frozen conflicts in the post-Soviet space remain a constant source of tension and risk to security, and affected countries continue to be arenas of confrontation for different geopolitical interests.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "crisis",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "disruption",
+      "sentence": "The crisis in Ukraine and the illegal annexation of the Crimean Peninsula have led to a permanent disruption of the geostrategic and military balance in the Black Sea region.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Contradictions",
+      "action": "grow",
+      "actor_2": null,
+      "concept": "fields",
+      "sentence": "Contradictions also grow in economic and cultural fields.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "disregard",
+      "action": "undermine",
+      "actor_2": "trust",
+      "concept": null,
+      "sentence": "The disregard of territorial integrity of independent states, conducting information operations, and widespread use of hybrid strategies undermine trust and significantly hinder the return to dialogue and finding durable political solutions related to Europe's security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "they",
+      "action": "recognize",
+      "actor_2": "status",
+      "concept": null,
+      "sentence": "Bulgarian citizens, Bulgarian communities outside the country, and national minorities in countries where they have legally recognized status, though for significantly different reasons, need greater and appropriate attention from the state.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "citizens",
+      "action": "need",
+      "actor_2": "attention",
+      "concept": "state",
+      "sentence": "Bulgarian citizens, Bulgarian communities outside the country, and national minorities in countries where they have legally recognized status, though for significantly different reasons, need greater and appropriate attention from the state.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "This",
+      "action": "express",
+      "actor_2": null,
+      "concept": "birth",
+      "sentence": "This should be expressed through informational and cultural exchanges and special relations towards Bulgarians born and raised outside the country, as well as to persons of Bulgarian origin regardless of citizenship at birth.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "communities",
+      "action": "subject",
+      "actor_2": null,
+      "concept": "pressures",
+      "sentence": "Bulgarian communities, including national minorities in various countries, are subjected to economic, political, and assimilation pressures as well as increased interest from security services.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "communities",
+      "action": "enjoy",
+      "actor_2": "rights",
+      "concept": null,
+      "sentence": "There is risk of similar trends developing in countries where Bulgarian communities currently enjoy relatively broad cultural and ethnic self-awareness rights.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "risks",
+      "action": "arise",
+      "actor_2": null,
+      "concept": "accidents",
+      "sentence": "Environmental security risks arise from industrial accidents with harmful emissions, cross-border air, water, and coastal pollution, and threats from terrorist activities using substances especially dangerous to the environment and humans.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Implementation",
+      "action": "increase",
+      "actor_2": "levels",
+      "concept": null,
+      "sentence": "Implementation of strategic international transport and energy projects increases security levels, but also requires building capacities to protect critical infrastructure.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Attempts",
+      "action": "harm",
+      "actor_2": "interests",
+      "concept": null,
+      "sentence": "Attempts to hinder realization of these projects harm Bulgaria's interests for economic development and improving population welfare.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Globalization",
+      "action": "facilitate",
+      "actor_2": "spread",
+      "concept": null,
+      "sentence": "Globalization of transport connections facilitates rapid spread of infectious diseases and epidemics worldwide, exposing states and their citizens, including armed forces formations participating in international missions and operations in complex natural conditions, to risk.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Diversification",
+      "action": "remain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Diversification of suppliers and routes for natural gas delivery remains a priority.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "implementation",
+      "sentence": "Bulgaria actively participates in implementation of the EU's Global Security and Defense Strategy.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "initiative",
+      "action": "allow",
+      "actor_2": "cooperation",
+      "concept": null,
+      "sentence": "The EU security capability building initiative allows increased cooperation between security services and other institutions of EU member states and between them and EU institutions, enhancing efficiency in countering common asymmetric challenges.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "capacities",
+      "action": "create",
+      "actor_2": null,
+      "concept": "response",
+      "sentence": "Joint capacities are created for an adequate and timely response to external conflicts and crises, hybrid, cyber, and terrorist threats elimination, protection of external borders, migration flow management, combating human and arms trafficking, and development of the European defense industry and harmonization of defense and security policies.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "instruments",
+      "action": "establish",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Legal instruments have been established and institutions set up for the protection of human rights and fundamental freedoms, including the right to self-determination and free self-organization for the development of communities formed on the basis of ethnic, age, religious, professional, or other criteria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "institutions",
+      "action": "set",
+      "actor_2": null,
+      "concept": "protection",
+      "sentence": "Legal instruments have been established and institutions set up for the protection of human rights and fundamental freedoms, including the right to self-determination and free self-organization for the development of communities formed on the basis of ethnic, age, religious, professional, or other criteria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "contribution",
+      "action": "make",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A significant contribution to guaranteeing national security is made by Bulgaria's intelligence community and public order services, which perform early warning and other activities within their remit in the interest of national security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "perform",
+      "actor_2": "warning",
+      "concept": "interest",
+      "sentence": "A significant contribution to guaranteeing national security is made by Bulgaria's intelligence community and public order services, which perform early warning and other activities within their remit in the interest of national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Cooperation",
+      "action": "deepen",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Cooperation with the relevant structures of NATO, the EU, member states, and other countries is deepening.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "that",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": "jobs",
+      "sentence": "As part of the strategy, ensuring the positioning of Bulgaria among the EU member states with stable economic growth and sound financial state, aiming for higher credit ratings, improved business environment, and attraction of new investments that will contribute to new jobs and stabilizing the social-demographic situation in the country, state institutions and businesses consistently take steps towards Bulgaria's accession to the Organization for Economic Cooperation and Development (OECD).",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "institutions",
+      "action": "take",
+      "actor_2": "steps",
+      "concept": "accession",
+      "sentence": "As part of the strategy, ensuring the positioning of Bulgaria among the EU member states with stable economic growth and sound financial state, aiming for higher credit ratings, improved business environment, and attraction of new investments that will contribute to new jobs and stabilizing the social-demographic situation in the country, state institutions and businesses consistently take steps towards Bulgaria's accession to the Organization for Economic Cooperation and Development (OECD).",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "mechanism",
+      "action": "play",
+      "actor_2": "role",
+      "concept": null,
+      "sentence": "The cooperation and verification mechanism of the European Commission in the fields of justice and home affairs plays an essential role in overcoming shortcomings in judicial reform and in combating corruption and organized crime.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Corruption",
+      "action": "remain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Corruption, especially high-level corruption, remains one of the main problems of contemporary Bulgarian society.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Corruption",
+      "action": "threaten",
+      "actor_2": "existence",
+      "concept": null,
+      "sentence": "Corruption threatens the existence and implementation of social, legal, and moral norms, strengthens organized crime potential, undermines the authority of the authorities, weakens their functioning, and compromises reforms.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Opportunities",
+      "action": "create",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Opportunities for corruption are created by deficiencies in the governance of the state and municipalities, expressed through deliberate or incompetent increases and complicating of permission and licensing regimes, excessive control functions of administrative bodies, lack of necessary transparency and consistency in public procurement and spending of public funds.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "results",
+      "action": "manifest",
+      "actor_2": null,
+      "concept": "years",
+      "sentence": "Since managing such a crisis is complex and mostly inertial, the results of actions taken will manifest after years or even decades.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Postponement",
+      "action": "have",
+      "actor_2": "consequences",
+      "concept": null,
+      "sentence": "Postponement or taking incomplete or inadequate measures will have severe consequences for vital national interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "crimes",
+      "action": "decrease",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Economic crimes related to the so-called \"grey economy\" are decreasing but remain widespread.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "crimes",
+      "action": "represent",
+      "actor_2": "means",
+      "concept": null,
+      "sentence": "These crimes, along with increasingly complex money laundering methods, represent means to damage the state budget and undermine the welfare and interests of citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "crime",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Conventional crime continues to threaten daily life; high-risk zones for property and life have appeared in certain regions and settlements.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "zones",
+      "action": "appear",
+      "actor_2": null,
+      "concept": "regions",
+      "sentence": "Conventional crime continues to threaten daily life; high-risk zones for property and life have appeared in certain regions and settlements.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Insecurity",
+      "action": "rise",
+      "actor_2": null,
+      "concept": "people",
+      "sentence": "Insecurity is rising among people living in depopulated settlements and areas.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Problems",
+      "action": "arise",
+      "actor_2": null,
+      "concept": "cases",
+      "sentence": "Problems affecting citizens' security and interests arise alongside crime due to cases of mismanagement, bureaucracy, abuse, and inefficiency in managing state and municipal property.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "number",
+      "action": "justify",
+      "actor_2": "claims",
+      "concept": "results",
+      "sentence": "Despite results achieved since 2011, the number of road traffic accidents and their consequences justify claims of a \"war on the roads.\"",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Hundreds",
+      "action": "die",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Hundreds die, thousands are injured, with significant financial and material damages inflicted.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "thousands",
+      "action": "injure",
+      "actor_2": null,
+      "concept": "damages",
+      "sentence": "Hundreds die, thousands are injured, with significant financial and material damages inflicted.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "resources",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "changes",
+      "sentence": "Increased financial resources for healthcare have not led to substantial changes in regressive trends already observed.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Analysis",
+      "action": "show",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Analysis of primary health and demographic indicators shows that Bulgaria currently faces significant risks to national security related to high overall and premature mortality, high maternal and infant mortality, high levels of disability and permanent incapacity, and low life expectancy both in years and healthy years.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "face",
+      "actor_2": "risks",
+      "concept": "security",
+      "sentence": "Analysis of primary health and demographic indicators shows that Bulgaria currently faces significant risks to national security related to high overall and premature mortality, high maternal and infant mortality, high levels of disability and permanent incapacity, and low life expectancy both in years and healthy years.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Changes",
+      "action": "accompany",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Changes in the healthcare system have been accompanied by attempts to exploit legislative gaps and commit unlawful acts by officials and others.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "organization",
+      "action": "cause",
+      "actor_2": "violations",
+      "concept": null,
+      "sentence": "Inefficient organization of the system causes violations in this field.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "problem",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The problem of \"draining\" the National Health Insurance Fund through abuse of clinical pathways continues.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "predispose",
+      "actor_2": null,
+      "concept": "integration",
+      "sentence": "For years there has been a deterioration in the health status of the population, as well as pronounced negative trends in the educational and qualification levels of significant groups within Bulgarian society, which predisposes to insufficient integration of some ethnic minority communities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "potential",
+      "action": "lie",
+      "actor_2": null,
+      "concept": "differentiation",
+      "sentence": "The disintegration potential lies in significant differentiation between social groups in society, often regarded as unacceptable injustice.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "origin",
+      "action": "undermine",
+      "actor_2": "authority",
+      "concept": "cases",
+      "sentence": "The unclear origin of capital in many cases undermines the state's authority as the main guarantor of legality and also erodes trust in successful citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "remain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Bulgaria remains a transit destination for the majority of migrants who do not show interest in integrating into the country's socio-economic life.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "who",
+      "action": "show",
+      "actor_2": "interest",
+      "concept": null,
+      "sentence": "Bulgaria remains a transit destination for the majority of migrants who do not show interest in integrating into the country's socio-economic life.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "pressure",
+      "action": "foster",
+      "actor_2": "growth",
+      "concept": null,
+      "sentence": "Migration pressure and the perception of the country as a transit route towards wealthier European countries foster growth in crimes related to illegal trafficking of people, along with associated offenses.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "poverty",
+      "action": "increase",
+      "actor_2": "vulnerability",
+      "concept": "ideologies",
+      "sentence": "Extreme poverty, social isolation, and marginalization characterizing some communities increase their vulnerability to radical religious and other ideologies.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "encapsulation",
+      "action": "influence",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The encapsulation by ethnic or religious criteria is influenced also by external factors.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "forms",
+      "action": "pose",
+      "actor_2": "challenge",
+      "concept": null,
+      "sentence": "Various forms of extremism, motivated by political, religious, ethnic, socio-economic, or other reasons, pose a serious challenge to international and national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "dependence",
+      "action": "create",
+      "actor_2": "vulnerabilities",
+      "concept": null,
+      "sentence": "High dependence on energy resources creates vulnerabilities economically and politically.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Projects",
+      "action": "impact",
+      "actor_2": "situation",
+      "concept": null,
+      "sentence": "Projects for diversification of energy sources and supply routes impact the geopolitical situation in the Balkans and Europe and have a direct impact on Bulgaria's national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Challenges",
+      "action": "arise",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Challenges arise in ensuring the protection of strategic sites and activities, including information systems critical to society and the state.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "risks",
+      "action": "stem",
+      "actor_2": null,
+      "concept": "activities",
+      "sentence": "Environmental security risks stem from soil, water, and air pollution, destruction of natural resources due to unlawful activities and lax control, as well as accidents or disasters.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "efforts",
+      "action": "need",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Consistent efforts are needed to build security awareness among persons whose official duties involve access to classified information.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "duties",
+      "action": "involve",
+      "actor_2": "access",
+      "concept": null,
+      "sentence": "Consistent efforts are needed to build security awareness among persons whose official duties involve access to classified information.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "превода",
+      "action": "секцията",
+      "actor_2": "*",
+      "concept": null,
+      "sentence": "Продължавам с превода на секцията **III.3 Общи изводи за средата на сигурност**:",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "дестабилизиращи",
+      "action": "влияния",
+      "actor_2": "оказват",
+      "concept": null,
+      "sentence": "Основни дестабилизиращи влияния оказват: протестите и конфликти в някои държави, международните престрелки, икономическите кризи, а също и терористични действия и транснационалната престъпност.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "държави",
+      "action": "действия",
+      "actor_2": "престъпност",
+      "concept": null,
+      "sentence": "Основни дестабилизиращи влияния оказват: протестите и конфликти в някои държави, международните престрелки, икономическите кризи, а също и терористични действия и транснационалната престъпност.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Въздействията",
+      "action": "дълбоките",
+      "actor_2": "обществото",
+      "concept": null,
+      "sentence": "Въздействията от кризите в областта на сигурността, дълбоките промени във вътрешната среда и развитието на нови заплахи могат да доведат до кризи, застрашаващи състоянието на националната сигурност, стабилността на обществото и потенциала за развитие на България като цяло.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "В",
+      "action": "условията",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "В условията на засилена миграционна и енергийна криза, натискът върху критичната инфраструктура и системите за защита на обществото, както и предизвикателствата пред киберсигурността, изискват висока степен на национална мобилизация и стратегическа подготовка.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "засилена",
+      "action": "криза",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "В условията на засилена миграционна и енергийна криза, натискът върху критичната инфраструктура и системите за защита на обществото, както и предизвикателствата пред киберсигурността, изискват висока степен на национална мобилизация и стратегическа подготовка.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "тази",
+      "action": "връзка",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "В тази връзка, е необходимо да се продължи работата по актуализиране и усъвършенстване на националната стратегия за сигурност, като се включат най-новите изследвания, анализи и инструменти",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Ето",
+      "action": "превод",
+      "actor_2": "на",
+      "concept": "текст",
+      "sentence": "SECURITY POLICY Ето превод на зададения от теб текст от IV.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "policy",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The security policy is aimed at creating the necessary conditions and prerequisites for guaranteeing human rights, national interests, limiting the impact of risks and threats, optimal allocation of resources, and increasing the security of citizens.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "base",
+      "actor_2": null,
+      "concept": "priorities",
+      "sentence": "The national security policy is based on the priorities outlined in this strategy and is concretized in sectoral strategies and policies.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "implementation",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "dynamics",
+      "sentence": "The implementation of the individual components of the security policy depends on the dynamics of the security environment and the available resources.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "realize",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "This will be realized through: - Continuous improvement of the regulatory framework that limits opportunities for corrupt practices and manifestations of poor governance and reduces administrative burden by eliminating unnecessary procedures related to permits and control mechanisms; - Increasing the efficiency, transparency, and accountability in the functioning of institutions; - Clear distribution of duties and powers at political and administrative levels within executive bodies; - Enhancing the competence of the state administration and its effectiveness; - Developing the capabilities of officials to detect and counter attempts at corruption; - Applying existing and developing new forms of control over political and administrative levels, performed by both public organizations and individual citizens; - Developing cooperation, partnership, and citizen and civil society participation in the implementation of anti-corruption policies and measures by the executive power.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "that",
+      "action": "limit",
+      "actor_2": "opportunities",
+      "concept": null,
+      "sentence": "This will be realized through: - Continuous improvement of the regulatory framework that limits opportunities for corrupt practices and manifestations of poor governance and reduces administrative burden by eliminating unnecessary procedures related to permits and control mechanisms; - Increasing the efficiency, transparency, and accountability in the functioning of institutions; - Clear distribution of duties and powers at political and administrative levels within executive bodies; - Enhancing the competence of the state administration and its effectiveness; - Developing the capabilities of officials to detect and counter attempts at corruption; - Applying existing and developing new forms of control over political and administrative levels, performed by both public organizations and individual citizens; - Developing cooperation, partnership, and citizen and civil society participation in the implementation of anti-corruption policies and measures by the executive power.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "capabilities",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": "problems",
+      "sentence": "Adequate capabilities to protect national security against contemporary risks and threats are achieved through: - Overcoming systemic problems in resource provision by introducing a coordinated approach to managing and financing the National Security Protection System; -",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "priorities",
+      "action": "include",
+      "actor_2": "Preparedness",
+      "concept": null,
+      "sentence": "Other long-term priorities of national security include: - Constant measures to maintain a high level of staffing with human resources in the agencies of the National Security Protection System; - Regulation of rules and mechanisms to coordinate the individual sectoral policies and actions of the agencies within the National Security Protection System with the actions of civil organizations and business in practical counteraction to risks and threats to national security, as well as in crises of different kinds, through drafting and adopting a new Law on Crisis Management; - Preparedness to carry out maintenance activities as a host country for the reception of allied forces on the territory of the Republic of Bulgaria; - Execution of activities related to the country's defense-mobilization preparation.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "This",
+      "action": "require",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "This requires building regulatory and institutional capacity to manage significant immigration flows and establishing immigration procedures oriented toward qualitative selection of candidates corresponding to the needs of the economy, society, and state.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "implementation",
+      "action": "form",
+      "actor_2": "trust",
+      "concept": null,
+      "sentence": "The implementation of fair and timely justice forms society's trust in state governance and guarantees citizens' rights, normal functioning of institutions, and economic entities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "It",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "It will be achieved through: - Ensuring transparency and effectiveness at all stages of justice administration; - Increasing the professionalism of security and public order services, prosecution, and courts, along with developing forms of accountability to society; - Creating a unified information environment for monitoring and controlling the judicial process; - Guaranteeing judicial independence and protecting it from attempts of unauthorized influence; - Establishing effective forms of justice administration for especially dangerous and complex crimes for investigation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "It",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "It will be achieved through: - Improving the regulatory and institutional environment for starting and developing economic activities; - Accelerating the implementation of measures to reduce the shadow economy; - Strengthening financial audit bodies in assigning, implementing, monitoring, and controlling public procurement, concessions, and public-private partnerships; - Developing forms of good corporate governance and a culture of accountability on the part of business and its representative organizations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "goal",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Until this strategic goal is achieved, the introduced currency board remains in place.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "board",
+      "action": "remain",
+      "actor_2": null,
+      "concept": "place",
+      "sentence": "Until this strategic goal is achieved, the introduced currency board remains in place.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "authorities",
+      "action": "implement",
+      "actor_2": "policies",
+      "concept": "cooperation",
+      "sentence": "Fiscal authorities implement effective policies, including management of the revenue side of the state budget, in cooperation with other state bodies and in partnership with private economic entities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "authorities",
+      "action": "protect",
+      "actor_2": "interests",
+      "concept": null,
+      "sentence": "Banking and financial supervisory authorities protect the interests of depositors, investors, insured persons, and direct their efforts toward maintaining stability of the financial system and markets and confidence in them.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "development",
+      "action": "support",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Balanced economic development of regions in the Republic of Bulgaria is supported by encouraging investment activity, simplifying administrative procedures in the investment process, and implementing projects under programs funded by the state budget and EU funds.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Cooperation",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": "mechanisms",
+      "sentence": "Cooperation with the private sector contributes to developing mechanisms to prevent fraud and money laundering, and to creating conditions for economic and social development within an effective competitive environment.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "possess",
+      "actor_2": "system",
+      "concept": null,
+      "sentence": "The strategic vision for the transport sector is for the Republic of Bulgaria to possess a modern, safe, secure, and high-quality transport system that ensures transport connectivity and accessibility (both internal and external).",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "ensure",
+      "actor_2": "connectivity",
+      "concept": null,
+      "sentence": "The strategic vision for the transport sector is for the Republic of Bulgaria to possess a modern, safe, secure, and high-quality transport system that ensures transport connectivity and accessibility (both internal and external).",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "priorities",
+      "action": "implement",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "To achieve this, the following priorities are implemented: - Building, maintaining, modernizing, and developing transport infrastructure through: - Implementation of priority railway (rail) projects; - Improving the technical condition of the rolling stock; - Development of intermodal transport; - Completion of the country's motorway ring and its connection to the European transport system; - Enhancing the security and safety of the transport sector through the introduction of intelligent transport systems; - Limiting the negative impact of transport on the environment and people's health.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "importance",
+      "action": "lie",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Key importance for the national security of the Republic of Bulgaria in the field of transport lies in: - Developing a long-term strategy for Bulgarian railways; - Effective maintenance, modernization, and development of transport infrastructure; - Attracting investments and professional management of transport infrastructure and facilities; - Improving the quality of services in the railway sector.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "goal",
+      "action": "focus",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The strategic goal of the policy in the field of electronic communications is focused on ensuring sustainable sector development by: - Creating conditions for free and effective competition in the electronic communications market as part of the EU single internal market; - Developing modern electronic communication infrastructure; - Efficient use of limited resources; - Protecting consumer interests.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "consider",
+      "actor_2": "security",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria considers social security as a unity of high quality in education, healthcare, material and spiritual",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "policy",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The country's policy aims at maintaining traditional relationships of mutual respect among citizens of different ethnic origins and their organizations, as well as addressing the causes leading to the violation of these traditional relations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A targeted policy is being developed for integrating persons granted international protection into Bulgarian society.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "direct",
+      "actor_2": "efforts",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria directs its efforts toward counteracting unfavorable demographic trends affecting societal development through creating economic and social conditions, as well as by developing a well-educated and knowledge-oriented society capable of maximally capitalizing on its intelligence and creativity resources.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "They",
+      "action": "provide",
+      "actor_2": "information",
+      "concept": null,
+      "sentence": "They provide documentary information for state governance, development of science and culture, and protection of citizens' rights and lawful interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "conduct",
+      "actor_2": "policy",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria conducts a consistent and purposeful policy for the realization and protection of national goals and interests in compliance with national legislation, international treaties in force to which the Republic of Bulgaria is a party, and agreements between Bulgarian and foreign state institutions to ensure access for state bodies and persons authorized by the Bulgarian state, both natural and legal persons, to the national cultural-historical and documentary heritage located outside the territory of the country.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "emphasis",
+      "action": "place",
+      "actor_2": null,
+      "concept": "access",
+      "sentence": "Main emphasis is placed on equal access to quality education and the inclusion of every child and student, reducing illiteracy, preventing early school leaving, reaching a level of functional literacy that will provide opportunities for personal and social development, attracting young people to the teaching profession, developing material resources and new technologies, ensuring a connection between the needs of business and education, building universal human values, and reducing aggression.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "that",
+      "action": "provide",
+      "actor_2": "opportunities",
+      "concept": null,
+      "sentence": "Main emphasis is placed on equal access to quality education and the inclusion of every child and student, reducing illiteracy, preventing early school leaving, reaching a level of functional literacy that will provide opportunities for personal and social development, attracting young people to the teaching profession, developing material resources and new technologies, ensuring a connection between the needs of business and education, building universal human values, and reducing aggression.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "development",
+      "action": "form",
+      "actor_2": "basis",
+      "concept": null,
+      "sentence": "The development of higher education, research, and scientific activity, as well as the preservation of cultural and historical heritage, form the basis for undertaking strategic actions in planning and implementing sectoral and general national policies for the development of individuals and society.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "nation",
+      "action": "build",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Bulgarian nation is built and develops based on unified citizenship and the principle of solidarity, strictly applied in social protection systems.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "develops",
+      "action": "base",
+      "actor_2": null,
+      "concept": "citizenship",
+      "sentence": "The Bulgarian nation is built and develops based on unified citizenship and the principle of solidarity, strictly applied in social protection systems.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "state",
+      "action": "guarantee",
+      "actor_2": "income",
+      "concept": "groups",
+      "sentence": "The state guarantees a minimum income and living standard for the most vulnerable groups.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "state",
+      "action": "perform",
+      "actor_2": "control",
+      "concept": null,
+      "sentence": "The state performs constant and systematic control to protect the interests of citizens and prevent significant financial fraud and timely detect violators of citizens' financial interests and their organizations.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "initiative",
+      "action": "encourage",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Alongside, private initiative is encouraged to ensure income through additional insurance.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "efforts",
+      "action": "focus",
+      "actor_2": null,
+      "concept": "field",
+      "sentence": "In the field of healthcare, efforts are focused on improving the health of the nation as a strategic goal underlying reforms in the sector, combined with organizational, personnel, and financial stabilization of the health system.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "attention",
+      "action": "pay",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Here is the English translation of the provided Bulgarian text, following your instructions absolutely without omitting any sentences or lines: Special attention is paid to activities aimed at: - increasing life expectancy in the Republic of Bulgaria, reducing disability and mortality rates among the population; - ensuring the health security of citizens by providing sustainable development of health activities in medical and health institutions, emergency medical aid, transfusion hematology, transplantation, medical expertise, and state health control; - consistent and purposeful state policy to carry out highly effective supervision over infectious diseases, ensuring high immunization coverage, including among vulnerable population groups, according to the national immunization calendar and timely response to situations threatening public health; - improving the system for protecting the country from the import of infections with high epidemic potential in accordance with the International Health Regulations and conducting effective border health control through material and staffing support of activities at local and national levels; - enhancing the readiness of the national health system for responding and providing timely, quality, and continuous medical care, including conducting anti-epidemic measures to ensure the life and health of the population in case of use of biological agents, chemical, radioactive and nuclear materials for terrorist purposes; - providing a strategic framework and financial mechanisms for planning and implementing the policy on mental health.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "necessitate",
+      "actor_2": null,
+      "concept": "actions",
+      "sentence": "This necessitates, through consultative and interrelated management actions, taking measures to prevent or stop negative processes at their very beginning.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "importance",
+      "action": "increase",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The importance of integrating citizens from marginalized groups into the labor market is increasing.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "It",
+      "action": "support",
+      "actor_2": "realization",
+      "concept": null,
+      "sentence": "It supports the realization of the EU's strategic initiatives to build the necessary infrastructure and diversify energy supplies.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "help",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A priority for ensuring our energy security is the construction and maintenance of intersystem connections with the networks of neighboring countries, utilization of opportunities for domestic production, expansion of the capacity of the gas storage facility in Chiren, and the construction of the Balkan gas distribution center, which will help reduce energy dependence in the region and build a competitive and liberalized gas market.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "support",
+      "actor_2": "development",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria supports the development of international projects within the framework of the \"Southern Corridor,\" which provide opportunities for the supply of natural gas and transit through Bulgarian territory to neighboring countries.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "provide",
+      "actor_2": "opportunities",
+      "concept": "countries",
+      "sentence": "The Republic of Bulgaria supports the development of international projects within the framework of the \"Southern Corridor,\" which provide opportunities for the supply of natural gas and transit through Bulgarian territory to neighboring countries.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "country",
+      "action": "support",
+      "actor_2": "initiative",
+      "concept": null,
+      "sentence": "Our country also supports the \"Three Seas\" initiative, aimed at building energy, transport, and telecommunications infrastructure along the north-south corridor.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "development",
+      "action": "have",
+      "actor_2": "significance",
+      "concept": null,
+      "sentence": "The development of nuclear energy has strategic significance for our national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "importance",
+      "action": "give",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Special importance is given to the life extension of units 5 and 6 of the Kozloduy Nuclear Power Plant and the construction of new capacities as a prospective resource for producing emission-free electric energy, while strictly observing security measures, requirements for radioactive waste management, and decommissioning.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "priority",
+      "action": "increase",
+      "actor_2": "efficiency",
+      "concept": null,
+      "sentence": "A priority in the energy security policy is increasing energy efficiency and promoting energy saving.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "country",
+      "action": "have",
+      "actor_2": "potential",
+      "concept": null,
+      "sentence": "The country has tremendous potential for energy savings in its production, transmission, and consumption.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Republic of Bulgaria aims to significantly reduce the energy intensity of gross domestic product through supporting policies aimed at financially incentivizing energy efficiency, developing the market for energy-efficient products and services, implementing regulatory measures, and other mechanisms.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "state",
+      "action": "assist",
+      "actor_2": null,
+      "concept": "application",
+      "sentence": "The state assists in the application of the best available practices in the operation of large fuel installations, as well as in applying technological achievements that comply with European requirements and the country's economic capabilities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "that",
+      "action": "comply",
+      "actor_2": null,
+      "concept": "requirements",
+      "sentence": "The state assists in the application of the best available practices in the operation of large fuel installations, as well as in applying technological achievements that comply with European requirements and the country's economic capabilities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "base",
+      "actor_2": null,
+      "concept": "approach",
+      "sentence": "The country's energy policy is based on a balanced approach to the integrated use of renewable energy sources, nuclear energy, natural gas, and coal technologies to ensure energy security and economic efficiency.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "pursue",
+      "actor_2": "policy",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria pursues a clear and consistent policy to protect the interests of national security, society, and citizens in the operation and development of energy capacities, transmission, and distribution networks.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "construction",
+      "action": "require",
+      "actor_2": "expertise",
+      "concept": "impact",
+      "sentence": "The construction of significant energy capacities and infrastructure requires expertise on the impact on national security, market and environmental assessment, and compatibility assessment with the objective and goals of protecting protected areas, ensuring the security of citizens, society, and the state.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "management",
+      "action": "acquire",
+      "actor_2": "importance",
+      "concept": null,
+      "sentence": "Resource management of energy security acquires paramount importance.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "fulfill",
+      "actor_2": "commitments",
+      "concept": "EC",
+      "sentence": "The Republic of Bulgaria fulfills its commitments under Directive 2008/114/EC of December 8, 2008, on identifying and designating European critical infrastructures and assessing the need to improve their protection, which includes controlling access to strategic sites and exploring possibilities for joint activities between the public and private sectors, based on mutual interest and expert skills of partners to ensure protection of public interests and needs through effective allocation of resources, risks, and benefits in this process.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "include",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Republic of Bulgaria fulfills its commitments under Directive 2008/114/EC of December 8, 2008, on identifying and designating European critical infrastructures and assessing the need to improve their protection, which includes controlling access to strategic sites and exploring possibilities for joint activities between the public and private sectors, based on mutual interest and expert skills of partners to ensure protection of public interests and needs through effective allocation of resources, risks, and benefits in this process.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "express",
+      "actor_2": null,
+      "concept": "implementation",
+      "sentence": "The security policy is expressed through the implementation of standards for environmental expertise and protection and joining global or regional initiatives and environmental projects aimed at improving environmental quality and protecting ecological security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Republic of Bulgaria continues working to reduce the negative impact of anthropogenic factors, as well as to conduct an adaptation policy to the consequences of climate change.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Protection",
+      "action": "remain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Protection and enhancing the resilience of the population remain a priority.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "management",
+      "action": "carry",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The management of the country's water resources is carried out based on a unified information system through an inter-institutional mechanism for planning, monitoring, and assessment.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Efforts",
+      "action": "direct",
+      "actor_2": null,
+      "concept": "creation",
+      "sentence": "Efforts are also directed towards the creation of a functioning system to manage and overcome, with the active participation of citizens and their organizations, the consequences of natural and man-made disasters.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "differ",
+      "actor_2": null,
+      "concept": "law",
+      "sentence": "The Republic of Bulgaria is part of the European legal space and applies a set of norms - EU law, which substantially differs from international law and the domestic law of the member states.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "process",
+      "action": "have",
+      "actor_2": "impact",
+      "concept": null,
+      "sentence": "This process has a significant impact on law-making and law enforcement in our country.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "concentrate",
+      "actor_2": "efforts",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria concentrates efforts on the implementation of a new criminal policy.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Counteraction",
+      "action": "develop",
+      "actor_2": null,
+      "concept": "modernization",
+      "sentence": "Counteraction against corruption is developed through significant modernization of the legislation and effective functioning of a unified anti-corruption body.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "corruption",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": "implementation",
+      "sentence": "Counteracting corruption is achieved through the implementation of complex measures aimed at developing an inter-institutional approach; strengthening the management system; optimizing regulations and administrative requirements to prevent corrupt practices; providing a legal framework; administrative capacity; integrated management of information resources; interaction and international cooperation; and operational management.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Institutions",
+      "action": "work",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Institutions and non-governmental organizations work to form sustainable attitudes and an active civic position in society to reduce tolerance of corruption by using educational policies and information campaigns.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "security",
+      "action": "develop",
+      "actor_2": "interaction",
+      "concept": null,
+      "sentence": "The security and public order services of the Republic of Bulgaria, as well as specialized structures for the protection of the judiciary and the enforcement of sentences within the Ministry of Justice, develop interaction among themselves and cooperation with private economic entities, citizens, and their organizations.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "they",
+      "action": "develop",
+      "actor_2": "cooperation",
+      "concept": null,
+      "sentence": "Internationally, they sustainably develop cooperation with structures of international organizations and states with which allied or partnership relations have been established.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "relations",
+      "action": "establish",
+      "actor_2": null,
+      "concept": "which",
+      "sentence": "Internationally, they sustainably develop cooperation with structures of international organizations and states with which allied or partnership relations have been established.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "services",
+      "action": "counter",
+      "actor_2": "threat",
+      "concept": "cooperation",
+      "sentence": "Security services, public order services, and the armed forces counter the global threat of terrorism in a unified and coordinated manner, independently and in cooperation with allied and partner services, preventing, intercepting, prosecuting, and minimizing the effect of attempts to: - carry out terrorist attacks on Bulgarian territory or against Bulgarian citizens or objects abroad; - establish structures of terrorist and extremist organizations on Bulgarian territory; - provide logistical support, including fundraising, for international terrorist and extremist organizations; - infiltrate terrorist elements into the country; - cross the country's territory by foreign fighters to and from conflict zones; - radicalize Bulgarian citizens and attract them to terrorist and extremist organizations.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Programs",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Programs against radicalization should be aimed at overcoming vulnerabilities of certain individuals and groups and counteracting radical ideas, propaganda, and extremist actions.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "continue",
+      "actor_2": "participation",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria should continue its active participation in international organizations and initiatives and support the full implementation and universalization of relevant international legal instruments, which effectively impact limiting the spread and banning weapons of mass destruction (WMD).",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "impact",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Republic of Bulgaria should continue its active participation in international organizations and initiatives and support the full implementation and universalization of relevant international legal instruments, which effectively impact limiting the spread and banning weapons of mass destruction (WMD).",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "cooperation",
+      "action": "develop",
+      "actor_2": null,
+      "concept": "compliance",
+      "sentence": "In combating the spread and illegal trade of weapons, especially small arms and light weapons, cooperation is developed with partner services of NATO and EU countries for strict compliance with restrictive regimes, prevention of risky transactions, and prevention of illegal crossing through the country's territory.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "services",
+      "action": "improve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Administrative services for citizens are improved, and information systems for citizen engagement and inter-institutional connectivity are enhanced.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "systems",
+      "action": "enhance",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Administrative services for citizens are improved, and information systems for citizen engagement and inter-institutional connectivity are enhanced.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "partnership",
+      "action": "realize",
+      "actor_2": null,
+      "concept": "conditions",
+      "sentence": "Effective partnership between the police and civil society structures is realized under conditions of transparency and respect for citizens' rights and dignity.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "interaction",
+      "action": "build",
+      "actor_2": "trust",
+      "concept": null,
+      "sentence": "Daily interaction builds mutual trust between police officers and citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "conduct",
+      "actor_2": "policy",
+      "concept": "factors",
+      "sentence": "The Republic of Bulgaria conducts a policy of active prevention against the structural factors that shape the criminogenic situation and threaten the security of citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "shape",
+      "actor_2": "situation",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria conducts a policy of active prevention against the structural factors that shape the criminogenic situation and threaten the security of citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "institutions",
+      "action": "work",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "To achieve the overall goals in prevention and combating conventional crime, institutions work actively and in coordination in cooperation with private security firms, local authorities, and citizens.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "approach",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "An inter-institutional approach is being developed to achieve the goals in combating general, organized, and cross-border crime, which focuses on legislatively ensuring and strengthening the management system, increasing administrative and operational capacity, integrated management of information resources, achieving a high degree of compatibility with a trend towards integrated actions with international organizations and EU institutions, and with countries with which partnership relations have been established.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "focus",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "An inter-institutional approach is being developed to achieve the goals in combating general, organized, and cross-border crime, which focuses on legislatively ensuring and strengthening the management system, increasing administrative and operational capacity, integrated management of information resources, achieving a high degree of compatibility with a trend towards integrated actions with international organizations and EU institutions, and with countries with which partnership relations have been established.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "relations",
+      "action": "establish",
+      "actor_2": null,
+      "concept": "which",
+      "sentence": "An inter-institutional approach is being developed to achieve the goals in combating general, organized, and cross-border crime, which focuses on legislatively ensuring and strengthening the management system, increasing administrative and operational capacity, integrated management of information resources, achieving a high degree of compatibility with a trend towards integrated actions with international organizations and EU institutions, and with countries with which partnership relations have been established.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "fight",
+      "action": "carry",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The fight against trafficking, distribution, and production of narcotic substances and precursors, as well as human trafficking, is carried out by increasing the efficiency of law enforcement and control authorities and their cooperation with citizens and their organizations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "institutions",
+      "action": "create",
+      "actor_2": "conditions",
+      "concept": null,
+      "sentence": "State institutions and local government bodies in cooperation with private economic entities, citizens, and their organizations create conditions for a sustained reduction in the number of road traffic accidents and their consequences by taking integrated measures to ensure road safety.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Policies",
+      "action": "implement",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Policies are implemented to increase border guard capacity, prevent illegal entry of foreigners into the country, ensure their timely return to countries of origin, and provide initial reception of foreigners.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "create",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The country also creates and maintains effective security and public order information systems in accordance with the requirements of the Schengen Agreement.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "authorities",
+      "action": "cooperate",
+      "actor_2": null,
+      "concept": "FRONTEX",
+      "sentence": "Competent authorities cooperate with the European Border and Coast Guard Agency - FRONTEX.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "state",
+      "action": "organize",
+      "actor_2": null,
+      "concept": "cooperation",
+      "sentence": "The state, in cooperation with citizens and their organizations, plans, organizes, and carries out activities to deter the use of hate speech and counter manifestations of xenophobia, ethnic, religious, or other intolerance.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The policy of the Republic of Bulgaria is aimed at increasing the level of protection of classified information and preventing unauthorized access to it.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "framework",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The regulatory framework, institutions, and mechanisms for the protection and use of classified information are developed to provide a flexible approach to counter threats in the changing security environment.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "basis",
+      "action": "strengthen",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The international legal basis for cooperation on the protection of classified information with EU and NATO structures, member states, and other countries is being strengthened and expanded.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "aim",
+      "actor_2": null,
+      "concept": "protection",
+      "sentence": "The policy of the Republic of Bulgaria is aimed at adequate protection of personal data while ensuring access to public information.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "framework",
+      "action": "develop",
+      "actor_2": null,
+      "concept": "cooperation",
+      "sentence": "The legal framework, institutions, and mechanisms for the protection and use of personal data, as well as access to public information, are developed in cooperation with citizens and their organizations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "basis",
+      "action": "strengthen",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The international legal basis for cooperation in personal data protection within the EU, member states, and other countries is also strengthened and expanded.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "potential",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The institutional and civil potential for combating cybercrime is being developed.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Cooperation",
+      "action": "carry",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Cooperation with private business in the fields of information and communication technologies is carried out.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The country's foreign policy is aimed at ensuring the security of the state and its citizens in accordance with national interests and international responsibilities; it contributes to peace and stability in the world, develops good neighborliness and trust between countries and peoples.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "it",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": "peace",
+      "sentence": "The country's foreign policy is aimed at ensuring the security of the state and its citizens in accordance with national interests and international responsibilities; it contributes to peace and stability in the world, develops good neighborliness and trust between countries and peoples.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "threats",
+      "action": "require",
+      "actor_2": "policies",
+      "concept": null,
+      "sentence": "Contemporary complex threats require common policies and targeted actions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Priority",
+      "action": "give",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Priority is given to a multilateral approach to ensuring peace and security in Europe and worldwide and countering their risks and threats.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "adhere",
+      "actor_2": null,
+      "concept": "principles",
+      "sentence": "The Republic of Bulgaria adheres to the principles and goals of the UN Charter and supports efforts to reform the organization to strengthen its capacity to achieve the goals set before it.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "strive",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Bulgaria strives to establish and strengthen NATO's role in fulfilling political and operational responsibilities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Our country aims to deepen political dialogue within it, to successfully participate in NATO operations and missions, and to the Alliance's transformation, including through participation in multinational projects and building a common missile defense.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "We",
+      "action": "support",
+      "actor_2": "policy",
+      "concept": null,
+      "sentence": "We actively support NATO's \"open doors\" policy, guided by the conviction that the European and Euro-Atlantic perspective is the most successful instrument for strengthening stability and security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "participate",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Republic of Bulgaria participates in implementing the EU common security and defense policy through the Common European Security and Defense Policy within NATO.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "aim",
+      "actor_2": null,
+      "concept": "integration",
+      "sentence": "The Republic of Bulgaria aims for increasing integration in the EU's development.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Our country continues actively participating in the collective efforts of EU member states for coordinated and effective implementation of policies and instruments in international relations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Policy",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "It is essential that the Common Security and Defense Policy develops and contributes to strengthening transatlantic cooperation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "develop",
+      "actor_2": "capacity",
+      "concept": null,
+      "sentence": "The country develops national capacity to participate in the EU's common foreign and security policy, including crisis management operations and missions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "increase",
+      "actor_2": "contributions",
+      "concept": null,
+      "sentence": "Bulgaria will increase its contributions and responsibilities in the EU enlargement policy.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "it",
+      "action": "strive",
+      "actor_2": null,
+      "concept": "approach",
+      "sentence": "Within the European Neighborhood Policy, it will strive for a balanced approach toward the EU's eastern and southern neighbors, strengthening its position as a global security actor.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "assist",
+      "actor_2": null,
+      "concept": "timeframe",
+      "sentence": "Within the timeframe of this strategy, Bulgaria should assist in building a European Defense Union.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "commitments",
+      "action": "need",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Simultaneously, new commitments by EU member states regarding solidarity, covering the defense sector and protection of the EU's external borders, need to be achieved.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "goal",
+      "action": "strengthen",
+      "actor_2": "unity",
+      "concept": null,
+      "sentence": "A strategic goal is strengthening the unity of the Euro-Atlantic community and affirming its leading role in security in Europe and worldwide.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "relations",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Bulgaria's transatlantic relations develop harmoniously and balanced to achieve priorities in foreign policy and security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "formation",
+      "sentence": "The Republic of Bulgaria actively participates in the formation and implementation of relations between the EU and NATO with the Russian Federation, adhering to the position that a comprehensive approach to security and cooperation issues is necessary, respecting the goals, principles, and values enshrined in the UN Charter, the NATO Treaty, the EU Treaty, the Statute of the Council of Europe, and the founding documents of the OSCE.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "support",
+      "actor_2": "integration",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria actively supports the European and Euro-Atlantic integration of the Western Balkan countries in meeting the respective criteria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "policy",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Our foreign policy is aimed at neutralizing the risk of interethnic conflicts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "encourage",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The country encourages strengthening democratic institutions, market economy, and the guarantee and protection of human rights, including citizens belonging to minority communities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "attention",
+      "action": "pay",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Special attention is paid to establishing stable and lasting good-neighborly relations and redefining them based on modern European principles and values.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "seek",
+      "actor_2": "role",
+      "concept": "region",
+      "sentence": "In the Black Sea region, the Republic of Bulgaria seeks an active role bilaterally and multilaterally in supporting peace and security in the area, including energy security, and in implementing economic programs and infrastructure projects with regional and pan-European significance within the context of our national priorities and the directions of activities of the EU and NATO.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "assist",
+      "actor_2": "community",
+      "concept": "efforts",
+      "sentence": "The Republic of Bulgaria assists the international community in efforts to establish lasting peace in the Middle East and to neutralize threats in terrorism, extremism, and the proliferation of WMD.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "country",
+      "action": "support",
+      "actor_2": "process",
+      "concept": null,
+      "sentence": "Our country supports the Middle East peace process and contributes to the expansion of the EU's role in the region.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "We",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "We develop traditional and establish new contacts in the fields of economy, politics, and interpersonal relations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Republic of Bulgaria continues to participate directly in the international community's efforts to neutralize transnational threats related to the negative processes in Afghanistan, such as terrorism, drug trafficking, organized crime, and illegal migration.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "efforts",
+      "sentence": "Our country participates in comprehensive efforts to sustainably strengthen Afghanistan's security, stability, and economic recovery.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "cooperation",
+      "sentence": "The Republic of Bulgaria participates in cooperation within NATO and the EU in non-proliferation of WMD, disarmament, and arms control.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "It",
+      "action": "implement",
+      "actor_2": "policy",
+      "concept": "compliance",
+      "sentence": "It implements a policy in export control in compliance with foreign policy commitments and considering international sanctions imposed by the UN, the EU, and the OSCE.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "support",
+      "actor_2": "efforts",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria supports efforts by organizations of foreign citizens of Bulgarian origin to preserve their cultural identity.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "continue",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "In implementing its strategic goals in the field of foreign policy and security, the Republic of Bulgaria will continue to develop and improve a professional diplomatic service possessing the necessary material, human, technological, and financial resources to cope with increasing responsibilities and tasks at both bilateral and multilateral levels.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "goal",
+      "action": "base",
+      "actor_2": null,
+      "concept": "participation",
+      "sentence": "Achieving the strategic goal of defense policy is based on the active participation of the country in the processes of planning, development, and use of NATO and EU defense capabilities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "budget",
+      "action": "reach",
+      "actor_2": "%",
+      "concept": "2024",
+      "sentence": "By 2024, Bulgaria's defense budget should reach 2% of the country's gross domestic product to ensure an adequate balance between expenses for human resources, maintenance, and investment in line with modern requirements.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "formation",
+      "action": "base",
+      "actor_2": null,
+      "concept": "capabilities",
+      "sentence": "The formation and implementation of defense policy is based on: - national capabilities combined with shared responsibility for security, adequate participation, and use of collective defense mechanisms of NATO and the EU's common security and defense policy; - characteristics of the security environment, risks, threats, and resulting scenarios for using the armed forces; - the state of defense capabilities and development plans; - available and projected resources; - opportunities for participation in multinational projects with active involvement of Bulgarian industry and research centers.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "contribution",
+      "action": "include",
+      "actor_2": "participation",
+      "concept": null,
+      "sentence": "The country's contribution to the efforts of the international community in support of peace and stability includes participation in allied and coalition operations with formations from the armed forces, security and public order services, and civilian capabilities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "forces",
+      "action": "ensure",
+      "actor_2": "security",
+      "concept": null,
+      "sentence": "The armed forces of the Republic of Bulgaria ensure the military security of the country, participate in NATO collective defense, and implement the EU common security and defense policy.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "forces",
+      "action": "concentrate",
+      "actor_2": "efforts",
+      "concept": null,
+      "sentence": "The armed forces and the non-military component of the country's defense system concentrate their efforts on: - defense of the country; - participation in missions and operations to strengthen international peace and security; - development, maintenance, and provision of necessary military and other capabilities for NATO collective defense and the EU common security and defense policy; - implementation of investment projects for acquiring new main combat platforms and comprehensive modernization of the armed forces; - creation and maintenance of a transparent and clear system for the selection and career development of military and civilian personnel, including an effective package of measures to retain trained and motivated staff and to increase interest in the military profession, as a main part of the policy to reduce the large number of vacant positions; - preparation and use of a voluntary reserve of the armed forces for their completion; - maintenance and provision of capabilities to assist other departments in supporting the population and protecting national critical infrastructure to prevent and eliminate the consequences of disasters and accidents, combat terrorism, and guard the border; - creation of a system for voluntary military training of Bulgarian citizens for the defense of the Fatherland. 164.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "strategy",
+      "action": "define",
+      "actor_2": "role",
+      "concept": null,
+      "sentence": "The national defense strategy defines the role, missions, tasks, development, and use of the armed forces and defense capabilities, while military doctrines define principles, forms, methods, and ways of using the armed forces.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "doctrines",
+      "action": "define",
+      "actor_2": "principles",
+      "concept": null,
+      "sentence": "The national defense strategy defines the role, missions, tasks, development, and use of the armed forces and defense capabilities, while military doctrines define principles, forms, methods, and ways of using the armed forces.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "development",
+      "action": "realize",
+      "actor_2": null,
+      "concept": "implementation",
+      "sentence": "The development of defense capabilities is realized through implementation of armed forces development plans and is reported annually in the defense and armed forces status report.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Development",
+      "action": "analyze",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Development of defense capabilities is also analyzed and evaluated through regular defense reviews or reviews of the armed forces structure.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "analysis",
+      "action": "conduct",
+      "actor_2": null,
+      "concept": "review",
+      "sentence": "Such analysis is also conducted during a strategic review of national security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "require",
+      "actor_2": "approach",
+      "concept": null,
+      "sentence": "This requires the application of: - modern defense management based on the effective use of resources, ensuring the connection between long-term planning and achievement of set results, in accordance with the principles of accountability and transparency; - planning based on capabilities and likely scenarios for their use, taking into account specific risks and threats identified by the intelligence community; - technological rearmament of the defense system and the armed forces, applying the experience from participation in missions and operations, as well as achievements and results of defense research; - training and education of defense personnel in line with modern allied standards; - increasing our participation in structures, programs, and projects jointly with our allies and partners within NATO agencies, the European Defence Agency, and implementation of the EU's security research and innovation program; creating maximum opportunities for inclusion of the national defense technological and industrial base and research/innovation capabilities; - a conceptual approach to filling the gaps in defense capabilities, maintaining the system of doctrinal documents of the armed forces in an up-to-date state and harmonizing them with allied publications; - a project-based approach for implementing investment projects for the modernization and rearmament of the armed forces, defined and managed in a unified portfolio, applying principles of good resource management for defense, comprehensive planning, delegation of rights and responsibilities, coordination, monitoring, and control of all project aspects.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "policy",
+      "action": "conduct",
+      "actor_2": null,
+      "concept": "protection",
+      "sentence": "In the Republic of Bulgaria, a unified national cybersecurity policy is conducted through the protection of critical communication and information infrastructure and providing citizens, businesses, and public institutions the ability to freely and reliably process and exchange digital information.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "frameworks",
+      "sentence": "The country actively participates in the formation and implementation of cybersecurity policies within the frameworks of the EU and NATO and strives to achieve cyber resilience of the entire society and state through the creation of a sustainable, comprehensive, and flexible National Cybersecurity System and management in cyber crises.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "provide",
+      "actor_2": "picture",
+      "concept": null,
+      "sentence": "The cybersecurity policy should provide: - a mechanism for coordinated actions at the political and strategic level to develop the necessary capacity and capabilities for cybersecurity and resilience; - a current comprehensive cyber situation picture and understanding at the national level; - interaction for effective and coordinated prevention, response, and recovery.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "crisis",
+      "action": "arise",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The strategic goal of the crisis management policy is to prevent crises from occurring, minimize negative consequences, and quickly restore the functioning of state and public life when a crisis arises.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "management",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": "capacity",
+      "sentence": "Effective management of crises, disasters, accidents, and catastrophes to protect citizens, property, critical infrastructure, the environment, and documents from the National Archival Fund is achieved through: - building capacity for risk assessment and impact through planning and applying prevention, readiness, response, and recovery measures in ministries, agencies, municipalities, trade companies, and sole proprietors; - building and developing early warning systems for crises, disasters, accidents, and catastrophes across the entire country.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "implementation",
+      "action": "base",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The implementation of the strategic goal of the crisis management policy is based on building a sustainable, comprehensive, and flexible National Crisis Management System.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "system",
+      "action": "provide",
+      "actor_2": "framework",
+      "concept": null,
+      "sentence": "The system provides the necessary institutional framework and tools for coordination and interdepartmental cooperation in fulfilling crisis management responsibilities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Council",
+      "action": "formulate",
+      "actor_2": "leadership",
+      "concept": null,
+      "sentence": "The Council of Ministers formulates the policy and exercises overall leadership of crisis management activities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "policy",
+      "action": "base",
+      "actor_2": null,
+      "concept": "preparation",
+      "sentence": "The national crisis management policy is based on: - preparation of the country for defense and defensive mobilization training of the population; - effective preliminary preparation of society for action in crises; - use of a modern and sustainable early warning system, including the national alert system; - effective interdepartmental cooperation and coordination; - continuous monitoring of potential and developing crises; - constant improvement and harmonization of the normative base, based on a comprehensive approach utilizing all available national resources at all levels-allied, national, regional, and local; - creation of a flexible mechanism for the accelerated deployment of military capabilities and expertise to respond to crises in the absence of a civilian alternative; - maintaining sufficient reserves of resources to ensure societal autonomy during crises; - interaction and cooperation in crisis management at regional and international levels; - availability of a communication strategy providing coordinated, timely, clear, transparent, and widely accessible information about ongoing events, actions taken, expected results, and subsequent developments; - encouragement of insurance use as a tool to provide additional funding for quicker and more effective recovery after crises, disasters, and accidents, which will ensure the necessary adaptability of the national security system.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "use",
+      "action": "expect",
+      "actor_2": "results",
+      "concept": null,
+      "sentence": "The national crisis management policy is based on: - preparation of the country for defense and defensive mobilization training of the population; - effective preliminary preparation of society for action in crises; - use of a modern and sustainable early warning system, including the national alert system; - effective interdepartmental cooperation and coordination; - continuous monitoring of potential and developing crises; - constant improvement and harmonization of the normative base, based on a comprehensive approach utilizing all available national resources at all levels-allied, national, regional, and local; - creation of a flexible mechanism for the accelerated deployment of military capabilities and expertise to respond to crises in the absence of a civilian alternative; - maintaining sufficient reserves of resources to ensure societal autonomy during crises; - interaction and cooperation in crisis management at regional and international levels; - availability of a communication strategy providing coordinated, timely, clear, transparent, and widely accessible information about ongoing events, actions taken, expected results, and subsequent developments; - encouragement of insurance use as a tool to provide additional funding for quicker and more effective recovery after crises, disasters, and accidents, which will ensure the necessary adaptability of the national security system.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "ensure",
+      "actor_2": "adaptability",
+      "concept": null,
+      "sentence": "The national crisis management policy is based on: - preparation of the country for defense and defensive mobilization training of the population; - effective preliminary preparation of society for action in crises; - use of a modern and sustainable early warning system, including the national alert system; - effective interdepartmental cooperation and coordination; - continuous monitoring of potential and developing crises; - constant improvement and harmonization of the normative base, based on a comprehensive approach utilizing all available national resources at all levels-allied, national, regional, and local; - creation of a flexible mechanism for the accelerated deployment of military capabilities and expertise to respond to crises in the absence of a civilian alternative; - maintaining sufficient reserves of resources to ensure societal autonomy during crises; - interaction and cooperation in crisis management at regional and international levels; - availability of a communication strategy providing coordinated, timely, clear, transparent, and widely accessible information about ongoing events, actions taken, expected results, and subsequent developments; - encouragement of insurance use as a tool to provide additional funding for quicker and more effective recovery after crises, disasters, and accidents, which will ensure the necessary adaptability of the national security system.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "system",
+      "action": "include",
+      "actor_2": "Center",
+      "concept": null,
+      "sentence": "The national crisis management system includes: the National Situational Center, departmental and regional situational centers, and others engaged during crises.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "system",
+      "action": "guarantee",
+      "actor_2": "activities",
+      "concept": null,
+      "sentence": "The national crisis management system guarantees activities for crisis prevention and control within the country or outside it-while fulfilling obligations arising from international treaties to which the Republic of Bulgaria is a party.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "system",
+      "action": "aim",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The system aims to maintain national security in an optimal state, increase the manageability of state bodies with active involvement of citizens and their organizations, and operate effectively to implement this strategy.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "goals",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": "process",
+      "sentence": "The strategy's goals can only be achieved with a normatively regulated and institutionally organized process of dialogue, consultation, and interaction between the legislative, executive, and judicial branches, the President of the Republic, citizens, and their organizations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "dialogue",
+      "action": "achieve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "High-quality dialogue, consultations, and interaction between the three branches of government and the elements protecting the national security system can be achieved by developing and implementing a unified system of standards describing the main concepts and principles of operation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "presence",
+      "action": "enhance",
+      "actor_2": "compatibility",
+      "concept": null,
+      "sentence": "The presence of these standards will enhance operational compatibility and work efficiency.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Laws",
+      "action": "improve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Laws and subordinate normative acts in the field of national security are improved according to the dynamics of social relations and in accordance with principles and guidelines indicated in the strategy.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "framework",
+      "action": "build",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The normative framework is built and developed to achieve a unified legal space in the area of national security, preventing contradictions between legal norms, institutional and functional structures, and mechanisms.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "state",
+      "action": "ensure",
+      "actor_2": "transparency",
+      "concept": null,
+      "sentence": "The state ensures system transparency towards citizens and supports the capacity building of civil society for activities in national security interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Assembly",
+      "action": "adopt",
+      "actor_2": "Strategy",
+      "concept": "matters",
+      "sentence": "The National Assembly, in national security matters, adopts laws, the National Security Strategy, doctrines, and other documents within its competence, setting the parameters of national security policy.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "It",
+      "action": "assess",
+      "actor_2": "status",
+      "concept": null,
+      "sentence": "It assesses its status and the fulfillment of duties by state institutions and issues recommendations to state authorities, local government bodies, citizens, and their organizations.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "powers",
+      "action": "define",
+      "actor_2": null,
+      "concept": "Constitution",
+      "sentence": "The President's powers in implementing national security policy are defined in the Constitution and laws.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Council",
+      "action": "form",
+      "actor_2": "level",
+      "concept": null,
+      "sentence": "The Consultative Council for National Security forms the political-advisory level in the national security system.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Implementation",
+      "action": "carry",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Implementation of national security policy is carried out by central and territorial executive authorities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "governments",
+      "action": "contribute",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Local governments and judiciary bodies contribute according to their competencies.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "effectiveness",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "trust",
+      "sentence": "System effectiveness depends on mutual trust and cooperation between state institutions, private sector, NGOs, citizens, and partner countries for information exchange and joint actions.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Council",
+      "action": "report",
+      "actor_2": null,
+      "concept": "report",
+      "sentence": "The Council of Ministers reports on the implementation of the National Security Strategy through an annual report to the National Assembly.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "report",
+      "action": "prepare",
+      "actor_2": null,
+      "concept": "coordination",
+      "sentence": "The report is prepared by the executive administration in coordination with the Bulgarian Academy of Sciences, higher education institutions, and experts from the non-governmental sector.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "priorities",
+      "action": "determine",
+      "actor_2": null,
+      "concept": "consultation",
+      "sentence": "Intermediate priorities and resources for national security policy are determined by the Council of Ministers in consultation with the President and relevant permanent parliamentary committees.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "They",
+      "action": "establish",
+      "actor_2": "organization",
+      "concept": null,
+      "sentence": "They establish the necessary functional and structural organization for this purpose.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "capacity",
+      "action": "build",
+      "actor_2": null,
+      "concept": "principles",
+      "sentence": "Institutional capacity is built on the principles of continuous functional interaction and operational autonomy.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "existence",
+      "action": "allow",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The simultaneous existence of duplicate structures and excessive concentration of powers, competencies, and resources in one institution is not allowed.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "toolkit",
+      "action": "include",
+      "actor_2": "exchange",
+      "concept": null,
+      "sentence": "The toolkit for managing and functioning of the national security system includes: - analysis and assessment of the security environment and trends and undertaking preventive actions; - timely and adequate information exchange; - planning, preparation, and management of implementation; - application of a broad and systemic interinstitutional approach; - coordination in the work of competent institutions and organizations; - methodology and methods for assessing the security system and its components in relation to their resource support and achieved results; - mechanisms to assess undertaken actions and achieved results to increase their effectiveness and efficiency; - establishment of an internal control system and correction of the national security system.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "They",
+      "action": "coordinate",
+      "actor_2": "implementation",
+      "concept": null,
+      "sentence": "They coordinate the operational implementation of state policy and provide necessary consultation to the government and respective state bodies in preparing and implementing their decisions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "activity",
+      "action": "assist",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The activity of the Security Council at the Council of Ministers, its secretariat, and regional security councils is assisted by central and territorial executive bodies and by engaging experts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Financing",
+      "action": "conduct",
+      "actor_2": null,
+      "concept": "program",
+      "sentence": "Financing is conducted through a separate program within the Council of Ministers' budget.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "services",
+      "action": "perform",
+      "actor_2": "activities",
+      "concept": null,
+      "sentence": "Security services, and when needed, public order services, regardless of their subordination, perform their national security protection activities independently or coordinated within the intelligence community.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "services",
+      "action": "carry",
+      "actor_2": "activities",
+      "concept": null,
+      "sentence": "The intelligence and security services carry out activities for: - uncovering, preventing, and counteracting covert attacks against national interests and actions that threaten or damage political, economic, and defense capabilities; - protecting national security and counteracting international terrorism and its financing, as well as extremism, organized crime, drug trafficking, illegal distribution of products and technologies under international control, weapons of mass destruction, money laundering, and other risks and threats against the interests of the Republic of Bulgaria and its allies and partners; - protecting and affirming national historical and spiritual values and cultural heritage, including documents from the National Archival Fund; - acquiring information necessary for making strategic decisions to preserve and increase the well-being of citizens, society, and the state and for their development; - protecting the functions and security of Bulgarian military contingents participating in operations and missions abroad; - counteracting hybrid threats and other new forms of threats to national and allied security, including in cyberspace; - ensuring the safety of the higher state authorities.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "threaten",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The intelligence and security services carry out activities for: - uncovering, preventing, and counteracting covert attacks against national interests and actions that threaten or damage political, economic, and defense capabilities; - protecting national security and counteracting international terrorism and its financing, as well as extremism, organized crime, drug trafficking, illegal distribution of products and technologies under international control, weapons of mass destruction, money laundering, and other risks and threats against the interests of the Republic of Bulgaria and its allies and partners; - protecting and affirming national historical and spiritual values and cultural heritage, including documents from the National Archival Fund; - acquiring information necessary for making strategic decisions to preserve and increase the well-being of citizens, society, and the state and for their development; - protecting the functions and security of Bulgarian military contingents participating in operations and missions abroad; - counteracting hybrid threats and other new forms of threats to national and allied security, including in cyberspace; - ensuring the safety of the higher state authorities.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "implementation",
+      "action": "carry",
+      "actor_2": null,
+      "concept": "use",
+      "sentence": "The implementation of foreign and domestic security policies, defense policy, and other sectoral policies is carried out with the active use of the potential of intelligence and security services.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Council",
+      "action": "enhance",
+      "actor_2": "efficiency",
+      "concept": null,
+      "sentence": "The Council of Ministers enhances the efficiency of intelligence and security services by improving structures, personnel capacity, financing mechanisms, introducing modern technical and special means, and improving the social status of employees.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "state",
+      "action": "build",
+      "actor_2": "subsystem",
+      "concept": null,
+      "sentence": "The state builds a normatively and resource-secured subsystem of programs, institutions, and flexible organizational forms for training and qualification enhancement of employees in state institutions, as well as citizens and their organizations.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "institutions",
+      "action": "apply",
+      "actor_2": "forms",
+      "concept": null,
+      "sentence": "State institutions apply flexible forms for utilizing the professional capacity and experience of Bulgarian citizens after their release from state service in the national security field.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "state",
+      "action": "create",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The state creates and/or ensures effective functioning of specialized units in state higher education institutions and scientific organizations for training and qualification improvement of employees in national security and defense.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "system",
+      "action": "provide",
+      "actor_2": "preparation",
+      "concept": null,
+      "sentence": "The training and qualification system provides general and specialized preparation for supporting and developing the national security and defense sector.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Academy",
+      "action": "conduct",
+      "actor_2": "research",
+      "concept": null,
+      "sentence": "The Bulgarian Academy of Sciences, higher education institutions, other state educational and scientific structures, and civil society organizations conduct scientific research and activities to accumulate knowledge and experience and develop innovative solutions related to security and defense.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Council",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Security Council at the Council of Ministers, together with academic representatives, develops and proposes to the Council a National Research and Innovation Program in security and defense.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "control",
+      "action": "exercise",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Democratic control over the security system is exercised by the National Assembly and civil society organizations.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "authorities",
+      "action": "report",
+      "actor_2": null,
+      "concept": "Assembly",
+      "sentence": "Executive authorities report to the National Assembly and provide information to civil society in accordance with legal requirements.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Assembly",
+      "action": "exercise",
+      "actor_2": "control",
+      "concept": null,
+      "sentence": "The National Assembly exercises parliamentary control over the activities of the national security system.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Strategy",
+      "action": "use",
+      "actor_2": "approach",
+      "concept": null,
+      "sentence": "The updated National Security Strategy of the Republic of Bulgaria uses a comprehensive approach to security and defines national interests, as well as the tools and policies for their realization and protection in the context of a dynamically changing security environment, with new risks and threats.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Council",
+      "action": "make",
+      "actor_2": "decision",
+      "concept": null,
+      "sentence": "The Council of Ministers, upon the proposal of the Security Council, makes a decision to conduct a strategic review of national security and, if necessary, proposes to the National Assembly the updating of this strategy.",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -2,8 +2,6 @@ import json
 import re
 from pathlib import Path
 from config import CLEAN_DIR, RELATIONS_DIR
-
-# Import the existing schema loader
 from schema.schema_loader import load_relation_schema
 
 
@@ -14,6 +12,8 @@ def get_logger(name):
         def warning(self, msg): print(f"WARNING: {msg}")
 
         def error(self, msg): print(f"ERROR: {msg}")
+
+        def debug(self, msg): pass  # Добавен debug метод
 
     return SimpleLogger()
 
@@ -28,7 +28,7 @@ def extract_relations(text: str, relation_schema: dict) -> list:
         return []
 
     relations = []
-    logger.debug("Starting relations extraction...")
+    logger.info("Starting relations extraction...")  # Променено от debug на info
 
     for rel_type, info in relation_schema.items():
         examples = info.get("examples", [])

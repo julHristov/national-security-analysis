@@ -1,0 +1,1147 @@
+{
+  "file": "1_NS_Concept_1998_ENG.txt",
+  "total_scenarios": 142,
+  "context_sentiment": {
+    "positive_score": 0.0,
+    "negative_score": 0.0,
+    "neutral_score": 0.0
+  },
+  "scenarios": [
+    {
+      "actor_1": "Concept",
+      "action": "adopt",
+      "actor_2": "views",
+      "concept": null,
+      "sentence": "The National Security Concept of the Republic of Bulgaria represents formally adopted political views on protecting the Bulgarian citizens, society and state against external and internal threats of any nature, taking into account the available resources, and conforming to the level of guarantees which provide the global, Euro-Atlantic and European security system and steady development.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "provide",
+      "actor_2": "system",
+      "concept": null,
+      "sentence": "The National Security Concept of the Republic of Bulgaria represents formally adopted political views on protecting the Bulgarian citizens, society and state against external and internal threats of any nature, taking into account the available resources, and conforming to the level of guarantees which provide the global, Euro-Atlantic and European security system and steady development.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Concept",
+      "action": "define",
+      "actor_2": "goals",
+      "concept": "period",
+      "sentence": "2. The Concept defines the goals and objectives in the period of the Republic of Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "that",
+      "action": "threaten",
+      "actor_2": "security",
+      "concept": null,
+      "sentence": "s accession into the efficient collective system of EuroAtlantic and European security, and in view of the risk factors that currently threaten the security of this country.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "threat",
+      "action": "decrease",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "World-wide, the threat of a global nuclear conflict caused by the ideological opposition has decreased.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "mechanisms",
+      "action": "improve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "s mechanisms for crises management are being improved.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "danger",
+      "action": "decrease",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The danger of a direct military aggression against Bulgaria has considerably decreased.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "importance",
+      "action": "maintain",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Nevertheless, the importance of military and force factors in the international relations is maintained.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "security",
+      "action": "play",
+      "actor_2": null,
+      "concept": "markets",
+      "sentence": "s security is being played by the world economic, political, scientific and technological, environmental, and information processes as well as by the fierce competition for access to resources and infrastructures, to markets and modern technologies.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "society",
+      "action": "emerge",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "A global information society has emerged, a world economic integration is underway, which poses new challenges for Bulgaria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "pose",
+      "actor_2": "challenges",
+      "concept": null,
+      "sentence": "A global information society has emerged, a world economic integration is underway, which poses new challenges for Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "accession",
+      "action": "open",
+      "actor_2": "prospects",
+      "concept": null,
+      "sentence": "Bulgaria's accession into the international financial and commercial structures is opening new prospects for ensuring our security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "respect",
+      "action": "increase",
+      "actor_2": null,
+      "concept": "ones",
+      "sentence": "In Europe, the respect has been increased for European political and economic organisations as well as for the Euro-Atlantic military-political ones.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "make",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "This makes it very unlikely that unilateral decisions, including military ones, are imposed in regional or bilateral conflicts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "decisions",
+      "action": "impose",
+      "actor_2": null,
+      "concept": "conflicts",
+      "sentence": "This makes it very unlikely that unilateral decisions, including military ones, are imposed in regional or bilateral conflicts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Organisation",
+      "action": "dissolve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "After the Warsaw Treaty Organisation was dissolved and the block opposition was overcome, there had been a tendency to promote confidence and co-operation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "opposition",
+      "action": "overcome",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "After the Warsaw Treaty Organisation was dissolved and the block opposition was overcome, there had been a tendency to promote confidence and co-operation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "architecture",
+      "action": "gain",
+      "actor_2": "importance",
+      "concept": null,
+      "sentence": "The European security architecture has been gaining greater importance.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "differences",
+      "action": "deepen",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The economic and social differences on the continent have deepened along with the emergence of a new insecurity and new risks.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Conflicts",
+      "action": "come",
+      "actor_2": null,
+      "concept": "being",
+      "sentence": "Conflicts of ethnic, religious and social nature have come into being.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "transition",
+      "action": "represent",
+      "actor_2": "challenge",
+      "concept": null,
+      "sentence": "The contradictory transition in the states of Central and Eastern Europe represents a major challenge to their democratic institutions and to European structures.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Conflicts",
+      "action": "show",
+      "actor_2": "effectiveness",
+      "concept": null,
+      "sentence": "Conflicts in former Yugoslavia have shown the insufficient effectiveness to implement peace agreements only through the means and mediation of the existing European structures.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "zone",
+      "action": "characterise",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "This zone is characterised by social insecurity, decline in living standards and emergence of international criminal networks.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "some",
+      "action": "conflict",
+      "actor_2": null,
+      "concept": "other",
+      "sentence": "In South -Eastern Europe, various religious and ethnic entities co-exist, some of which conflicting between each other.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "increase",
+      "actor_2": "threats",
+      "concept": "security",
+      "sentence": "This sharply increases the regional threats to our national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "pace",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "deterioration",
+      "sentence": "The delayed pace of the democratic changes in the region leads to a deterioration of historically accumulated problems, and to an incapacity to settle them in line with the European democratic standards.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "states",
+      "action": "differ",
+      "actor_2": null,
+      "concept": "degree",
+      "sentence": "The states in this region differ considerably in the degree of ensuring their own security and membership in international alliances.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "extremism",
+      "action": "put",
+      "actor_2": "imprint",
+      "concept": "societies",
+      "sentence": "Regional and ethnic extremism put an imprint on local societies which lack strong democratic traditions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "lack",
+      "actor_2": "traditions",
+      "concept": null,
+      "sentence": "Regional and ethnic extremism put an imprint on local societies which lack strong democratic traditions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "This",
+      "action": "pose",
+      "actor_2": "risks",
+      "concept": "Bulgaria",
+      "sentence": "This poses serious risks to Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "country",
+      "action": "suffer",
+      "actor_2": "losses",
+      "concept": "isolation",
+      "sentence": "This country suffered immense losses due to its isolation as a consequence of the imposed trade, economic and financial bans on former Yugoslavia.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "bans",
+      "action": "create",
+      "actor_2": "conditions",
+      "concept": null,
+      "sentence": "These bans created conditions for the development of organised crime and corruption, and for a long-lasting decline of the Bulgarian sate institutions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "crime",
+      "action": "become",
+      "actor_2": null,
+      "concept": "wars",
+      "sentence": "Thus, second after the regional wars, crime has become a major threat.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "degree",
+      "action": "threaten",
+      "actor_2": "security",
+      "concept": null,
+      "sentence": "The high degree of lawlessness is constantly threatening the security of individual citizens, undermining the economic prosperity and legitimacy of state institutions in the region.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Balkans",
+      "action": "retain",
+      "actor_2": "position",
+      "concept": "changes",
+      "sentence": "Despite the fast technological changes, the Balkans have retained their important geo-political position.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "significance",
+      "action": "increase",
+      "actor_2": null,
+      "concept": "linking",
+      "sentence": "The significance of the region as a transport, infrastructure and energy cross-road is increasing with the future enlargement of the European Union and NATO as well as with the linking of Caucasus and Central Asian states to European markets.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "overcome",
+      "actor_2": "insecurity",
+      "concept": null,
+      "sentence": "Bulgaria now is overcoming the insecurity from the difficult economic situation of the country and the catastrophic decline in the living standards of the Bulgarian citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "interests",
+      "action": "deprive",
+      "actor_2": null,
+      "concept": "result",
+      "sentence": "As a result of the grave economic crises, the interests of the people have been significantly deprived as well as their rights to good way of life, employment, social and health insurance.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "fear",
+      "action": "neutralise",
+      "actor_2": "measures",
+      "concept": null,
+      "sentence": "fear for their lives, the fear of unpunished crimes against the individual, and the encroachment against private property, has been gradually neutralised Via legislative and administrative measures companies are alleviated from the tensions and hardships caused by blackmail and violence, by disloyal competition and corruption of the administration.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "companies",
+      "action": "alleviate",
+      "actor_2": null,
+      "concept": "tensions",
+      "sentence": "fear for their lives, the fear of unpunished crimes against the individual, and the encroachment against private property, has been gradually neutralised Via legislative and administrative measures companies are alleviated from the tensions and hardships caused by blackmail and violence, by disloyal competition and corruption of the administration.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "tradition",
+      "action": "establish",
+      "actor_2": null,
+      "concept": "society",
+      "sentence": "A tradition is being gradually established in the society to stand for the rights and freedoms of the individual.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "state",
+      "action": "place",
+      "actor_2": null,
+      "concept": "service",
+      "sentence": "The state is being placed in service of the people, and not the other way around - submitting the people to the state.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "structures",
+      "action": "gain",
+      "actor_2": "strength",
+      "concept": null,
+      "sentence": "The structures of the civil society are gaining strength.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Experience",
+      "action": "acquire",
+      "actor_2": null,
+      "concept": "functioning",
+      "sentence": "Experience is being acquired in democratic procedures for their functioning and development.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "stability",
+      "action": "consolidate",
+      "actor_2": null,
+      "concept": "ability",
+      "sentence": "The internal stability of the country will be consolidating along with the greater ability of the executive and judicial powers to protect the citizens, the civil society and the state against lawlessness.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "determine",
+      "actor_2": "success",
+      "concept": null,
+      "sentence": "This will determine the success of the transition to democracy and market economy.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "order",
+      "action": "prevent",
+      "actor_2": "crisis",
+      "concept": "rule",
+      "sentence": "Internal order and security will prevent a crisis in the rule of law in Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "transition",
+      "action": "block",
+      "actor_2": null,
+      "concept": "past",
+      "sentence": "For Bulgaria, the transition to democracy and market economy, to Euro-Atlantic and European integration, and thus towards the establishment of a new security and stability, was blocked in the past by an unwillingness and inability for radical reform which lead to serious political conflicts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "conflicts",
+      "sentence": "For Bulgaria, the transition to democracy and market economy, to Euro-Atlantic and European integration, and thus towards the establishment of a new security and stability, was blocked in the past by an unwillingness and inability for radical reform which lead to serious political conflicts.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "crises",
+      "action": "deteriorate",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Economic crises were deteriorated and reinforced by inter-institutional wars.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "renovation",
+      "action": "halt",
+      "actor_2": null,
+      "concept": "while",
+      "sentence": "As a result, the renovation and reforms of the country were halted for quite a while.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "cause",
+      "actor_2": "crisis",
+      "concept": null,
+      "sentence": "This caused a grave demographic crisis reinforced by an unprecedented high degree of immigration.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "length",
+      "action": "decrease",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The average length of life decreased, and birth-rate dropped sharply, which creates dangers for the future survival and protection of the nation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "rate",
+      "action": "drop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The average length of life decreased, and birth-rate dropped sharply, which creates dangers for the future survival and protection of the nation.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "create",
+      "actor_2": "dangers",
+      "concept": null,
+      "sentence": "The average length of life decreased, and birth-rate dropped sharply, which creates dangers for the future survival and protection of the nation.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "realities",
+      "action": "precondition",
+      "actor_2": "need",
+      "concept": null,
+      "sentence": "The new realities precondition the need of the country to join effective collective systems for security and economic development.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "opportunities",
+      "action": "emerge",
+      "actor_2": null,
+      "concept": "time",
+      "sentence": "At the same time, new opportunities are emerging, and the importance of Bulgaria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policies",
+      "action": "enhance",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "s own policies is enhanced in neutralising the adverse factors for the security of the country.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "have",
+      "actor_2": "potential",
+      "concept": null,
+      "sentence": "Bulgaria has the potential to be a significant security and stability factor in South -Eastern Europe.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "We",
+      "action": "speak",
+      "actor_2": null,
+      "concept": "security",
+      "sentence": "We can speak of national security when the major rights and liberties of the Bulgarian citizens are protected as well as the state borders, the territorial integrity and independence of the country, when there is not any danger of armed attack, violated change in the constitutional order, political dictate or economic compulsion for the state and the democratic functioning of the state and civilian institutions is guaranteed in result of which the society and the nation preserve and increase their prosperity and develop.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "rights",
+      "action": "protect",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "We can speak of national security when the major rights and liberties of the Bulgarian citizens are protected as well as the state borders, the territorial integrity and independence of the country, when there is not any danger of armed attack, violated change in the constitutional order, political dictate or economic compulsion for the state and the democratic functioning of the state and civilian institutions is guaranteed in result of which the society and the nation preserve and increase their prosperity and develop.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "compulsion",
+      "action": "guarantee",
+      "actor_2": null,
+      "concept": "result",
+      "sentence": "We can speak of national security when the major rights and liberties of the Bulgarian citizens are protected as well as the state borders, the territorial integrity and independence of the country, when there is not any danger of armed attack, violated change in the constitutional order, political dictate or economic compulsion for the state and the democratic functioning of the state and civilian institutions is guaranteed in result of which the society and the nation preserve and increase their prosperity and develop.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "society",
+      "action": "preserve",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "We can speak of national security when the major rights and liberties of the Bulgarian citizens are protected as well as the state borders, the territorial integrity and independence of the country, when there is not any danger of armed attack, violated change in the constitutional order, political dictate or economic compulsion for the state and the democratic functioning of the state and civilian institutions is guaranteed in result of which the society and the nation preserve and increase their prosperity and develop.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "citizens",
+      "action": "have",
+      "actor_2": "obligations",
+      "concept": null,
+      "sentence": "The Bulgarian citizens, society and state have obligations included in the Constitution and the laws of the country namely to be creators and guarantors of their security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "users",
+      "action": "violate",
+      "actor_2": "security",
+      "concept": "time",
+      "sentence": "At the same time they are mutually connected users of security and the violation of the security of any one of them violates the security of the rest.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "they",
+      "action": "constitute",
+      "actor_2": "structure",
+      "concept": null,
+      "sentence": "Together they constitute the unified security structure of Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "security",
+      "action": "guarantee",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The security is guaranteed when the country successfully realises the national interests, purposes and priorities and when necessary is in a position to defend them effectively from external and internal threats.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "realise",
+      "actor_2": "interests",
+      "concept": null,
+      "sentence": "The security is guaranteed when the country successfully realises the national interests, purposes and priorities and when necessary is in a position to defend them effectively from external and internal threats.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "level",
+      "action": "define",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The level of security is defined by the degrees of protection and effective realisation of the interests of Bulgarian citizens, society and state which jointly comprise the national interests.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "comprise",
+      "actor_2": "interests",
+      "concept": null,
+      "sentence": "The level of security is defined by the degrees of protection and effective realisation of the interests of Bulgarian citizens, society and state which jointly comprise the national interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "interests",
+      "action": "express",
+      "actor_2": null,
+      "concept": "guarantee",
+      "sentence": "The interests of the Bulgarian citizens are expressed in the real guarantee of the constitutional rights and liberties, the personal safety, increase in the quality and level of living, of the social and the health insurance.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "interests",
+      "action": "require",
+      "actor_2": "protection",
+      "concept": null,
+      "sentence": "The interests of the state require protection of the Constitution, the sovereignty and territorial integrity of the country, achievement of political and financial stability of the economic and social development, strict keeping of legal order, equality and mutually useful international co-operation.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "It",
+      "action": "define",
+      "actor_2": "purposes",
+      "concept": null,
+      "sentence": "It defines the major purposes and programmes for its development.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "solve",
+      "actor_2": "problems",
+      "concept": null,
+      "sentence": "The major pre-requisite for the realisation of the national interests is the preservation of the possibilities for Bulgaria to solve independently its internal, political, economic and social problems, and arrange its relations with other states and communities despite the intentions, positions and interests of third countries.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Security",
+      "action": "build",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The National Security is built by strictly keeping to the Constitution, the laws of the Republic of Bulgaria and the ratified by the National Assembly international agreements and conventions.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "draw",
+      "actor_2": null,
+      "concept": "accordance",
+      "sentence": "Bulgaria draws into accordance with the EU and NATO standards its legislation in the field of security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Republic",
+      "action": "have",
+      "actor_2": "claims",
+      "concept": null,
+      "sentence": "The Republic of Bulgaria does not have any territorial claims and does not recognise such.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "principle",
+      "action": "destroy",
+      "actor_2": "old",
+      "concept": null,
+      "sentence": "This principle destroys the old and does not create any new regional tensions.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "It",
+      "action": "confirm",
+      "actor_2": "Bulgaria",
+      "concept": "source",
+      "sentence": "It confirms Bulgaria as a source of security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Republic",
+      "action": "build",
+      "actor_2": "security",
+      "concept": "expense",
+      "sentence": "The Republic of Bulgaria does not build its security at the expense of other states or societies.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "The",
+      "action": "express",
+      "actor_2": null,
+      "concept": "membership",
+      "sentence": "The will expressed by it for NATO membership is with the purpose of guarantee of the security and is not aimed against third countries.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "one",
+      "action": "express",
+      "actor_2": "hostility",
+      "concept": null,
+      "sentence": "Today no one expresses openly hostility against Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "security",
+      "action": "guarantee",
+      "actor_2": null,
+      "concept": "security",
+      "sentence": "The security of Bulgaria is guaranteed by the world's and Euro - Atlantic structures for collective security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Security",
+      "action": "base",
+      "actor_2": null,
+      "concept": "Doctrine",
+      "sentence": "The National Security is based upon the defensive Military Doctrine which specifies the elaboration and the use of the armed forces.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "specify",
+      "actor_2": "elaboration",
+      "concept": null,
+      "sentence": "The National Security is based upon the defensive Military Doctrine which specifies the elaboration and the use of the armed forces.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "seek",
+      "actor_2": "security",
+      "concept": null,
+      "sentence": "Bulgaria seeks security on the Balkans and is against any military and political unions on the Balkans.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "bodies",
+      "action": "act",
+      "actor_2": null,
+      "concept": "base",
+      "sentence": "The Bulgarian intelligence and counter-intelligence bodies are acting on the base of special laws.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "They",
+      "action": "acquire",
+      "actor_2": "accumulation",
+      "concept": "means",
+      "sentence": "They are acquiring information with own means and through the international organisations for the military-political state of the countries in the region and the accumulation of such military potential which can threaten the national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "which",
+      "action": "threaten",
+      "actor_2": "security",
+      "concept": null,
+      "sentence": "They are acquiring information with own means and through the international organisations for the military-political state of the countries in the region and the accumulation of such military potential which can threaten the national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "bodies",
+      "action": "keep",
+      "actor_2": "laws",
+      "concept": null,
+      "sentence": "The specialised bodies are keeping the laws of the country and the international law by preserving the rights and liberties of the Bulgarian citizens.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "process",
+      "action": "have",
+      "actor_2": "influence",
+      "concept": null,
+      "sentence": "The process of integration into NATO and EU has its positive influence upon the security of Bulgaria.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "membership",
+      "action": "lead",
+      "actor_2": null,
+      "concept": "guarantee",
+      "sentence": "But only the full membership in them will lead to its complete guarantee.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "which",
+      "action": "correspond",
+      "actor_2": null,
+      "concept": "interests",
+      "sentence": "The national priority for Bulgaria is the membership in NATO and EU which corresponds to the long-term interests of the country.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "integration",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "progress",
+      "sentence": "The successful integration of Bulgaria into the Euro-Atlantic and European structures for security and development depends on the progress in the peace process in South-eastern Europe and is slowed down by the military conflicts and destabilisation of the neighbour countries.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "This",
+      "action": "presuppose",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "This presupposes that the country leads very active foreign policy for the creation of peace in the Balkans.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "country",
+      "action": "lead",
+      "actor_2": "policy",
+      "concept": null,
+      "sentence": "This presupposes that the country leads very active foreign policy for the creation of peace in the Balkans.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "security",
+      "action": "define",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "Its own security is defined by the degree to which Bulgaria generates security for the neighbour countries.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "generate",
+      "actor_2": "security",
+      "concept": "which",
+      "sentence": "Its own security is defined by the degree to which Bulgaria generates security for the neighbour countries.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "country",
+      "action": "help",
+      "actor_2": null,
+      "concept": "increase",
+      "sentence": "This is the reason why with its regional initiatives for the increase of the mutual confidence in the political-military field the country helps for the increase in the security and stability in the Balkans.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "policy",
+      "action": "distribute",
+      "actor_2": "resources",
+      "concept": null,
+      "sentence": "The policy of security distributes the national resources in such manner as to protect Bulgaria from the imposing of foreign political and economic will and to ensure its right for a sovereign choice in all aspects of domestic and foreign policy, the policy for security and defence.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "positions",
+      "action": "strengthen",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "It is necessary that the Bulgarian positions in the supra-national bodies and structures according to the Paris Charter for new Europe which are in a process of establishment are strengthened.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Bulgaria",
+      "action": "confirm",
+      "actor_2": null,
+      "concept": "partner",
+      "sentence": "In this way Bulgaria is confirmed as an active and full-fledged partner in the global political and economic processes.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "influence",
+      "action": "enhance",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The positive influence of the economic factor for the national security is enhanced by the strategic participation of the Bulgarian economy into the world, European and regional co-operation, when it is integrated into the unified European economic sphere.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "it",
+      "action": "integrate",
+      "actor_2": null,
+      "concept": "sphere",
+      "sentence": "The positive influence of the economic factor for the national security is enhanced by the strategic participation of the Bulgarian economy into the world, European and regional co-operation, when it is integrated into the unified European economic sphere.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "significance",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "capability",
+      "sentence": "The significance of the Bulgarian economy for national security and stable development depends on the capability for development of the own infrastructure as an important connecting link between the European countries and the new markets in the Black Sea- Caucasian region, the Middle East and Central Asia.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "security",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "which",
+      "sentence": "Through the Bulgarian territory pass the strategic inter-continental transport, communications and energy corridors from which depends the national and European security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "transformation",
+      "action": "depend",
+      "actor_2": "importance",
+      "concept": "establishment",
+      "sentence": "From the establishment of these channels, and the transformation of the country into a Balkan communications and energy centre will depend the importance of Bulgaria for the world and European security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "establishment",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "ensuring",
+      "sentence": "The establishment of Bulgaria as an important component of the European and regional security depends on the re-establishment of the lost positions of Bulgarian producers and merchants on traditional markets and especially on the strategic market of the Commonwealth of Independent States, on the development of joint activities and co-operation with the leading European manufacturers, as well as the ensuring of the energy independence of the country.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "factor",
+      "action": "function",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The information factor for the guarantee of the national security is functioning by keeping the constitutional rights and liberties of the citizens in the field of preserving and exchange of reliable information through the development of modern Bulgarian communications and media.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "preservation",
+      "action": "require",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The preservation of national security requires that the use of information should not be permitted for purposes of manipulation of public consciousness.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "use",
+      "action": "permit",
+      "actor_2": null,
+      "concept": "purposes",
+      "sentence": "The preservation of national security requires that the use of information should not be permitted for purposes of manipulation of public consciousness.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "effectiveness",
+      "action": "depend",
+      "actor_2": null,
+      "concept": "resources",
+      "sentence": "Their effectiveness depends on the resources provided to them, the force and stability of the laws, upon which they are basing their activity, the motivation of the human factor and the availability and precise character of the information concerning the threats and dangers.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "they",
+      "action": "base",
+      "actor_2": "activity",
+      "concept": "which",
+      "sentence": "Their effectiveness depends on the resources provided to them, the force and stability of the laws, upon which they are basing their activity, the motivation of the human factor and the availability and precise character of the information concerning the threats and dangers.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Doctrine",
+      "action": "develop",
+      "actor_2": null,
+      "concept": "basis",
+      "sentence": "The Military Doctrine of Bulgaria is developed on the basis of this Concept and the Law on Defense and Armed Forces of the Republic of Bulgaria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Program",
+      "action": "do",
+      "actor_2": null,
+      "concept": "basis",
+      "sentence": "On its basis the Program for the Reform of the Bulgarian Armed Forces and their modernization are done.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "guarantees",
+      "action": "strengthen",
+      "actor_2": null,
+      "concept": "realization",
+      "sentence": "The guarantees for the security of the country are strengthened through realization of initiatives for increase of the military political confidence in the region and through the success of the PfP Program for integration in the Euro-Atlantic structures.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "organs",
+      "action": "prevent",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The security organs prevent and neutralize the threats and risks in close co-operation with the investigation and prosecution and together with the international organizations for combating the criminality.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "organs",
+      "action": "establish",
+      "actor_2": "respect",
+      "concept": null,
+      "sentence": "The juridical organs establish respect for the laws in the country by imposing effective and just sanctions to those violating them.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "guarantee",
+      "action": "require",
+      "actor_2": "development",
+      "concept": null,
+      "sentence": "The long term guarantee of the national interests requires development of the legislation and its harmonization with the norms of the European Union.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "functioning",
+      "action": "presuppose",
+      "actor_2": "reform",
+      "concept": "basis",
+      "sentence": "The effective functioning of the juridical organs presupposes reform and modernization of the juridical organs on the basis of a unified strategy for combating the criminality and corruption.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "interests",
+      "action": "require",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The national interests require achieving a national consensus on the measures, politics and resources that should be allocated for this combat.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "that",
+      "action": "allocate",
+      "actor_2": null,
+      "concept": "combat",
+      "sentence": "The national interests require achieving a national consensus on the measures, politics and resources that should be allocated for this combat.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "protection",
+      "action": "provide",
+      "actor_2": "atmosphere",
+      "concept": null,
+      "sentence": "The environmental factor - protection, restoration and reproduction of the Bulgarian nature should provide a favorable living atmosphere for the Bulgarian citizens and society.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "interests",
+      "action": "realize",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The national interests are realized when there is an optimum balance between the protection of nature and waters and the needs to use the natural resources for a steady development of Bulgaria.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "security",
+      "action": "concern",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "In compliance with the Constitution of the Republic of Bulgaria the President, the National Assembly and the Council of Ministers have responsibilities as far as the national security is concerned.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "President",
+      "action": "chair",
+      "actor_2": "Council",
+      "concept": null,
+      "sentence": "The President chairs the National Security Advisory Council, the status of which is defined by Law.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "status",
+      "action": "define",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The President chairs the National Security Advisory Council, the status of which is defined by Law.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Assembly",
+      "action": "carry",
+      "actor_2": "building",
+      "concept": null,
+      "sentence": "The National Assembly carries out the legislative building of the national security system.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "it",
+      "action": "control",
+      "actor_2": "power",
+      "concept": "Committee",
+      "sentence": "Through its Permanent National Security Committee it controls the executive power and the special security organs as far as the compliance with the law and effectiveness of the actions are concerned as well as the efficient use of the resources, makes an assessment of the political risks.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "it",
+      "action": "control",
+      "actor_2": "power",
+      "concept": "Committee",
+      "sentence": "Through its permanent Committee on Foreign Integration Policy it controls the executive power in the field of the foreign aspects of the national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Council",
+      "action": "point",
+      "actor_2": "risks",
+      "concept": "pursue",
+      "sentence": "The Council of Ministers on the basis of this concept and in the pursue of the responsibilities in the area of security imposed by the Constitution of the Republic of Bulgaria through a report to the National Assembly annually points out the risks for the country and makes an assessment of the level of protection of national interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Council",
+      "action": "allocate",
+      "actor_2": "resources",
+      "concept": "increase",
+      "sentence": "The Council of Ministers allocates the resources of the country for increase of the level of protection of the national interests.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "ministries",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The ministries and institutions within the framework of their competence develop and realize strategies and programs for the most efficient use of the political, military and economic resources of the country.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Council",
+      "action": "assist",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Council of Ministers when implementing its functions is assisted by a Security Council comprising of : Prime Minister, Minister of Foreign Affairs, Minister of Defense, Minister of Interior, their deputies, the Chief of GS of BA, and the Chiefs of the intelligence and counter-intelligence organs.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "President",
+      "action": "participate",
+      "actor_2": null,
+      "concept": "work",
+      "sentence": "The President personally or through his representatives can always participate in the work of the Council and at any time can require information from it.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "Council",
+      "action": "make",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Security Council: o summarizes, analyzes and makes conclusions from the whole current information about the risks the national security faces and makes a professional assessment and prognosis for the dynamics of the threats; o plans concrete measures for the neutralization of the threats and proposes solutions in a crisis; o coordinates the plans of the special organs for acquiring of information and provides position on resources division; o develops and proposes to the Council of Ministers an annual report on the national security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "o",
+      "action": "plan",
+      "actor_2": "measures",
+      "concept": null,
+      "sentence": "The Security Council: o summarizes, analyzes and makes conclusions from the whole current information about the risks the national security faces and makes a professional assessment and prognosis for the dynamics of the threats; o plans concrete measures for the neutralization of the threats and proposes solutions in a crisis; o coordinates the plans of the special organs for acquiring of information and provides position on resources division; o develops and proposes to the Council of Ministers an annual report on the national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "o",
+      "action": "coordinate",
+      "actor_2": "plans",
+      "concept": null,
+      "sentence": "The Security Council: o summarizes, analyzes and makes conclusions from the whole current information about the risks the national security faces and makes a professional assessment and prognosis for the dynamics of the threats; o plans concrete measures for the neutralization of the threats and proposes solutions in a crisis; o coordinates the plans of the special organs for acquiring of information and provides position on resources division; o develops and proposes to the Council of Ministers an annual report on the national security.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "o",
+      "action": "develop",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The Security Council: o summarizes, analyzes and makes conclusions from the whole current information about the risks the national security faces and makes a professional assessment and prognosis for the dynamics of the threats; o plans concrete measures for the neutralization of the threats and proposes solutions in a crisis; o coordinates the plans of the special organs for acquiring of information and provides position on resources division; o develops and proposes to the Council of Ministers an annual report on the national security.",
+      "confidence": 0.8
+    },
+    {
+      "actor_1": "President",
+      "action": "request",
+      "actor_2": "information",
+      "concept": null,
+      "sentence": "The President, the Chairman of the National Assembly and the Prime Minister having in mind the main goals and tasks referring to the security of the country request information in the Security Council.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "Council",
+      "action": "provide",
+      "actor_2": "information",
+      "concept": null,
+      "sentence": "The Security Council provides an information equal in volume and contents to the President, the Chairman of the National Assembly, and the Prime-Minister.",
+      "confidence": 1.0
+    },
+    {
+      "actor_1": "control",
+      "action": "guarantee",
+      "actor_2": null,
+      "concept": null,
+      "sentence": "The civilian control upon the state policy for security and the bodies performing it is guaranteed by the Constitution and the laws of the country.",
+      "confidence": 0.8
+    }
+  ]
+}

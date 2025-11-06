@@ -3,7 +3,14 @@ import json
 from pathlib import Path
 from collections import defaultdict
 import argparse
+from config import POSITIVE_TERMS_PATH, NEGATIVE_TERMS_PATH, NEUTRAL_TERMS_PATH
 
+class ScenarioExtractor:
+    def __init__(self):
+        # ...
+        self.positive_terms = self.load_terms(POSITIVE_TERMS_PATH)
+        self.negative_terms = self.load_terms(NEGATIVE_TERMS_PATH)
+        self.neutral_terms = self.load_terms(NEUTRAL_TERMS_PATH)
 # Import from your config
 from config import *
 
@@ -114,7 +121,7 @@ class ScenarioExtractor:
                 "action": verb_token.lemma_,
                 "actor_2": target,
                 "concept": concept,
-                "sentence": sentence.text,
+                "sentence": verb_token.sent.text,  # FIXED: verb_token.sent.text вместо sentence.text
                 "confidence": self.calculate_confidence(verb_token, actor, target)
             }
 
